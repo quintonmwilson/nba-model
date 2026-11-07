@@ -1,16 +1,16 @@
 {
- "fetched_at": "2026-11-07T12:00:45-05:00",
- "official_report": "2026-11-07T12:00:00-05:00",
+ "fetched_at": "2026-11-07T15:08:47-05:00",
+ "official_report": "2026-11-07T15:00:00-05:00",
  "players": [
   {
    "team": "ATL",
    "player_id": "4585618",
    "name": "Keshon Gilbert",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Knee",
-   "return_date": "2026-11-07",
-   "comment": "Gilbert is out for Friday's game against the Wizards due to left knee inflammation.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-09",
+   "comment": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Knee"
   },
@@ -18,13 +18,25 @@
    "team": "ATL",
    "player_id": "4873201",
    "name": "Asa Newell",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Toe",
-   "return_date": "2026-11-07",
-   "comment": "Newell (toe) is out for Friday's game against Washington.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-09",
+   "comment": "Newell (toe)  is out for Saturday's game against the Nets.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Toe"
+  },
+  {
+   "team": "ATL",
+   "player_id": "3146557",
+   "name": "Jock Landale",
+   "espn_status": "Out",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-09",
+   "comment": "Landale (hip) has been ruled out for Saturday's game against the Nets.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Torso Hip"
   },
   {
    "team": "ATL",
@@ -33,22 +45,10 @@
    "espn_status": "Out",
    "detail": "Left Leg Ankle",
    "return_date": "2026-11-07",
-   "comment": "Johnson (ankle) is out for Friday's game against the Wizards.",
+   "comment": "Johnson (ankle) is probable for Saturday's game against Brooklyn.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Ankle"
-  },
-  {
-   "team": "ATL",
-   "player_id": "3146557",
-   "name": "Jock Landale",
-   "espn_status": "Out",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-07",
-   "comment": "Landale (hip) has been ruled out for Friday's game against the Wizards.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Torso Hip"
   },
   {
    "team": "ATL",
@@ -73,18 +73,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "BOS",
-   "player_id": "4433188",
-   "name": "Devin Carter",
-   "espn_status": "Out",
-   "detail": "Other Illness",
-   "return_date": "2026-11-06",
-   "comment": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Other Illness"
   },
   {
    "team": "BKN",
@@ -123,16 +111,16 @@
    "reason": "Right Leg Leg"
   },
   {
-   "team": "BKN",
-   "player_id": "5105626",
-   "name": "Tyler Bilodeau",
-   "espn_status": "Out",
-   "detail": "Right Arm Shoulder",
-   "return_date": "2026-11-07",
-   "comment": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana.",
-   "status": "Out",
+   "team": "CHA",
+   "player_id": "4433249",
+   "name": "Moussa Diabate",
+   "espn_status": "Day-To-Day",
+   "detail": "Leg Quadriceps",
+   "return_date": "2026-11-09",
+   "comment": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
+   "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Right Arm Shoulder"
+   "reason": "Leg Quadriceps"
   },
   {
    "team": "CHA",
@@ -157,18 +145,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Leg Thigh"
-  },
-  {
-   "team": "CHA",
-   "player_id": "4433249",
-   "name": "Moussa Diabate",
-   "espn_status": "Out",
-   "detail": "Leg Quadriceps",
-   "return_date": "2026-11-09",
-   "comment": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Leg Quadriceps"
   },
   {
    "team": "CHA",
@@ -232,13 +208,25 @@
   },
   {
    "team": "CLE",
+   "player_id": "4683747",
+   "name": "Jaylon Tyson",
+   "espn_status": "Out",
+   "detail": "Right Leg Ankle",
+   "return_date": "2026-11-09",
+   "comment": "Tyson (ankle) is out for Saturday's game against the Knicks.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Ankle"
+  },
+  {
+   "team": "CLE",
    "player_id": "4066757",
    "name": "Sam Merrill",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Arm Elbow",
-   "return_date": "2026-11-07",
-   "comment": "Merrill (elbow) won't return to Friday's game against the 76ers, Dave McMenamin of ESPN.com reports.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-09",
+   "comment": "Merrill (elbow) is out for Saturday's game against the Knicks.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Arm Elbow"
   },
@@ -246,25 +234,13 @@
    "team": "CLE",
    "player_id": "4066328",
    "name": "Jarrett Allen",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Knee",
-   "return_date": "2026-11-07",
-   "comment": "Allen (knee) is out for Friday's game against the 76ers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Knee"
-  },
-  {
-   "team": "CLE",
-   "player_id": "4683747",
-   "name": "Jaylon Tyson",
    "espn_status": "Out",
-   "detail": "Right Leg Ankle",
-   "return_date": "2026-11-07",
-   "comment": "Tyson (ankle) is out for Friday's game against the 76ers.",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-11-09",
+   "comment": "Allen (knee) is out for Saturday's game against the Knicks",
    "status": "Out",
    "official_status": null,
-   "reason": "Right Leg Ankle"
+   "reason": "Right Leg Knee"
   },
   {
    "team": "DAL",
@@ -556,6 +532,18 @@
   },
   {
    "team": "MEM",
+   "player_id": "5105462",
+   "name": "Richie Saunders",
+   "espn_status": "Out",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-12-01",
+   "comment": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Knee"
+  },
+  {
+   "team": "MEM",
    "player_id": "4432810",
    "name": "Isaiah Stewart",
    "espn_status": "Out",
@@ -577,18 +565,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "MIL",
-   "player_id": "4697268",
-   "name": "Kam Jones",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Ankle",
-   "return_date": "2026-11-06",
-   "comment": "Jones (ankle/two-way player) is out for Friday's game against Toronto.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Ankle"
   },
   {
    "team": "MIN",
@@ -666,11 +642,11 @@
    "team": "OKC",
    "player_id": "4432823",
    "name": "Jaylin Williams",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Torso Back",
-   "return_date": "2026-11-07",
-   "comment": "Williams (back) has been ruled out for Friday's game against the Grizzlies.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-10",
+   "comment": "Williams (back) has been ruled out for Saturday's game against the Wizards, Brandon Rahbar of DailyThunder.com reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
   },
@@ -721,6 +697,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Leg"
+  },
+  {
+   "team": "ORL",
+   "player_id": "4066320",
+   "name": "Desmond Bane",
+   "espn_status": "Out",
+   "detail": "Other Illness",
+   "return_date": "2026-11-10",
+   "comment": "Bane (illness) has been ruled out for Saturday's game against the Warriors.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Other Illness"
   },
   {
    "team": "ORL",
@@ -786,11 +774,11 @@
    "team": "PHI",
    "player_id": "5105637",
    "name": "Adem Bona",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Torso Back",
    "return_date": "2026-11-08",
    "comment": "Bona (neck) is listed as out for Friday's game versus the Cavaliers.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Torso Back"
   },
@@ -966,11 +954,11 @@
    "team": "TOR",
    "player_id": "4433134",
    "name": "Scottie Barnes",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Left Groin Groin",
    "return_date": "2026-11-09",
    "comment": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Groin Groin"
   },
@@ -978,11 +966,11 @@
    "team": "TOR",
    "player_id": "4395724",
    "name": "Immanuel Quickley",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Hamstring",
    "return_date": "2026-11-09",
    "comment": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Hamstring"
   },
@@ -1035,25 +1023,13 @@
    "reason": "Right Leg Knee"
   },
   {
-   "team": "UTAH",
-   "player_id": "4433268",
-   "name": "Trey Alexander",
-   "espn_status": "Out",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-06",
-   "comment": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Knee"
-  },
-  {
    "team": "WSH",
    "player_id": "6583",
    "name": "Anthony Davis",
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Ankle",
    "return_date": "2026-11-07",
-   "comment": "Davis (ankle) is listed as out for Friday's game against the Hawks.",
+   "comment": "Davis (ankle) is questionable for Saturday's game against the Thunder.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Ankle"
@@ -2426,6 +2402,11 @@
     "player_id": "4595400",
     "name": "Olivier-Maxence Prosper",
     "position": "F"
+   },
+   {
+    "player_id": "5105462",
+    "name": "Richie Saunders",
+    "position": "G"
    },
    {
     "player_id": "4781746",

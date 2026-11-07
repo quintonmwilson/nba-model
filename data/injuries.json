@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-07T15:08:47-05:00",
- "official_report": "2026-11-07T15:00:00-05:00",
+ "fetched_at": "2026-11-07T18:15:51-05:00",
+ "official_report": "2026-11-07T18:15:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -37,18 +37,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Torso Hip"
-  },
-  {
-   "team": "ATL",
-   "player_id": "4701230",
-   "name": "Jalen Johnson",
-   "espn_status": "Out",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-07",
-   "comment": "Johnson (ankle) is probable for Saturday's game against Brooklyn.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
   },
   {
    "team": "ATL",
@@ -172,15 +160,27 @@
   },
   {
    "team": "CHI",
-   "player_id": "4066650",
-   "name": "Zach Collins",
+   "player_id": "5105555",
+   "name": "Tobe Awaka",
    "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
+   "detail": "Left Leg Knee",
    "return_date": "2026-11-08",
-   "comment": "Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network.",
+   "comment": "Awaka (knee) is questionable for Sundays' game against the 76ers.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Other Illness"
+   "reason": "Left Leg Knee"
+  },
+  {
+   "team": "CHI",
+   "player_id": "4397189",
+   "name": "Jalen Smith",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Arm Finger",
+   "return_date": "2026-11-08",
+   "comment": "Smith (finger) is probable for Sunday's game against Philadelphia.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Arm Finger"
   },
   {
    "team": "CHI",
@@ -189,22 +189,22 @@
    "espn_status": "Out",
    "detail": "Left Leg Hamstring",
    "return_date": "2026-11-08",
-   "comment": "Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic.",
+   "comment": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
   },
   {
    "team": "CHI",
-   "player_id": "4397189",
-   "name": "Jalen Smith",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Arm Hand",
-   "return_date": "2026-11-08",
-   "comment": "Smith (hand) won't return to Wednesday's game against the Knicks.",
-   "status": "Day-To-Day",
+   "player_id": "4066650",
+   "name": "Zach Collins",
+   "espn_status": "Out",
+   "detail": "Other Illness",
+   "return_date": "2026-11-11",
+   "comment": "Collins (illness) is out for Sunday's game against Philadelphia.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Left Arm Hand"
+   "reason": "Other Illness"
   },
   {
    "team": "CLE",
@@ -280,18 +280,6 @@
   },
   {
    "team": "DEN",
-   "player_id": "3978",
-   "name": "DeMar DeRozan",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-07",
-   "comment": "DeRozan (back) is probable for Saturday's game against the Pacers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Torso Back"
-  },
-  {
-   "team": "DEN",
    "player_id": "4432181",
    "name": "Julian Strawther",
    "espn_status": "Out",
@@ -308,11 +296,35 @@
    "name": "Isaiah Joe",
    "espn_status": "Out",
    "detail": "Right Torso Hip",
-   "return_date": "2026-11-08",
-   "comment": "Joe (hip) has been ruled out for Wednesday's game against Philadelphia.",
+   "return_date": "2026-11-09",
+   "comment": "Joe (hip) has been ruled out for Sunday's game against the Lakers.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Torso Hip"
+  },
+  {
+   "team": "DET",
+   "player_id": "5107818",
+   "name": "Isaac Jones",
+   "espn_status": "Day-To-Day",
+   "detail": "Not Injury Related",
+   "return_date": "2026-11-08",
+   "comment": "Jones posted 18 points (6-14 FG, 0-3 3Pt, 3-3 FT), 10 rebounds, an assist, two steals and two blocks in Wednesday's 100-88 Summer League loss to the Suns.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Not Injury Related"
+  },
+  {
+   "team": "DET",
+   "player_id": "4397449",
+   "name": "Elijah Harkless",
+   "espn_status": "Day-To-Day",
+   "detail": "Not Injury Related",
+   "return_date": "2026-11-08",
+   "comment": "Harkless signed a two-way contract with the Pistons, Keith Smith of Spotrac.com reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Not Injury Related"
   },
   {
    "team": "DET",
@@ -367,12 +379,12 @@
    "player_id": "4997536",
    "name": "Gui Santos",
    "espn_status": "Day-To-Day",
-   "detail": "Leg Knee",
+   "detail": "Left Leg Knee",
    "return_date": "2026-11-07",
    "comment": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Leg Knee"
+   "reason": "Left Leg Knee"
   },
   {
    "team": "GS",
@@ -424,27 +436,15 @@
   },
   {
    "team": "IND",
-   "player_id": "2530530",
-   "name": "T.J. McConnell",
+   "player_id": "4396993",
+   "name": "Tyrese Haliburton",
    "espn_status": "Out",
-   "detail": "Right Leg Hamstring",
-   "return_date": "2026-11-07",
-   "comment": "McConnell (hamstring) is questionable for Saturday's game against Denver.",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-11-13",
+   "comment": "Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports.",
    "status": "Out",
    "official_status": null,
-   "reason": "Right Leg Hamstring"
-  },
-  {
-   "team": "IND",
-   "player_id": "3133603",
-   "name": "Kelly Oubre Jr.",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Calf",
-   "return_date": "2026-11-07",
-   "comment": "Oubre (calf) is questionable for Saturday's game against Denver.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Calf"
+   "reason": "Left Leg Hamstring"
   },
   {
    "team": "IND",
@@ -469,18 +469,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Knee"
-  },
-  {
-   "team": "IND",
-   "player_id": "4396993",
-   "name": "Tyrese Haliburton",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-13",
-   "comment": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
   },
   {
    "team": "LAC",
@@ -529,6 +517,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Arm Shoulder"
+  },
+  {
+   "team": "LAL",
+   "player_id": "3945274",
+   "name": "Luka Doncic",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Back",
+   "return_date": "2026-11-08",
+   "comment": "Doncic (back) is questionable for Sunday's game against the Pistons.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Back"
   },
   {
    "team": "MEM",
@@ -583,12 +583,12 @@
    "player_id": "4432847",
    "name": "Terrence Shannon Jr.",
    "espn_status": "Out",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-08",
+   "detail": null,
+   "return_date": null,
    "comment": "Shannon (hip) has been ruled out for Friday's game against New Orleans.",
    "status": "Out",
    "official_status": null,
-   "reason": "Left Torso Hip"
+   "reason": null
   },
   {
    "team": "MIN",
@@ -776,7 +776,7 @@
    "name": "Adem Bona",
    "espn_status": "Day-To-Day",
    "detail": "Torso Back",
-   "return_date": "2026-11-08",
+   "return_date": "2026-11-10",
    "comment": "Bona (neck) is listed as out for Friday's game versus the Cavaliers.",
    "status": "Day-To-Day",
    "official_status": null,
@@ -841,6 +841,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Arm Shoulder"
+  },
+  {
+   "team": "POR",
+   "player_id": "4066211",
+   "name": "Robert Williams III",
+   "espn_status": "Out",
+   "detail": "Other Rest",
+   "return_date": "2026-11-10",
+   "comment": "Williams (rest) won't play in Saturday's game against the Spurs.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Other Rest"
   },
   {
    "team": "POR",

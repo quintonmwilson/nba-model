@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-08T12:00:53-05:00",
+ "fetched_at": "2026-11-08T12:01:36-05:00",
  "games": [
   {
    "home_team": "CHI",
@@ -120,9 +120,9 @@
    "book": "betrivers",
    "ml_home": -190,
    "ml_away": 155,
-   "spread_home": -5.0,
-   "spread_home_price": -114,
-   "spread_away_price": -107,
+   "spread_home": -5.5,
+   "spread_home_price": -107,
+   "spread_away_price": -114,
    "total_line": 230.5,
    "total_over_price": -112,
    "total_under_price": -109

@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-07T18:15:51-05:00",
- "official_report": "2026-11-07T18:15:00-05:00",
+ "fetched_at": "2026-11-07T20:31:07-05:00",
+ "official_report": "2026-11-07T20:30:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -61,18 +61,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "BKN",
-   "player_id": "4712896",
-   "name": "Noah Clowney",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
-   "return_date": "2026-11-07",
-   "comment": "Clowney is listed as questionable for Saturday's game against the Hawks due to an illness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Other Illness"
   },
   {
    "team": "BKN",
@@ -340,30 +328,6 @@
   },
   {
    "team": "GS",
-   "player_id": "6589",
-   "name": "Draymond Green",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Elbow",
-   "return_date": "2026-11-07",
-   "comment": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Elbow"
-  },
-  {
-   "team": "GS",
-   "player_id": "3134903",
-   "name": "Gary Payton II",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Calf",
-   "return_date": "2026-11-07",
-   "comment": "Payton is questionable to play Saturday against the Magic due to right calf tightness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Calf"
-  },
-  {
-   "team": "GS",
    "player_id": "3102531",
    "name": "Kristaps Porzingis",
    "espn_status": "Out",
@@ -373,18 +337,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
-  },
-  {
-   "team": "GS",
-   "player_id": "4997536",
-   "name": "Gui Santos",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-07",
-   "comment": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Knee"
   },
   {
    "team": "GS",
@@ -476,11 +428,23 @@
    "name": "Brandon Ingram",
    "espn_status": "Out",
    "detail": "Right Leg Achilles",
-   "return_date": "2026-11-08",
-   "comment": "Ingram (Achilles) has progressed to full contact basketball activities, per NBA writer Justin Russo.",
+   "return_date": "2026-11-10",
+   "comment": "Ingram (Achilles) won't play in Sunday's game against New Orleans, Law Murray of The Athletic reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Achilles"
+  },
+  {
+   "team": "LAC",
+   "player_id": "4432170",
+   "name": "Isaiah Jackson",
+   "espn_status": "Out",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-10",
+   "comment": "Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The Athletic reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Groin Groin"
   },
   {
    "team": "LAC",
@@ -573,22 +537,10 @@
    "espn_status": "Day-To-Day",
    "detail": "Fracture",
    "return_date": "2026-11-08",
-   "comment": "Beringer was ruled out for the second half of Friday's game against the Pelicans due to a nasal fracture, Dane Moore of 'The Dane Moore NBA Podcast' reports.",
+   "comment": "Beringer (nose) is questionable for Sunday's game against the Jazz.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Fracture"
-  },
-  {
-   "team": "MIN",
-   "player_id": "4432847",
-   "name": "Terrence Shannon Jr.",
-   "espn_status": "Out",
-   "detail": null,
-   "return_date": null,
-   "comment": "Shannon (hip) has been ruled out for Friday's game against New Orleans.",
-   "status": "Out",
-   "official_status": null,
-   "reason": null
   },
   {
    "team": "MIN",
@@ -772,13 +724,25 @@
   },
   {
    "team": "PHI",
+   "player_id": "3059318",
+   "name": "Joel Embiid",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Foot",
+   "return_date": "2026-11-08",
+   "comment": "Embiid (foot) is probable for Sunday's game against the Bulls.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Foot"
+  },
+  {
+   "team": "PHI",
    "player_id": "5105637",
    "name": "Adem Bona",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Torso Back",
    "return_date": "2026-11-10",
-   "comment": "Bona (neck) is listed as out for Friday's game versus the Cavaliers.",
-   "status": "Day-To-Day",
+   "comment": "Bona (back) is out for Sunday's game in Chicago.",
+   "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
   },
@@ -808,25 +772,13 @@
   },
   {
    "team": "PHX",
-   "player_id": "5105977",
-   "name": "Rasheer Fleming",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-07",
-   "comment": "Fleming (ankle) is questionable for Saturday's game against the Rockets.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
-  },
-  {
-   "team": "PHX",
    "player_id": "4278402",
    "name": "Jordan Goodwin",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Calf",
-   "return_date": "2026-11-07",
-   "comment": "Goodwin (calf) is doubtful for Saturday's game against the Rockets.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-09",
+   "comment": "Goodwin (calf) is out for Saturday's game against the Rockets.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
   },
@@ -1012,6 +964,18 @@
   },
   {
    "team": "UTAH",
+   "player_id": "4066336",
+   "name": "Lauri Markkanen",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Wrist",
+   "return_date": "2026-11-08",
+   "comment": "Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Wrist"
+  },
+  {
+   "team": "UTAH",
    "player_id": "3102530",
    "name": "Jusuf Nurkic",
    "espn_status": "Out",
@@ -1038,11 +1002,11 @@
    "team": "WSH",
    "player_id": "6583",
    "name": "Anthony Davis",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Leg Ankle",
-   "return_date": "2026-11-07",
-   "comment": "Davis (ankle) is questionable for Saturday's game against the Thunder.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-09",
+   "comment": "Davis (ankle) won't play Saturday against the Thunder.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Leg Ankle"
   },
@@ -1553,11 +1517,6 @@
     "position": "C"
    },
    {
-    "player_id": "4431734",
-    "name": "Tristan Enaruna",
-    "position": "F"
-   },
-   {
     "player_id": "3992",
     "name": "James Harden",
     "position": "G"
@@ -1571,6 +1530,11 @@
     "player_id": "4066757",
     "name": "Sam Merrill",
     "position": "G"
+   },
+   {
+    "player_id": "5177362",
+    "name": "Riley Minix",
+    "position": "F"
    },
    {
     "player_id": "3908809",
@@ -2050,6 +2014,11 @@
    {
     "player_id": "4684740",
     "name": "Amen Thompson",
+    "position": "G"
+   },
+   {
+    "player_id": "5105837",
+    "name": "Bruce Thornton",
     "position": "G"
    },
    {

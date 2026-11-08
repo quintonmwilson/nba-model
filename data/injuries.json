@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-08T12:01:30-05:00",
- "official_report": "2026-11-08T12:00:00-05:00",
+ "fetched_at": "2026-11-08T15:24:08-05:00",
+ "official_report": "2026-11-08T15:15:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -61,6 +61,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "BOS",
+   "player_id": "4351852",
+   "name": "Mitchell Robinson",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-08",
+   "comment": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
   },
   {
    "team": "BKN",
@@ -162,49 +174,13 @@
    "team": "CHI",
    "player_id": "2595516",
    "name": "Norman Powell",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Shoulder",
-   "return_date": "2026-11-08",
-   "comment": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Shoulder"
-  },
-  {
-   "team": "CHI",
-   "player_id": "5105555",
-   "name": "Tobe Awaka",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-08",
-   "comment": "Awaka (knee) is questionable for Sundays' game against the 76ers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Knee"
-  },
-  {
-   "team": "CHI",
-   "player_id": "4397189",
-   "name": "Jalen Smith",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Arm Finger",
-   "return_date": "2026-11-08",
-   "comment": "Smith (finger) is probable for Sunday's game against Philadelphia.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Arm Finger"
-  },
-  {
-   "team": "CHI",
-   "player_id": "4278067",
-   "name": "Nic Claxton",
    "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-08",
-   "comment": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers.",
+   "detail": "Right Arm Shoulder",
+   "return_date": "2026-11-11",
+   "comment": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of PhillyVoice.com reports.",
    "status": "Out",
    "official_status": null,
-   "reason": "Left Leg Hamstring"
+   "reason": "Right Arm Shoulder"
   },
   {
    "team": "CHI",
@@ -486,11 +462,11 @@
    "team": "LAL",
    "player_id": "3945274",
    "name": "Luka Doncic",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Torso Back",
-   "return_date": "2026-11-08",
-   "comment": "Doncic (back) is questionable for Sunday's game against the Pistons.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-09",
+   "comment": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor Lane of LakersNation.com reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
   },
@@ -531,16 +507,16 @@
    "reason": "Torso Back"
   },
   {
-   "team": "MIN",
-   "player_id": "5279133",
-   "name": "Joan Beringer",
+   "team": "MIL",
+   "player_id": "4277843",
+   "name": "Gary Trent Jr.",
    "espn_status": "Day-To-Day",
-   "detail": "Fracture",
+   "detail": "Other Illness",
    "return_date": "2026-11-08",
-   "comment": "Beringer (nose) is questionable for Sunday's game against the Jazz.",
+   "comment": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Fracture"
+   "reason": "Other Illness"
   },
   {
    "team": "MIN",
@@ -724,18 +700,6 @@
   },
   {
    "team": "PHI",
-   "player_id": "3059318",
-   "name": "Joel Embiid",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-08",
-   "comment": "Embiid (foot) is probable for Sunday's game against the Bulls.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Foot"
-  },
-  {
-   "team": "PHI",
    "player_id": "5105637",
    "name": "Adem Bona",
    "espn_status": "Out",
@@ -904,27 +868,27 @@
   },
   {
    "team": "TOR",
-   "player_id": "4433134",
-   "name": "Scottie Barnes",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Groin Groin",
-   "return_date": "2026-11-09",
-   "comment": "Barnes (adductor) is listed as out for Friday's game against Milwaukee, Michael Grange of Sportsnet.ca reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Groin Groin"
-  },
-  {
-   "team": "TOR",
    "player_id": "4395724",
    "name": "Immanuel Quickley",
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Hamstring",
    "return_date": "2026-11-09",
-   "comment": "Quickley (hamstring) won't play Friday in Milwaukee, Michael Grange of Sportsnet.ca reports.",
+   "comment": "Quickley (hamstring) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "TOR",
+   "player_id": "4433134",
+   "name": "Scottie Barnes",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-09",
+   "comment": "Barnes (adductor) was a limited participant in Sunday's practice and will be listed as questionable for Monday's game against the Grizzlies, Michael Grange of Sportsnet.ca reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Groin Groin"
   },
   {
    "team": "TOR",

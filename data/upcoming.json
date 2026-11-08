@@ -7,10 +7,10 @@
   "neutral": false,
   "home_team": "CHI",
   "away_team": "PHI",
-  "total_line": 238.5,
+  "total_line": 237.5,
   "spread_home": 9.5,
-  "ml_home": 312.0,
-  "ml_away": -395.0,
+  "ml_home": 329.0,
+  "ml_away": -420.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -21,10 +21,10 @@
   "neutral": false,
   "home_team": "DET",
   "away_team": "LAL",
-  "total_line": 222.5,
+  "total_line": 221.5,
   "spread_home": -4.5,
-  "ml_home": -185.0,
-  "ml_away": 155.0,
+  "ml_home": -191.0,
+  "ml_away": 160.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -35,10 +35,10 @@
   "neutral": false,
   "home_team": "MIN",
   "away_team": "UTAH",
-  "total_line": 223.5,
-  "spread_home": -11.5,
-  "ml_home": -597.0,
-  "ml_away": 443.0,
+  "total_line": 222.5,
+  "spread_home": -12.5,
+  "ml_home": -650.0,
+  "ml_away": 470.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -49,10 +49,10 @@
   "neutral": false,
   "home_team": "DAL",
   "away_team": "BKN",
-  "total_line": 219.5,
-  "spread_home": -9.5,
-  "ml_home": -423.0,
-  "ml_away": 331.0,
+  "total_line": 222.5,
+  "spread_home": -7.5,
+  "ml_home": -324.0,
+  "ml_away": 261.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -64,9 +64,9 @@
   "home_team": "MIL",
   "away_team": "BOS",
   "total_line": 221.5,
-  "spread_home": 12.5,
-  "ml_home": 553.0,
-  "ml_away": -790.0,
+  "spread_home": 13.5,
+  "ml_home": 530.0,
+  "ml_away": -750.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -77,10 +77,10 @@
   "neutral": false,
   "home_team": "LAC",
   "away_team": "NO",
-  "total_line": 228.5,
+  "total_line": 226.5,
   "spread_home": 1.5,
-  "ml_home": 100.0,
-  "ml_away": -119.0,
+  "ml_home": 103.0,
+  "ml_away": -121.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -91,10 +91,10 @@
   "neutral": false,
   "home_team": "SAC",
   "away_team": "MIA",
-  "total_line": 238.5,
-  "spread_home": 8.5,
-  "ml_home": 281.0,
-  "ml_away": -352.0,
+  "total_line": 237.5,
+  "spread_home": 10.5,
+  "ml_home": 346.0,
+  "ml_away": -446.0,
   "odds_provider": "DraftKings"
  },
  {

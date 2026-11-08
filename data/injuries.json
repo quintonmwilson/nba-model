@@ -1,30 +1,30 @@
 {
- "fetched_at": "2026-11-08T07:00:47-05:00",
- "official_report": "2026-11-08T07:00:00-05:00",
+ "fetched_at": "2026-11-08T12:00:47-05:00",
+ "official_report": "2026-11-08T12:00:00-05:00",
  "players": [
-  {
-   "team": "ATL",
-   "player_id": "4585618",
-   "name": "Keshon Gilbert",
-   "espn_status": "Out",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-09",
-   "comment": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Knee"
-  },
   {
    "team": "ATL",
    "player_id": "4873201",
    "name": "Asa Newell",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Left Leg Toe",
    "return_date": "2026-11-09",
    "comment": "Newell (toe)  is out for Saturday's game against the Nets.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Toe"
+  },
+  {
+   "team": "ATL",
+   "player_id": "4585618",
+   "name": "Keshon Gilbert",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-09",
+   "comment": "Gilbert (knee) is out for Saturday's game against Brooklyn.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Knee"
   },
   {
    "team": "ATL",
@@ -61,6 +61,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "BKN",
+   "player_id": "4702670",
+   "name": "Grant Nelson",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-10",
+   "comment": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Knee"
   },
   {
    "team": "BKN",
@@ -148,6 +160,18 @@
   },
   {
    "team": "CHI",
+   "player_id": "2595516",
+   "name": "Norman Powell",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Shoulder",
+   "return_date": "2026-11-08",
+   "comment": "Powell (shoulder) is listed as questionable for Sunday's game against the 76ers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Shoulder"
+  },
+  {
+   "team": "CHI",
    "player_id": "5105555",
    "name": "Tobe Awaka",
    "espn_status": "Day-To-Day",
@@ -196,6 +220,30 @@
   },
   {
    "team": "CLE",
+   "player_id": "4066757",
+   "name": "Sam Merrill",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Elbow",
+   "return_date": "2026-11-09",
+   "comment": "Merrill (elbow) is out for Saturday's game against the Knicks.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Elbow"
+  },
+  {
+   "team": "CLE",
+   "player_id": "4066328",
+   "name": "Jarrett Allen",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-11-09",
+   "comment": "Allen (knee) is out for Saturday's game against the Knicks",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Knee"
+  },
+  {
+   "team": "CLE",
    "player_id": "4683747",
    "name": "Jaylon Tyson",
    "espn_status": "Out",
@@ -205,30 +253,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Ankle"
-  },
-  {
-   "team": "CLE",
-   "player_id": "4066757",
-   "name": "Sam Merrill",
-   "espn_status": "Out",
-   "detail": "Right Arm Elbow",
-   "return_date": "2026-11-09",
-   "comment": "Merrill (elbow) is out for Saturday's game against the Knicks.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Arm Elbow"
-  },
-  {
-   "team": "CLE",
-   "player_id": "4066328",
-   "name": "Jarrett Allen",
-   "espn_status": "Out",
-   "detail": "Right Leg Knee",
-   "return_date": "2026-11-09",
-   "comment": "Allen (knee) is out for Saturday's game against the Knicks",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Knee"
   },
   {
    "team": "DAL",
@@ -280,6 +304,18 @@
   },
   {
    "team": "DET",
+   "player_id": "4433621",
+   "name": "Jalen Duren",
+   "espn_status": "Out",
+   "detail": "Right Leg Hamstring",
+   "return_date": "2026-11-24",
+   "comment": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "DET",
    "player_id": "4395702",
    "name": "Isaiah Joe",
    "espn_status": "Out",
@@ -289,42 +325,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Torso Hip"
-  },
-  {
-   "team": "DET",
-   "player_id": "5107818",
-   "name": "Isaac Jones",
-   "espn_status": "Day-To-Day",
-   "detail": "Not Injury Related",
-   "return_date": "2026-11-08",
-   "comment": "Jones posted 18 points (6-14 FG, 0-3 3Pt, 3-3 FT), 10 rebounds, an assist, two steals and two blocks in Wednesday's 100-88 Summer League loss to the Suns.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Not Injury Related"
-  },
-  {
-   "team": "DET",
-   "player_id": "4397449",
-   "name": "Elijah Harkless",
-   "espn_status": "Day-To-Day",
-   "detail": "Not Injury Related",
-   "return_date": "2026-11-08",
-   "comment": "Harkless signed a two-way contract with the Pistons, Keith Smith of Spotrac.com reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Not Injury Related"
-  },
-  {
-   "team": "DET",
-   "player_id": "4433621",
-   "name": "Jalen Duren",
-   "espn_status": "Out",
-   "detail": "Right Leg Hamstring",
-   "return_date": "2026-11-09",
-   "comment": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Hamstring"
   },
   {
    "team": "GS",
@@ -582,11 +582,11 @@
    "team": "NY",
    "player_id": "3062679",
    "name": "Josh Hart",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Leg Ankle",
    "return_date": "2026-11-10",
    "comment": "Hart is out for Saturday's game against the Cavaliers due to right ankle soreness.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Leg Ankle"
   },
@@ -654,11 +654,11 @@
    "team": "ORL",
    "player_id": "4066320",
    "name": "Desmond Bane",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Other Illness",
    "return_date": "2026-11-10",
    "comment": "Bane (illness) has been ruled out for Saturday's game against the Warriors.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -796,6 +796,18 @@
   },
   {
    "team": "POR",
+   "player_id": "4066211",
+   "name": "Robert Williams III",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Rest",
+   "return_date": "2026-11-10",
+   "comment": "Williams (rest) won't play in Saturday's game against the Spurs.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Rest"
+  },
+  {
+   "team": "POR",
    "player_id": "4279888",
    "name": "Ja Morant",
    "espn_status": "Out",
@@ -805,18 +817,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "POR",
-   "player_id": "4066211",
-   "name": "Robert Williams III",
-   "espn_status": "Out",
-   "detail": "Other Rest",
-   "return_date": "2026-11-10",
-   "comment": "Williams (rest) won't play in Saturday's game against the Spurs.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Other Rest"
   },
   {
    "team": "POR",
@@ -952,6 +952,18 @@
   },
   {
    "team": "UTAH",
+   "player_id": "4433627",
+   "name": "Keyonte George",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-08",
+   "comment": "George (illness) has been downgraded to questionable for Sunday's game against Minnesota.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
+  },
+  {
+   "team": "UTAH",
    "player_id": "4066336",
    "name": "Lauri Markkanen",
    "espn_status": "Day-To-Day",
@@ -988,27 +1000,27 @@
   },
   {
    "team": "WSH",
-   "player_id": "4278129",
-   "name": "Deandre Ayton",
-   "espn_status": "Out",
-   "detail": "Not Specified Leg Leg",
-   "return_date": "2026-11-09",
-   "comment": "Ayton won't return to Saturday's game against the Thunder due to a lower leg injury.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Not Specified Leg Leg"
-  },
-  {
-   "team": "WSH",
    "player_id": "6583",
    "name": "Anthony Davis",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Ankle",
    "return_date": "2026-11-09",
    "comment": "Davis (ankle) won't play Saturday against the Thunder.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Ankle"
+  },
+  {
+   "team": "WSH",
+   "player_id": "4278129",
+   "name": "Deandre Ayton",
+   "espn_status": "Day-To-Day",
+   "detail": "Not Specified Leg Leg",
+   "return_date": "2026-11-09",
+   "comment": "Ayton won't return to Saturday's game against the Thunder due to a lower leg injury.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Not Specified Leg Leg"
   },
   {
    "team": "WSH",

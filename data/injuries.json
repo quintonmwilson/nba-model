@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-07T20:31:07-05:00",
- "official_report": "2026-11-07T20:30:00-05:00",
+ "fetched_at": "2026-11-08T07:00:47-05:00",
+ "official_report": "2026-11-08T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -64,15 +64,15 @@
   },
   {
    "team": "BKN",
-   "player_id": "4432194",
-   "name": "Day'Ron Sharpe",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Undisclosed",
-   "return_date": "2026-11-04",
-   "comment": "Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers.",
-   "status": "Day-To-Day",
+   "player_id": "5101761",
+   "name": "Mikel Brown Jr.",
+   "espn_status": "Out",
+   "detail": "Other Rest",
+   "return_date": "2026-11-11",
+   "comment": "Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists and one steal over 25 minutes in Saturday's 124-121 loss to Atlanta, won't play in Sunday's game against Dallas, Erik Slater of ClutchPoints.com reports.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Other Undisclosed"
+   "reason": "Other Rest"
   },
   {
    "team": "BKN",
@@ -452,7 +452,7 @@
    "name": "Yanic Konan Niederhauser",
    "espn_status": "Out",
    "detail": "Right Leg Foot",
-   "return_date": "2026-11-08",
+   "return_date": "2026-11-10",
    "comment": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday.",
    "status": "Out",
    "official_status": null,
@@ -796,6 +796,18 @@
   },
   {
    "team": "POR",
+   "player_id": "4279888",
+   "name": "Ja Morant",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-12-01",
+   "comment": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "POR",
    "player_id": "4066211",
    "name": "Robert Williams III",
    "espn_status": "Out",
@@ -820,18 +832,6 @@
   },
   {
    "team": "POR",
-   "player_id": "4279888",
-   "name": "Ja Morant",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-12-01",
-   "comment": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "POR",
    "player_id": "4914336",
    "name": "Shaedon Sharpe",
    "espn_status": "Out",
@@ -844,15 +844,15 @@
   },
   {
    "team": "SAC",
-   "player_id": "4065732",
-   "name": "De'Andre Hunter",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
+   "player_id": "4594327",
+   "name": "Keegan Murray",
+   "espn_status": "Out",
+   "detail": "Left Leg Ankle",
    "return_date": "2026-11-08",
-   "comment": "Hunter (illness) is listed as out for Friday's game against San Antonio.",
-   "status": "Day-To-Day",
+   "comment": "Murray (ankle) is questionable for Sunday's game against the Heat.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Other Illness"
+   "reason": "Left Leg Ankle"
   },
   {
    "team": "SAC",
@@ -865,18 +865,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "SAC",
-   "player_id": "4594327",
-   "name": "Keegan Murray",
-   "espn_status": "Out",
-   "detail": "Leg Ankle",
-   "return_date": "2026-11-10",
-   "comment": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Leg Ankle"
   },
   {
    "team": "SAC",
@@ -997,6 +985,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "WSH",
+   "player_id": "4278129",
+   "name": "Deandre Ayton",
+   "espn_status": "Out",
+   "detail": "Not Specified Leg Leg",
+   "return_date": "2026-11-09",
+   "comment": "Ayton won't return to Saturday's game against the Thunder due to a lower leg injury.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Not Specified Leg Leg"
   },
   {
    "team": "WSH",

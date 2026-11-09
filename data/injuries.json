@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-08T18:15:41-05:00",
- "official_report": "2026-11-08T18:15:00-05:00",
+ "fetched_at": "2026-11-08T20:46:57-05:00",
+ "official_report": "2026-11-08T20:45:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -61,18 +61,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "BOS",
-   "player_id": "4351852",
-   "name": "Mitchell Robinson",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
-   "return_date": "2026-11-08",
-   "comment": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Other Illness"
   },
   {
    "team": "BKN",
@@ -376,6 +364,18 @@
   },
   {
    "team": "GS",
+   "player_id": "4997536",
+   "name": "Gui Santos",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-09",
+   "comment": "Santos (knee) is listed as probable for Monday's game against New Orleans.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Knee"
+  },
+  {
+   "team": "GS",
    "player_id": "3102531",
    "name": "Kristaps Porzingis",
    "espn_status": "Out",
@@ -433,6 +433,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Calf"
+  },
+  {
+   "team": "IND",
+   "player_id": "2530530",
+   "name": "T.J. McConnell",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Hamstring",
+   "return_date": "2026-11-09",
+   "comment": "McConnell is questionable for Monday's game against the Mavericks due to a right hamstring strain.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Hamstring"
   },
   {
    "team": "IND",
@@ -532,6 +544,18 @@
   },
   {
    "team": "LAL",
+   "player_id": "4397014",
+   "name": "Quentin Grimes",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Undisclosed",
+   "return_date": "2026-11-08",
+   "comment": "Grimes went back to the locker room during Sunday's game against the Pistons, Dave McMenamin of ESPN.com reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Undisclosed"
+  },
+  {
+   "team": "LAL",
    "player_id": "3945274",
    "name": "Luka Doncic",
    "espn_status": "Out",
@@ -582,11 +606,11 @@
    "team": "MIL",
    "player_id": "4277843",
    "name": "Gary Trent Jr.",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-08",
-   "comment": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-10",
+   "comment": "Trent (illness) won't play in Sunday's game versus the Celtics.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -811,12 +835,12 @@
    "player_id": "4278402",
    "name": "Jordan Goodwin",
    "espn_status": "Out",
-   "detail": "Left Leg Calf",
+   "detail": "Right Leg Calf",
    "return_date": "2026-11-09",
-   "comment": "Goodwin (calf) is out for Saturday's game against the Rockets.",
+   "comment": "Goodwin (calf) is questionable for Monday's game against the Spurs.",
    "status": "Out",
    "official_status": null,
-   "reason": "Left Leg Calf"
+   "reason": "Right Leg Calf"
   },
   {
    "team": "PHX",
@@ -882,11 +906,11 @@
    "team": "SAC",
    "player_id": "3155942",
    "name": "Domantas Sabonis",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Knee",
-   "return_date": "2026-11-08",
-   "comment": "Sabonis has been downgraded to questionable for Sunday's game against Miami due to left knee soreness.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-10",
+   "comment": "Sabonis (knee) is out for Sunday's game against the Heat.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Knee"
   },
@@ -920,11 +944,23 @@
    "name": "Tobias Harris",
    "espn_status": "Out",
    "detail": "Left Leg Calf",
-   "return_date": "2026-11-09",
-   "comment": "Harris (calf) is listed as out for Saturday's game against Minnesota.",
+   "return_date": "2026-11-11",
+   "comment": "Harris (calf) is listed as out for Monday's game against Phoenix.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
+  },
+  {
+   "team": "SA",
+   "player_id": "4395630",
+   "name": "Devin Vassell",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-09",
+   "comment": "Vassell is questionable for Monday's game against the Suns due to left adductor tightness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Groin Groin"
   },
   {
    "team": "SA",
@@ -988,25 +1024,13 @@
   },
   {
    "team": "UTAH",
-   "player_id": "4433627",
-   "name": "Keyonte George",
-   "espn_status": "Day-To-Day",
-   "detail": null,
-   "return_date": null,
-   "comment": "George (illness) has been downgraded to questionable for Sunday's game against Minnesota.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": null
-  },
-  {
-   "team": "UTAH",
    "player_id": "4066336",
    "name": "Lauri Markkanen",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Arm Wrist",
-   "return_date": "2026-11-08",
-   "comment": "Markkanen is questionable for Sunday's game against the Timberwolves due to a right wrist sprain.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-10",
+   "comment": "Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The Salt Lake Tribune reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Arm Wrist"
   },

@@ -644,7 +644,12 @@
    ],
    "picks": [
     "2H Over 104.5"
-   ]
+   ],
+   "final": {
+    "home": 116.0,
+    "away": 121.0
+   },
+   "act_2h": 128.0
   },
   "401909947": {
    "game_id": "401909947",
@@ -712,10 +717,65 @@
    ],
    "picks": [
     "MIN 2H -7.5"
-   ]
+   ],
+   "final": {
+    "home": 115.0,
+    "away": 100.0
+   },
+   "act_2h": 107.0
+  },
+  "401909948": {
+   "game_id": "401909948",
+   "date": "2026-11-08",
+   "start_utc": "2026-11-09T00:30Z",
+   "home": "DAL",
+   "away": "BKN",
+   "priced_at": "2026-11-08T21:52:45-05:00",
+   "late": true,
+   "pre_source": "prediction log",
+   "h1_home": 66.0,
+   "h1_away": 46.0,
+   "pre_2h": 113.34397515022097,
+   "pre_2hm": 7.641145599576511,
+   "mu_2h": 112.8040364313086,
+   "sd_2h": 14.017461435217353,
+   "mu_2hm": 6.325363268894564,
+   "sd_2hm": 11.007032163489438,
+   "p_home_win": 0.991738317020841,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "BKN 46 \u2013 66 DAL",
+   "markets": [],
+   "picks": []
+  },
+  "401909949": {
+   "game_id": "401909949",
+   "date": "2026-11-08",
+   "start_utc": "2026-11-09T01:00Z",
+   "home": "MIL",
+   "away": "BOS",
+   "priced_at": "2026-11-08T21:52:45-05:00",
+   "late": true,
+   "pre_source": "prediction log",
+   "h1_home": 45.0,
+   "h1_away": 58.0,
+   "pre_2h": 115.48600047948415,
+   "pre_2hm": 0.7955581896381716,
+   "mu_2h": 114.6054531767264,
+   "sd_2h": 14.017461435217353,
+   "mu_2hm": -0.3166520043558081,
+   "sd_2hm": 11.007032163489438,
+   "p_home_win": 0.11492368264354018,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "BOS 58 \u2013 45 MIL",
+   "markets": [],
+   "picks": []
   }
  },
- "model_through": "2026-11-07",
+ "model_through": "2026-11-08",
  "halftime_fitted": true,
- "updated_at": "2026-11-08T20:09:01-05:00"
+ "updated_at": "2026-11-08T21:52:45-05:00"
 }

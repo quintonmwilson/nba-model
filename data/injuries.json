@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-08T20:46:57-05:00",
- "official_report": "2026-11-08T20:45:00-05:00",
+ "fetched_at": "2026-11-09T07:00:48-05:00",
+ "official_report": "2026-11-09T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -364,6 +364,18 @@
   },
   {
    "team": "GS",
+   "player_id": "4897262",
+   "name": "Will Richard",
+   "espn_status": "Out",
+   "detail": "Left Arm Thumb",
+   "return_date": "2026-11-11",
+   "comment": "Richard is out for Monday's game against the Pelicans due to a left thumb UCL tear.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Arm Thumb"
+  },
+  {
+   "team": "GS",
    "player_id": "4997536",
    "name": "Gui Santos",
    "espn_status": "Day-To-Day",
@@ -547,12 +559,12 @@
    "player_id": "4397014",
    "name": "Quentin Grimes",
    "espn_status": "Day-To-Day",
-   "detail": "Other Undisclosed",
-   "return_date": "2026-11-08",
-   "comment": "Grimes went back to the locker room during Sunday's game against the Pistons, Dave McMenamin of ESPN.com reports.",
+   "detail": "Arm Finger",
+   "return_date": "2026-11-09",
+   "comment": "Grimes (finger) did not return to Sunday's game against the Pistons.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Other Undisclosed"
+   "reason": "Arm Finger"
   },
   {
    "team": "LAL",
@@ -584,7 +596,7 @@
    "name": "Isaiah Stewart",
    "espn_status": "Out",
    "detail": "Right Leg Knee",
-   "return_date": "2026-11-09",
+   "return_date": "2026-11-11",
    "comment": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
    "status": "Out",
    "official_status": null,
@@ -1021,6 +1033,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Knee"
+  },
+  {
+   "team": "UTAH",
+   "player_id": "4433627",
+   "name": "Keyonte George",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Ankle",
+   "return_date": "2026-11-10",
+   "comment": "George will not return to Sunday's game against the Timberwolves due to a right ankle injury.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Ankle"
   },
   {
    "team": "UTAH",
@@ -2974,11 +2998,6 @@
    {
     "player_id": "5241364",
     "name": "Bennett Stirtz",
-    "position": "G"
-   },
-   {
-    "player_id": "4433159",
-    "name": "Dalen Terry",
     "position": "G"
    },
    {

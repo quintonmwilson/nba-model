@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-10T07:00:51-05:00",
- "official_report": "2026-11-10T07:00:00-05:00",
+ "fetched_at": "2026-11-10T12:00:49-05:00",
+ "official_report": "2026-11-10T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -724,6 +724,18 @@
   },
   {
    "team": "ORL",
+   "player_id": "4702382",
+   "name": "Tristan da Silva",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Calf",
+   "return_date": "2026-11-10",
+   "comment": "Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Calf"
+  },
+  {
+   "team": "ORL",
    "player_id": "4432165",
    "name": "Jalen Suggs",
    "espn_status": "Out",
@@ -740,7 +752,7 @@
    "name": "Jonathan Isaac",
    "espn_status": "Out",
    "detail": "Left Leg Knee",
-   "return_date": "2026-11-11",
+   "return_date": "2026-11-16",
    "comment": "Isaac (knee) is out for Tuesday's game against Sacramento.",
    "status": "Out",
    "official_status": null,

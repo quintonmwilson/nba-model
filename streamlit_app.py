@@ -7,12 +7,16 @@ No raw data, no API calls.  Run locally:  streamlit run streamlit_app.py
 """
 
 import json
+import os
+import shutil
+import tempfile
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import numpy as np
 import pandas as pd
+import requests
 import streamlit as st
 
 from nba_availability import player_impacts
@@ -20,13 +24,50 @@ from nba_model import TRAVEL_SHOW, Predictor, load_artifact
 from nba_picks import MAX_GAME_EXPOSURE, game_lines_args, halftime_rows, market_rows, price, size_together
 
 ROOT = Path(__file__).parent
-ART_PATH = ROOT / "model" / "model_artifact.json"
-LOG_PATH = ROOT / "model" / "prediction_log.csv"
-PICKS_PATH = ROOT / "model" / "picks.csv"
-LIVE_PATH = ROOT / "model" / "live.json"
-HT_LOG_PATH = ROOT / "model" / "halftime_log.csv"
-LIVE_PICKS_PATH = ROOT / "model" / "live_picks.csv"
+LOCAL_MODEL_DIR = ROOT / "model"
+# Streamlit Cloud doesn't reliably pull data-only commits from the Action, so the deployed app
+# fetches model/ straight from GitHub. Local runs: set NBA_MODEL_SOURCE=local to read your own files.
+RAW_BASE = "https://raw.githubusercontent.com/quintonmwilson/nba-model/main/model/"
+MODEL_FILES = ["model_artifact.json", "prediction_log.csv", "picks.csv", "live.json",
+               "halftime_log.csv", "live_picks.csv"]
+SYNC_TTL = 120          # seconds between GitHub checks (raw.githubusercontent.com itself caches ~5 min)
+USE_REMOTE = os.environ.get("NBA_MODEL_SOURCE", "github").lower() != "local"
+MODEL_DIR = Path(tempfile.gettempdir()) / "nba_model_synced" if USE_REMOTE else LOCAL_MODEL_DIR
+
+
+@st.cache_data(ttl=SYNC_TTL, show_spinner=False)
+def sync_model_files() -> str:
+    """Copy the latest model/ files from GitHub into MODEL_DIR. A file is rewritten only when its
+    bytes change, so its mtime (which keys every cache below) moves only on real updates."""
+    MODEL_DIR.mkdir(parents=True, exist_ok=True)
+    stamp = int(datetime.now().timestamp() // 60)
+    for name in MODEL_FILES:
+        dest = MODEL_DIR / name
+        if not dest.exists() and (LOCAL_MODEL_DIR / name).exists():      # seed from the deployed copy
+            shutil.copyfile(LOCAL_MODEL_DIR / name, dest)
+        try:
+            r = requests.get(RAW_BASE + name, params={"t": stamp}, timeout=10)
+        except requests.RequestException:
+            continue                                                       # keep the last good copy
+        if r.status_code != 200 or not r.content:
+            continue
+        if dest.exists() and dest.read_bytes() == r.content:
+            continue
+        tmp = dest.with_suffix(dest.suffix + ".tmp")
+        tmp.write_bytes(r.content)
+        tmp.replace(dest)                                                  # atomic: readers never see half a file
+    return datetime.now(ET).strftime("%I:%M %p ET")
+
+
 ET = ZoneInfo("America/New_York")
+if USE_REMOTE:
+    sync_model_files()
+ART_PATH = MODEL_DIR / "model_artifact.json"
+LOG_PATH = MODEL_DIR / "prediction_log.csv"
+PICKS_PATH = MODEL_DIR / "picks.csv"
+LIVE_PATH = MODEL_DIR / "live.json"
+HT_LOG_PATH = MODEL_DIR / "halftime_log.csv"
+LIVE_PICKS_PATH = MODEL_DIR / "live_picks.csv"
 CUSTOM = "Custom matchup"
 EARLY_GP = 10
 MARKETS = ["Spread", "Moneyline", "Total", "Team Total", "1H Total", "2H Total", "Live 2H Total", "Live 2H Spread"]

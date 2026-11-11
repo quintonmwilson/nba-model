@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-10T18:15:46-05:00",
- "official_report": "2026-11-10T18:15:00-05:00",
+ "fetched_at": "2026-11-11T07:00:44-05:00",
+ "official_report": "2026-11-11T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -436,6 +436,18 @@
   },
   {
    "team": "LAC",
+   "player_id": "4845363",
+   "name": "Cam Christie",
+   "espn_status": "Out",
+   "detail": "Leg Ankle",
+   "return_date": "2026-11-13",
+   "comment": "Christie (ankle) is listed as out for Tuesday's game against Phoenix.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Leg Ankle"
+  },
+  {
+   "team": "LAC",
    "player_id": "5108024",
    "name": "Yanic Konan Niederhauser",
    "espn_status": "Out",
@@ -457,18 +469,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Achilles"
-  },
-  {
-   "team": "LAC",
-   "player_id": "4845363",
-   "name": "Cam Christie",
-   "espn_status": "Day-To-Day",
-   "detail": "Leg Ankle",
-   "return_date": "2026-11-10",
-   "comment": "Christie is questionable for Tuesday's game against the Suns due to a right ankle sprain, Ohm Youngmisuk of ESPN.com reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Leg Ankle"
   },
   {
    "team": "LAC",
@@ -508,24 +508,12 @@
   },
   {
    "team": "MEM",
-   "player_id": "4593016",
-   "name": "Quinten Post",
-   "espn_status": "Out",
-   "detail": "Head Head",
-   "return_date": "2026-11-13",
-   "comment": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Head Head"
-  },
-  {
-   "team": "MEM",
    "player_id": "4432810",
    "name": "Isaiah Stewart",
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Knee",
    "return_date": "2026-11-11",
-   "comment": "Stewart (knee) has been ruled out for Monday's game against Toronto.",
+   "comment": "Stewart (knee) is listed as questionable for Wednesday's game versus the Nuggets.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Knee"
@@ -537,10 +525,22 @@
    "espn_status": "Out",
    "detail": "Torso Back",
    "return_date": "2026-11-21",
-   "comment": "Pippen (back) won't play in Monday's game versus the Raptors.",
+   "comment": "Pippen (back) remains out for Wednesday's game against Denver, Michael Wallace of the Grizzlies' official site reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
+  },
+  {
+   "team": "MEM",
+   "player_id": "4593016",
+   "name": "Quinten Post",
+   "espn_status": "Out",
+   "detail": "Head Head",
+   "return_date": "2026-11-13",
+   "comment": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Head Head"
   },
   {
    "team": "MEM",
@@ -555,38 +555,14 @@
    "reason": "Right Leg Knee"
   },
   {
-   "team": "MIA",
-   "player_id": "3032977",
-   "name": "Giannis Antetokounmpo",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Wrist",
-   "return_date": "2026-11-10",
-   "comment": "Antetokounmpo is probable for Tuesday's game against the Jazz due to a right wrist sprain.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Wrist"
-  },
-  {
-   "team": "MIL",
-   "player_id": "5105623",
-   "name": "Kel'el Ware",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-10",
-   "comment": "Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
-  },
-  {
    "team": "MIL",
    "player_id": "4395725",
    "name": "Tyler Herro",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Leg Knee",
-   "return_date": "2026-11-10",
-   "comment": "Herro (contusion) is listed as questionable for Tuesday's game against the Knicks.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-11",
+   "comment": "Herro (knee) is listed as out for Tuesday's game against New York.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
   },
@@ -726,11 +702,11 @@
    "team": "ORL",
    "player_id": "4702382",
    "name": "Tristan da Silva",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Calf",
-   "return_date": "2026-11-10",
-   "comment": "Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-11",
+   "comment": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of the Orlando Sentinel reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
   },
@@ -877,6 +853,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "SAC",
+   "player_id": "4431679",
+   "name": "Precious Achiuwa",
+   "espn_status": "Out",
+   "detail": "Left Leg Lower Leg",
+   "return_date": "2026-11-13",
+   "comment": "Achiuwa left Tuesday's 107-100 loss to the Magic with a left lower leg contusion and did not return, Matt George of ABC 10 Sacramento reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Lower Leg"
   },
   {
    "team": "SAC",
@@ -1297,6 +1285,11 @@
     "player_id": "4433188",
     "name": "Devin Carter",
     "position": "G"
+   },
+   {
+    "player_id": "5142621",
+    "name": "Chris Cenac Jr.",
+    "position": "F"
    },
    {
     "player_id": "3195",
@@ -2266,6 +2259,11 @@
     "position": "G"
    },
    {
+    "player_id": "5105817",
+    "name": "Carson Cooper",
+    "position": "C"
+   },
+   {
     "player_id": "3945274",
     "name": "Luka Doncic",
     "position": "G"
@@ -2304,11 +2302,6 @@
     "player_id": "3155535",
     "name": "Kevon Looney",
     "position": "F"
-   },
-   {
-    "player_id": "4596528",
-    "name": "Lawson Lovering",
-    "position": "C"
    },
    {
     "player_id": "4278580",
@@ -2361,11 +2354,6 @@
     "player_id": "5041935",
     "name": "Cameron Boozer",
     "position": "F"
-   },
-   {
-    "player_id": "5105817",
-    "name": "Carson Cooper",
-    "position": "C"
    },
    {
     "player_id": "4903027",

@@ -8,10 +8,10 @@
   "home_team": "IND",
   "away_team": "WSH",
   "total_line": 227.5,
-  "spread_home": -2.5,
-  "ml_home": -142.0,
-  "ml_away": 120.0,
-  "odds_provider": "Draft Kings"
+  "spread_home": -3.5,
+  "ml_home": -154.0,
+  "ml_away": 130.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909967",
@@ -21,11 +21,11 @@
   "neutral": false,
   "home_team": "NY",
   "away_team": "CLE",
-  "total_line": 222.5,
+  "total_line": 221.5,
   "spread_home": -4.5,
-  "ml_home": -180.0,
-  "ml_away": 151.0,
-  "odds_provider": "Draft Kings"
+  "ml_home": -205.0,
+  "ml_away": 171.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909968",
@@ -35,11 +35,11 @@
   "neutral": false,
   "home_team": "TOR",
   "away_team": "BOS",
-  "total_line": 215.5,
+  "total_line": 216.5,
   "spread_home": 5.5,
-  "ml_home": 200.0,
-  "ml_away": -243.0,
-  "odds_provider": "Draft Kings"
+  "ml_home": 170.0,
+  "ml_away": -204.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909969",
@@ -49,11 +49,11 @@
   "neutral": false,
   "home_team": "CHI",
   "away_team": "SA",
-  "total_line": 238.5,
+  "total_line": 237.5,
   "spread_home": 15.5,
   "ml_home": 750.0,
   "ml_away": -1200.0,
-  "odds_provider": "Draft Kings"
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909970",
@@ -64,10 +64,10 @@
   "home_team": "MEM",
   "away_team": "DEN",
   "total_line": 230.5,
-  "spread_home": 3.5,
-  "ml_home": 140.0,
-  "ml_away": -167.0,
-  "odds_provider": "Draft Kings"
+  "spread_home": 4.5,
+  "ml_home": 145.0,
+  "ml_away": -173.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909971",
@@ -77,11 +77,11 @@
   "neutral": false,
   "home_team": "MIL",
   "away_team": "LAL",
-  "total_line": 228.5,
+  "total_line": 229.5,
   "spread_home": 14.5,
-  "ml_home": 530.0,
-  "ml_away": -750.0,
-  "odds_provider": "Draft Kings"
+  "ml_home": 580.0,
+  "ml_away": -840.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909972",
@@ -91,11 +91,11 @@
   "neutral": false,
   "home_team": "NO",
   "away_team": "BKN",
-  "total_line": 229.5,
-  "spread_home": -3.5,
-  "ml_home": -162.0,
-  "ml_away": 136.0,
-  "odds_provider": "Draft Kings"
+  "total_line": 228.5,
+  "spread_home": -2.5,
+  "ml_home": -148.0,
+  "ml_away": 125.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909973",
@@ -106,10 +106,10 @@
   "home_team": "UTAH",
   "away_team": "ORL",
   "total_line": 214.5,
-  "spread_home": 3.5,
-  "ml_home": 131.0,
-  "ml_away": -155.0,
-  "odds_provider": "Draft Kings"
+  "spread_home": 4.5,
+  "ml_home": 150.0,
+  "ml_away": -179.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909974",
@@ -119,11 +119,11 @@
   "neutral": false,
   "home_team": "HOU",
   "away_team": "GS",
-  "total_line": 220.5,
+  "total_line": 219.5,
   "spread_home": -6.5,
-  "ml_home": -249.0,
-  "ml_away": 205.0,
-  "odds_provider": "Draft Kings"
+  "ml_home": -264.0,
+  "ml_away": 217.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909975",
@@ -133,11 +133,11 @@
   "neutral": false,
   "home_team": "POR",
   "away_team": "OKC",
-  "total_line": 225.5,
-  "spread_home": 1.5,
-  "ml_home": -105.0,
-  "ml_away": -113.0,
-  "odds_provider": "Draft Kings"
+  "total_line": 224.5,
+  "spread_home": -2.5,
+  "ml_home": -147.0,
+  "ml_away": 124.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909976",

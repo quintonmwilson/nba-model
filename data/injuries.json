@@ -1,7 +1,19 @@
 {
- "fetched_at": "2026-11-12T12:00:43-05:00",
- "official_report": "2026-11-12T12:00:00-05:00",
+ "fetched_at": "2026-11-12T18:15:45-05:00",
+ "official_report": "2026-11-12T18:15:00-05:00",
  "players": [
+  {
+   "team": "ATL",
+   "player_id": "5149077",
+   "name": "Kingston Flemings",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Back",
+   "return_date": "2026-11-13",
+   "comment": "Flemings (back) is questionable for Friday's game against the Bulls.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
   {
    "team": "ATL",
    "player_id": "4873201",
@@ -20,7 +32,7 @@
    "name": "Keshon Gilbert",
    "espn_status": "Out",
    "detail": "Left Leg Knee",
-   "return_date": "2026-11-13",
+   "return_date": "2026-11-20",
    "comment": "Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
    "status": "Out",
    "official_status": null,
@@ -88,30 +100,6 @@
   },
   {
    "team": "CHA",
-   "player_id": "4066218",
-   "name": "Grant Williams",
-   "espn_status": "Out",
-   "detail": "Right Leg Hamstring",
-   "return_date": "2026-11-12",
-   "comment": "Williams (hamstring) is listed as probable for Thursday's game against the Suns.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Hamstring"
-  },
-  {
-   "team": "CHA",
-   "player_id": "4433249",
-   "name": "Moussa Diabate",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Quadriceps",
-   "return_date": "2026-11-12",
-   "comment": "Diabate (quadriceps) is listed as probable for Thursday's game against the Suns.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Quadriceps"
-  },
-  {
-   "team": "CHA",
    "player_id": "4433287",
    "name": "Brandon Miller",
    "espn_status": "Out",
@@ -148,12 +136,24 @@
   },
   {
    "team": "CHI",
+   "player_id": "5105555",
+   "name": "Tobe Awaka",
+   "espn_status": "Out",
+   "detail": "Torso Back",
+   "return_date": "2026-11-14",
+   "comment": "Awaka (back) has been ruled out for Friday's game against the Hawks.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
+  {
+   "team": "CHI",
    "player_id": "4848625",
    "name": "Dailyn Swain",
    "espn_status": "Day-To-Day",
    "detail": "Right Torso Back",
    "return_date": "2026-11-13",
-   "comment": "Swain (back) is out for Wednesday's game against the Spurs.",
+   "comment": "Swain (back) is listed as questionable for Friday's game against Atlanta.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Torso Back"
@@ -165,34 +165,34 @@
    "espn_status": "Day-To-Day",
    "detail": "Right Arm Shoulder",
    "return_date": "2026-11-13",
-   "comment": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Athletic reports.",
+   "comment": "Powell (shoulder) is questionable for Friday's game against the Hawks.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Arm Shoulder"
   },
   {
    "team": "CHI",
-   "player_id": "5105555",
-   "name": "Tobe Awaka",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-13",
-   "comment": "Awaka (back) has been ruled out for Wednesday's game against the Spurs.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Torso Back"
-  },
-  {
-   "team": "CHI",
    "player_id": "5095151",
    "name": "Caleb Wilson",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Arm Hand",
-   "return_date": "2026-11-13",
-   "comment": "Wilson won't return to Wednesday's game against the Spurs due to a right hand injury. He'll finish with 15 points (5-7 FG, 2-2 3Pt, 3-3 FT), five rebounds and one steal in 15 minutes.",
-   "status": "Day-To-Day",
+   "return_date": "2026-12-13",
+   "comment": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Arm Hand"
+  },
+  {
+   "team": "CLE",
+   "player_id": "4432158",
+   "name": "Evan Mobley",
+   "espn_status": "Out",
+   "detail": "Leg Toe",
+   "return_date": "2026-11-14",
+   "comment": "Mobley (toe) is out for Friday's game against the Heat.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Leg Toe"
   },
   {
    "team": "CLE",
@@ -304,25 +304,25 @@
   },
   {
    "team": "GS",
-   "player_id": "3134903",
-   "name": "Gary Payton II",
+   "player_id": "4397886",
+   "name": "Charles Bassey",
    "espn_status": "Day-To-Day",
-   "detail": "Left Leg Knee",
+   "detail": "Left Leg Toe",
    "return_date": "2026-11-13",
-   "comment": "Payton (knee) is out for Wednesday's game against Houston.",
+   "comment": "Bassey is probable for Friday's game against the Spurs due to left toe soreness.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Left Leg Knee"
+   "reason": "Left Leg Toe"
   },
   {
    "team": "GS",
    "player_id": "3975",
    "name": "Stephen Curry",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Torso Abdomen",
-   "return_date": "2026-11-13",
-   "comment": "Steve Kerr told reporters Wednesday that Curry said he tweaked something in his abdominal area and \"had never done it before.\" Kerr added that the concern level is high, but they will await the MRI results, Kelly Iko of Yahoo Sports reports.",
-   "status": "Day-To-Day",
+   "return_date": "2026-12-12",
+   "comment": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Torso Abdomen"
   },
@@ -376,6 +376,18 @@
   },
   {
    "team": "HOU",
+   "player_id": "2990992",
+   "name": "Marcus Smart",
+   "espn_status": "Suspension",
+   "detail": "Other Suspension",
+   "return_date": "2026-11-18",
+   "comment": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
+   "status": "Suspension",
+   "official_status": null,
+   "reason": "Other Suspension"
+  },
+  {
+   "team": "HOU",
    "player_id": "3102529",
    "name": "Clint Capela",
    "espn_status": "Out",
@@ -400,12 +412,24 @@
   },
   {
    "team": "IND",
+   "player_id": "2530530",
+   "name": "T.J. McConnell",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Hamstring",
+   "return_date": "2026-11-13",
+   "comment": "McConnell (hamstring) is available for Wednesday's game versus Washington.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "IND",
    "player_id": "4396909",
    "name": "Aaron Nesmith",
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Knee",
    "return_date": "2026-11-13",
-   "comment": "Nesmith will not return to Wednesday's game against the Wizards due to right knee soreness. He'll finish with two points (1-6 FG, 0-4 3Pt), one rebound and one assist across 22 minutes.",
+   "comment": "Nesmith (knee) is questionable for Friday's game against the Knicks.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Knee"
@@ -448,6 +472,18 @@
   },
   {
    "team": "LAC",
+   "player_id": "3913176",
+   "name": "Brandon Ingram",
+   "espn_status": "Out",
+   "detail": "Right Leg Achilles",
+   "return_date": "2026-11-19",
+   "comment": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Achilles"
+  },
+  {
+   "team": "LAC",
    "player_id": "4845363",
    "name": "Cam Christie",
    "espn_status": "Day-To-Day",
@@ -469,18 +505,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"
-  },
-  {
-   "team": "LAC",
-   "player_id": "3913176",
-   "name": "Brandon Ingram",
-   "espn_status": "Out",
-   "detail": "Right Leg Achilles",
-   "return_date": "2026-11-13",
-   "comment": "Ingram (Achilles) has been ruled out for Tuesday's game at Phoenix, Ohm Youngmisuk of ESPN.com reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Achilles"
   },
   {
    "team": "LAC",
@@ -591,28 +615,40 @@
    "reason": "Right Leg Knee"
   },
   {
-   "team": "MIL",
-   "player_id": "3133628",
-   "name": "Myles Turner",
+   "team": "MIA",
+   "player_id": "6475",
+   "name": "Klay Thompson",
    "espn_status": "Day-To-Day",
-   "detail": "Other Rest",
+   "detail": "Left Leg Ankle",
    "return_date": "2026-11-13",
-   "comment": "Turner has been ruled out for Wednesday's game against the Lakers due to rest.",
+   "comment": "Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Other Rest"
+   "reason": "Left Leg Ankle"
   },
   {
-   "team": "MIL",
-   "player_id": "4591725",
-   "name": "Ryan Rollins",
+   "team": "MIA",
+   "player_id": "3032977",
+   "name": "Giannis Antetokounmpo",
    "espn_status": "Day-To-Day",
-   "detail": "Head Head",
+   "detail": "Arm Wrist",
    "return_date": "2026-11-13",
-   "comment": "Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes.",
+   "comment": "Antetokounmpo (wrist) is probable for Friday's game against Cleveland.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Head Head"
+   "reason": "Arm Wrist"
+  },
+  {
+   "team": "MIA",
+   "player_id": "4601025",
+   "name": "Pelle Larsson",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-13",
+   "comment": "Larsson (illness) is listed as questionable for Friday's game against Cleveland.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
   },
   {
    "team": "MIN",
@@ -640,27 +676,51 @@
   },
   {
    "team": "NO",
+   "player_id": "4576086",
+   "name": "Bryce McGowens",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Arm Elbow",
+   "return_date": "2026-11-13",
+   "comment": "McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Arm Elbow"
+  },
+  {
+   "team": "NO",
+   "player_id": "4431675",
+   "name": "Trendon Watford",
+   "espn_status": "Out",
+   "detail": "Right Leg Ankle",
+   "return_date": "2026-11-14",
+   "comment": "Watford (ankle) is listed as out for Friday's game against the Grizzlies.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Ankle"
+  },
+  {
+   "team": "NO",
    "player_id": "4683634",
    "name": "Bennedict Mathurin",
    "espn_status": "Day-To-Day",
    "detail": "Right Arm Thumb",
    "return_date": "2026-11-13",
-   "comment": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb sprain.",
+   "comment": "Mathurin (thumb) is listed as doubtful for Friday's game against Memphis.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Arm Thumb"
   },
   {
    "team": "NO",
-   "player_id": "4431675",
-   "name": "Trendon Watford",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Ankle",
+   "player_id": "5061589",
+   "name": "Yves Missi",
+   "espn_status": "Out",
+   "detail": "Left Leg Knee",
    "return_date": "2026-11-13",
-   "comment": "Watford (ankle) is out for Wednesday's game against the Nets.",
-   "status": "Day-To-Day",
+   "comment": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Right Leg Ankle"
+   "reason": "Left Leg Knee"
   },
   {
    "team": "NO",
@@ -669,22 +729,10 @@
    "espn_status": "Day-To-Day",
    "detail": "Not Specified Leg Knee",
    "return_date": "2026-11-13",
-   "comment": "Murphy (knee) is listed as out for Wednesday's game against the Nets.",
+   "comment": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Not Specified Leg Knee"
-  },
-  {
-   "team": "NO",
-   "player_id": "5061589",
-   "name": "Yves Missi",
-   "espn_status": "Out",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-16",
-   "comment": "Missi (knee) is out for Friday's game against Minnesota.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Knee"
   },
   {
    "team": "OKC",
@@ -765,7 +813,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Calf",
    "return_date": "2026-11-13",
-   "comment": "Da Silva (calf) is listed as out for Wednesday's game versus the Jazz.",
+   "comment": "Da Silva (calf) is questionable for Friday's game against Milwaukee.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Calf"
@@ -777,7 +825,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Arm Shoulder",
    "return_date": "2026-11-13",
-   "comment": "Cain (shoulder) is out for Wednesday's game in Utah.",
+   "comment": "Cain (shoulder) is questionable for Friday's game against the Bucks.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Arm Shoulder"
@@ -788,8 +836,8 @@
    "name": "Jalen Suggs",
    "espn_status": "Out",
    "detail": "Right Leg Knee",
-   "return_date": "2026-11-16",
-   "comment": "Suggs (knee) has been ruled out for Tuesday's game against the Kings.",
+   "return_date": "2026-11-13",
+   "comment": "Suggs (knee) is questionable for Friday's game against Milwaukee.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
@@ -844,6 +892,18 @@
   },
   {
    "team": "PHI",
+   "player_id": "1966",
+   "name": "LeBron James",
+   "espn_status": "Out",
+   "detail": "Torso Back",
+   "return_date": "2026-11-15",
+   "comment": "James (back) is out for Thursday's game against Toronto.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
+  {
+   "team": "PHI",
    "player_id": "4870562",
    "name": "Dominick Barlow",
    "espn_status": "Out",
@@ -877,18 +937,6 @@
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Foot"
-  },
-  {
-   "team": "PHI",
-   "player_id": "1966",
-   "name": "LeBron James",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-12",
-   "comment": "James (back) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Torso Back"
   },
   {
    "team": "PHI",
@@ -1000,6 +1048,18 @@
   },
   {
    "team": "SA",
+   "player_id": "4066259",
+   "name": "De'Aaron Fox",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-13",
+   "comment": "Fox is questionable for Friday's game against the Warriors due to left hip soreness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Torso Hip"
+  },
+  {
+   "team": "SA",
    "player_id": "4395630",
    "name": "Devin Vassell",
    "espn_status": "Day-To-Day",
@@ -1038,13 +1098,25 @@
    "team": "TOR",
    "player_id": "4431684",
    "name": "Trayce Jackson-Davis",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-12",
-   "comment": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-15",
+   "comment": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
+  },
+  {
+   "team": "TOR",
+   "player_id": "4433134",
+   "name": "Scottie Barnes",
+   "espn_status": "Out",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-15",
+   "comment": "Barnes (groin) is out for Thursday's game against Philadelphia.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Groin Groin"
   },
   {
    "team": "TOR",
@@ -1057,18 +1129,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Knee"
-  },
-  {
-   "team": "TOR",
-   "player_id": "4433134",
-   "name": "Scottie Barnes",
-   "espn_status": "Out",
-   "detail": "Left Groin Groin",
-   "return_date": "2026-11-12",
-   "comment": "Barnes (groin) is out for Wednesday's game against Boston.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Groin Groin"
   },
   {
    "team": "TOR",

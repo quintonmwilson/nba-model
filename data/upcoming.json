@@ -8,9 +8,9 @@
   "home_team": "IND",
   "away_team": "NY",
   "total_line": 219.5,
-  "spread_home": 6.5,
-  "ml_home": 220.0,
-  "ml_away": -269.0,
+  "spread_home": 8.5,
+  "ml_home": 261.0,
+  "ml_away": -324.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -22,9 +22,9 @@
   "home_team": "ORL",
   "away_team": "MIL",
   "total_line": 223.5,
-  "spread_home": -9.5,
-  "ml_home": -378.0,
-  "ml_away": 300.0,
+  "spread_home": -8.5,
+  "ml_home": -359.0,
+  "ml_away": 286.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -51,8 +51,8 @@
   "away_team": "ATL",
   "total_line": 245.5,
   "spread_home": 7.5,
-  "ml_home": 227.0,
-  "ml_away": -277.0,
+  "ml_home": 236.0,
+  "ml_away": -290.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -63,10 +63,10 @@
   "neutral": false,
   "home_team": "NO",
   "away_team": "MEM",
-  "total_line": 235.5,
-  "spread_home": 3.5,
-  "ml_home": 140.0,
-  "ml_away": -166.0,
+  "total_line": 237.5,
+  "spread_home": 2.5,
+  "ml_home": 114.0,
+  "ml_away": -135.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -77,10 +77,10 @@
   "neutral": false,
   "home_team": "HOU",
   "away_team": "UTAH",
-  "total_line": 219.5,
-  "spread_home": -17.5,
-  "ml_home": -1580.0,
-  "ml_away": 900.0,
+  "total_line": 220.5,
+  "spread_home": -15.5,
+  "ml_home": -1340.0,
+  "ml_away": 810.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -91,10 +91,10 @@
   "neutral": false,
   "home_team": "SA",
   "away_team": "GS",
-  "total_line": 219.5,
-  "spread_home": -12.5,
-  "ml_home": -750.0,
-  "ml_away": 530.0,
+  "total_line": 217.5,
+  "spread_home": -11.5,
+  "ml_home": -670.0,
+  "ml_away": 487.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -105,10 +105,10 @@
   "neutral": false,
   "home_team": "SAC",
   "away_team": "POR",
-  "total_line": 229.5,
+  "total_line": 228.5,
   "spread_home": 10.5,
-  "ml_home": 392.0,
-  "ml_away": -515.0,
+  "ml_home": 361.0,
+  "ml_away": -468.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -119,10 +119,10 @@
   "neutral": false,
   "home_team": "LAC",
   "away_team": "OKC",
-  "total_line": 222.5,
-  "spread_home": 6.5,
-  "ml_home": 231.0,
-  "ml_away": -283.0,
+  "total_line": 221.5,
+  "spread_home": 7.5,
+  "ml_home": 220.0,
+  "ml_away": -269.0,
   "odds_provider": "DraftKings"
  },
  {

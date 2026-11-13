@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-13T07:01:05-05:00",
- "official_report": "2026-11-13T07:00:00-05:00",
+ "fetched_at": "2026-11-13T12:00:48-05:00",
+ "official_report": "2026-11-13T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -928,6 +928,18 @@
   },
   {
    "team": "PHX",
+   "player_id": "4431695",
+   "name": "Drew Timme",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Hand",
+   "return_date": "2026-11-15",
+   "comment": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Hand"
+  },
+  {
+   "team": "PHX",
    "player_id": "4701232",
    "name": "Mark Williams",
    "espn_status": "Out",
@@ -1069,6 +1081,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "TOR",
+   "player_id": "4411057",
+   "name": "Kevin McCullar Jr.",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-14",
+   "comment": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
   },
   {
    "team": "TOR",

@@ -1,7 +1,43 @@
 {
- "fetched_at": "2026-11-12T18:15:45-05:00",
- "official_report": "2026-11-12T18:15:00-05:00",
+ "fetched_at": "2026-11-13T07:01:05-05:00",
+ "official_report": "2026-11-13T07:00:00-05:00",
  "players": [
+  {
+   "team": "ATL",
+   "player_id": "4712863",
+   "name": "Mouhamed Gueye",
+   "espn_status": "Out",
+   "detail": "Left Leg Foot",
+   "return_date": "2026-12-12",
+   "comment": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Foot"
+  },
+  {
+   "team": "ATL",
+   "player_id": "4585618",
+   "name": "Keshon Gilbert",
+   "espn_status": "Out",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-20",
+   "comment": "Gilbert (knee) has been ruled out for Friday's game against the Bulls.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Knee"
+  },
+  {
+   "team": "ATL",
+   "player_id": "4873201",
+   "name": "Asa Newell",
+   "espn_status": "Out",
+   "detail": "Left Leg Toe",
+   "return_date": "2026-11-20",
+   "comment": "Newell (toe) has been ruled out for Friday's game against Chicago.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Toe"
+  },
   {
    "team": "ATL",
    "player_id": "5149077",
@@ -13,42 +49,6 @@
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "ATL",
-   "player_id": "4873201",
-   "name": "Asa Newell",
-   "espn_status": "Out",
-   "detail": "Left Leg Toe",
-   "return_date": "2026-11-13",
-   "comment": "Newell (toe) has been ruled out for Monday's game against the Lakers.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Toe"
-  },
-  {
-   "team": "ATL",
-   "player_id": "4585618",
-   "name": "Keshon Gilbert",
-   "espn_status": "Out",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-20",
-   "comment": "Gilbert (knee) has been ruled out for Monday's game against the Lakers.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Knee"
-  },
-  {
-   "team": "ATL",
-   "player_id": "4712863",
-   "name": "Mouhamed Gueye",
-   "espn_status": "Out",
-   "detail": "Left Leg Foot",
-   "return_date": "2026-11-20",
-   "comment": "Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a workout last week, Brad Rowland of the Locked On Podcast Network reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Foot"
   },
   {
    "team": "ATL",
@@ -102,11 +102,11 @@
    "team": "CHA",
    "player_id": "4433287",
    "name": "Brandon Miller",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Groin Groin",
    "return_date": "2026-11-15",
    "comment": "Miller (groin) is listed as out for Thursday's game against Phoenix.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Groin Groin"
   },
@@ -241,18 +241,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "DAL",
-   "player_id": "4873153",
-   "name": "Morez Johnson Jr.",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Lower Leg",
-   "return_date": "2026-11-12",
-   "comment": "Johnson (shin) is listed as probable for Thursday's game against Minnesota.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Lower Leg"
   },
   {
    "team": "DEN",
@@ -417,7 +405,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Hamstring",
    "return_date": "2026-11-13",
-   "comment": "McConnell (hamstring) is available for Wednesday's game versus Washington.",
+   "comment": "McConnell is probable for Friday's game against the Knicks due to a right hamstring strain.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Hamstring"
@@ -481,18 +469,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Achilles"
-  },
-  {
-   "team": "LAC",
-   "player_id": "4845363",
-   "name": "Cam Christie",
-   "espn_status": "Day-To-Day",
-   "detail": "Leg Ankle",
-   "return_date": "2026-11-13",
-   "comment": "Christie (ankle) is listed as out for Tuesday's game against Phoenix.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Leg Ankle"
   },
   {
    "team": "LAC",
@@ -582,13 +558,25 @@
    "team": "MEM",
    "player_id": "4593016",
    "name": "Quinten Post",
-   "espn_status": "Day-To-Day",
-   "detail": "Head Head",
-   "return_date": "2026-11-13",
-   "comment": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets.",
-   "status": "Day-To-Day",
+   "espn_status": "Out",
+   "detail": "Head Concussion",
+   "return_date": "2026-11-14",
+   "comment": "Post (concussion) has been ruled out for Friday's game against New Orleans.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Head Head"
+   "reason": "Head Concussion"
+  },
+  {
+   "team": "MEM",
+   "player_id": "4600663",
+   "name": "Zach Edey",
+   "espn_status": "Out",
+   "detail": "Left Leg Ankle",
+   "return_date": "2026-11-14",
+   "comment": "Edey won't play in Friday's game against the Pelicans due to left ankle injury management.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Ankle"
   },
   {
    "team": "MEM",
@@ -736,12 +724,24 @@
   },
   {
    "team": "OKC",
+   "player_id": "5061603",
+   "name": "Thomas Sorber",
+   "espn_status": "Out",
+   "detail": "Leg Knee",
+   "return_date": "2026-11-20",
+   "comment": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Leg Knee"
+  },
+  {
+   "team": "OKC",
    "player_id": "4900671",
    "name": "Ajay Mitchell",
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Ankle",
    "return_date": "2026-11-13",
-   "comment": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left ankle sprain.",
+   "comment": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Ankle"
@@ -757,18 +757,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "OKC",
-   "player_id": "5061603",
-   "name": "Thomas Sorber",
-   "espn_status": "Out",
-   "detail": "Leg Knee",
-   "return_date": "2026-11-13",
-   "comment": "Sorber (knee) is out for Wednesday's game against the Cavaliers.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Leg Knee"
   },
   {
    "team": "OKC",
@@ -894,11 +882,11 @@
    "team": "PHI",
    "player_id": "1966",
    "name": "LeBron James",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Torso Back",
    "return_date": "2026-11-15",
    "comment": "James (back) is out for Thursday's game against Toronto.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Torso Back"
   },
@@ -928,18 +916,6 @@
   },
   {
    "team": "PHI",
-   "player_id": "3059318",
-   "name": "Joel Embiid",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-12",
-   "comment": "Embiid (foot) remains questionable for Thursday's game against the Raptors, but he participated in the team's morning shootaround, Ky Carlin of USA Today reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Foot"
-  },
-  {
-   "team": "PHI",
    "player_id": "4871141",
    "name": "Ariel Hukporti",
    "espn_status": "Out",
@@ -966,11 +942,11 @@
    "team": "POR",
    "player_id": "4706557",
    "name": "Chris Youngblood",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Leg Foot",
-   "return_date": "2026-11-13",
-   "comment": "Youngblood has been ruled out for Wednesday's game against the Thunder.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-16",
+   "comment": "Youngblood (foot) is out for Friday's game against Sacramento.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"
   },
@@ -1015,12 +991,12 @@
    "player_id": "4431679",
    "name": "Precious Achiuwa",
    "espn_status": "Day-To-Day",
-   "detail": "Left Leg Lower Leg",
+   "detail": "Left Leg Ankle",
    "return_date": "2026-11-13",
-   "comment": "Achiuwa left Tuesday's 107-100 loss to the Magic with a left lower leg contusion and did not return, Matt George of ABC 10 Sacramento reports.",
+   "comment": "Achiuwa (ankle) is questionable to play Friday's game against the Trail Blazers.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Left Leg Lower Leg"
+   "reason": "Left Leg Ankle"
   },
   {
    "team": "SAC",
@@ -1048,6 +1024,18 @@
   },
   {
    "team": "SA",
+   "player_id": "4395630",
+   "name": "Devin Vassell",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-13",
+   "comment": "Vassell is questionable for Friday's game against the Warriors due to left adductor tightness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Groin Groin"
+  },
+  {
+   "team": "SA",
    "player_id": "4066259",
    "name": "De'Aaron Fox",
    "espn_status": "Day-To-Day",
@@ -1057,18 +1045,6 @@
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Torso Hip"
-  },
-  {
-   "team": "SA",
-   "player_id": "4395630",
-   "name": "Devin Vassell",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Groin Groin",
-   "return_date": "2026-11-13",
-   "comment": "Vassell (adductor) won't play in Wednesday's game against the Bulls, Jeff Garcia of KENS 5 San Antonio reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Groin Groin"
   },
   {
    "team": "SA",
@@ -1098,11 +1074,11 @@
    "team": "TOR",
    "player_id": "4431684",
    "name": "Trayce Jackson-Davis",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Other Illness",
    "return_date": "2026-11-15",
    "comment": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -1189,6 +1165,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "WSH",
+   "player_id": "4845374",
+   "name": "Bub Carrington",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Chest",
+   "return_date": "2026-11-15",
+   "comment": "Carrington (chest) has been ruled out for the remainder of Thursday's game against the Pistons.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Chest"
   },
   {
    "team": "WSH",
@@ -2794,6 +2782,11 @@
     "player_id": "4594268",
     "name": "Anthony Edwards",
     "position": "G"
+   },
+   {
+    "player_id": "5061585",
+    "name": "Isaiah Evans",
+    "position": "F"
    },
    {
     "player_id": "3032976",

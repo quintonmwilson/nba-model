@@ -1,7 +1,19 @@
 {
- "fetched_at": "2026-11-13T18:15:39-05:00",
- "official_report": "2026-11-13T18:15:00-05:00",
+ "fetched_at": "2026-11-14T07:00:50-05:00",
+ "official_report": "2026-11-14T07:00:00-05:00",
  "players": [
+  {
+   "team": "ATL",
+   "player_id": "5149077",
+   "name": "Kingston Flemings",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Back",
+   "return_date": "2026-11-15",
+   "comment": "Flemings (back tightness) will not return to Friday's game against the Bulls.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
   {
    "team": "ATL",
    "player_id": "4712863",
@@ -37,18 +49,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Toe"
-  },
-  {
-   "team": "ATL",
-   "player_id": "5149077",
-   "name": "Kingston Flemings",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-13",
-   "comment": "Flemings (back) is questionable for Friday's game against the Bulls.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Torso Back"
   },
   {
    "team": "ATL",
@@ -136,6 +136,30 @@
   },
   {
    "team": "CHI",
+   "player_id": "4397189",
+   "name": "Jalen Smith",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Arm Hand",
+   "return_date": "2026-11-14",
+   "comment": "Smith (hand) exited Friday's 125-117 win over the Hawks in overtime and did not return, finishing with 15 points (6-15 FG, 1-6 3Pt, 2-2 FT), 12 rebounds, three assists and three steals across 32 minutes.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Arm Hand"
+  },
+  {
+   "team": "CHI",
+   "player_id": "4848625",
+   "name": "Dailyn Swain",
+   "espn_status": "Out",
+   "detail": "Right Torso Back",
+   "return_date": "2026-11-14",
+   "comment": "Swain (back) is out for Friday's game against the Hawks.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Torso Back"
+  },
+  {
+   "team": "CHI",
    "player_id": "5105555",
    "name": "Tobe Awaka",
    "espn_status": "Out",
@@ -145,30 +169,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "CHI",
-   "player_id": "4848625",
-   "name": "Dailyn Swain",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Torso Back",
-   "return_date": "2026-11-13",
-   "comment": "Swain (back) is listed as questionable for Friday's game against Atlanta.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Torso Back"
-  },
-  {
-   "team": "CHI",
-   "player_id": "2595516",
-   "name": "Norman Powell",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Shoulder",
-   "return_date": "2026-11-13",
-   "comment": "Powell (shoulder) is questionable for Friday's game against the Hawks.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Shoulder"
   },
   {
    "team": "CHI",
@@ -205,6 +205,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Arm Elbow"
+  },
+  {
+   "team": "CLE",
+   "player_id": "5106268",
+   "name": "Nae'Qwan Tomlin",
+   "espn_status": "Out",
+   "detail": "Torso Back",
+   "return_date": "2026-11-16",
+   "comment": "Tomlin is set to miss several weeks with a lower back stress reaction, Chris Fedor of The Cleveland Plain Dealer reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Torso Back"
   },
   {
    "team": "DAL",
@@ -316,18 +328,6 @@
   },
   {
    "team": "GS",
-   "player_id": "4397886",
-   "name": "Charles Bassey",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Toe",
-   "return_date": "2026-11-13",
-   "comment": "Bassey is probable for Friday's game against the Spurs due to left toe soreness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Toe"
-  },
-  {
-   "team": "GS",
    "player_id": "3975",
    "name": "Stephen Curry",
    "espn_status": "Out",
@@ -421,6 +421,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Calf"
+  },
+  {
+   "team": "IND",
+   "player_id": "4396909",
+   "name": "Aaron Nesmith",
+   "espn_status": "Day-To-Day",
+   "detail": "Not Specified Arm Hand",
+   "return_date": "2026-11-15",
+   "comment": "Nesmith exited to the locker room in the final seconds of Friday's 106-104 win over the Knicks due to an apparent hand/wrist injury, Tony East of Forbes.com reports. He posted 18 points (7-10 FG, 2-3 3Pt, 2-2 FT), seven rebounds and one assist in 33 minutes.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Not Specified Arm Hand"
   },
   {
    "team": "IND",
@@ -606,11 +618,11 @@
    "team": "MIA",
    "player_id": "6475",
    "name": "Klay Thompson",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Ankle",
-   "return_date": "2026-11-13",
-   "comment": "Thompson (ankle) has been downgraded to questionable for Friday's game against Cleveland.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-14",
+   "comment": "Thompson (ankle) is out for Friday's game against the Cavaliers.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Ankle"
   },
@@ -688,18 +700,6 @@
   },
   {
    "team": "NO",
-   "player_id": "4683634",
-   "name": "Bennedict Mathurin",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Thumb",
-   "return_date": "2026-11-13",
-   "comment": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Thumb"
-  },
-  {
-   "team": "NO",
    "player_id": "4397688",
    "name": "Trey Murphy III",
    "espn_status": "Out",
@@ -724,6 +724,18 @@
   },
   {
    "team": "OKC",
+   "player_id": "4900671",
+   "name": "Ajay Mitchell",
+   "espn_status": "Out",
+   "detail": "Left Leg Ankle",
+   "return_date": "2026-11-15",
+   "comment": "Mitchell (ankle) has been ruled out for Friday's game against the Clippers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Ankle"
+  },
+  {
+   "team": "OKC",
    "player_id": "5061603",
    "name": "Thomas Sorber",
    "espn_status": "Out",
@@ -733,18 +745,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Leg Knee"
-  },
-  {
-   "team": "OKC",
-   "player_id": "4900671",
-   "name": "Ajay Mitchell",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-13",
-   "comment": "Mitchell (ankle) is questionable for Friday's game against the Clippers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
   },
   {
    "team": "OKC",
@@ -1000,30 +1000,6 @@
   },
   {
    "team": "SA",
-   "player_id": "4395630",
-   "name": "Devin Vassell",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Groin Groin",
-   "return_date": "2026-11-13",
-   "comment": "Vassell is questionable for Friday's game against the Warriors due to left adductor tightness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Groin Groin"
-  },
-  {
-   "team": "SA",
-   "player_id": "4066259",
-   "name": "De'Aaron Fox",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-13",
-   "comment": "Fox is questionable for Friday's game against the Warriors due to left hip soreness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Torso Hip"
-  },
-  {
-   "team": "SA",
    "player_id": "6440",
    "name": "Tobias Harris",
    "espn_status": "Out",
@@ -1105,6 +1081,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"
+  },
+  {
+   "team": "UTAH",
+   "player_id": "4397077",
+   "name": "Jaxson Hayes",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-15",
+   "comment": "Hayes won't return to Friday's game against the Rockets due to a left knee issue.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Knee"
   },
   {
    "team": "UTAH",
@@ -1641,6 +1629,11 @@
     "position": "G"
    },
    {
+    "player_id": "4593049",
+    "name": "Orlando Robinson",
+    "position": "C"
+   },
+   {
     "player_id": "4898010",
     "name": "Jaylin Sellers",
     "position": "G"
@@ -1675,6 +1668,11 @@
    {
     "player_id": "3934723",
     "name": "Thomas Bryant",
+    "position": "C"
+   },
+   {
+    "player_id": "4997530",
+    "name": "Khalifa Diop",
     "position": "C"
    },
    {
@@ -1726,6 +1724,11 @@
     "player_id": "5041951",
     "name": "Meleek Thomas",
     "position": "G"
+   },
+   {
+    "player_id": "5106268",
+    "name": "Nae'Qwan Tomlin",
+    "position": "F"
    },
    {
     "player_id": "4683747",

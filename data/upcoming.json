@@ -7,10 +7,10 @@
   "neutral": false,
   "home_team": "NO",
   "away_team": "DEN",
-  "total_line": 234.5,
+  "total_line": 235.5,
   "spread_home": 12.5,
-  "ml_home": 454.0,
-  "ml_away": -620.0,
+  "ml_home": 470.0,
+  "ml_away": -650.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -21,10 +21,10 @@
   "neutral": false,
   "home_team": "CLE",
   "away_team": "DAL",
-  "total_line": 231.5,
-  "spread_home": 1.5,
-  "ml_home": 110.0,
-  "ml_away": -130.0,
+  "total_line": 227.5,
+  "spread_home": 8.5,
+  "ml_home": 284.0,
+  "ml_away": -355.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -37,8 +37,8 @@
   "away_team": "DET",
   "total_line": 228.5,
   "spread_home": 4.5,
-  "ml_home": 169.0,
-  "ml_away": -203.0,
+  "ml_home": 146.0,
+  "ml_away": -173.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -49,11 +49,11 @@
   "neutral": false,
   "home_team": "MEM",
   "away_team": "BKN",
-  "total_line": 228.5,
-  "spread_home": -3.5,
-  "ml_home": -155.0,
-  "ml_away": 131.0,
-  "odds_provider": "Draft Kings"
+  "total_line": null,
+  "spread_home": null,
+  "ml_home": null,
+  "ml_away": null,
+  "odds_provider": null
  },
  {
   "game_id": "401909984",
@@ -63,10 +63,10 @@
   "neutral": false,
   "home_team": "MIN",
   "away_team": "CHI",
-  "total_line": 235.5,
+  "total_line": 234.5,
   "spread_home": -15.5,
-  "ml_home": -970.0,
-  "ml_away": 640.0,
+  "ml_home": -1080.0,
+  "ml_away": 690.0,
   "odds_provider": "Draft Kings"
  },
  {

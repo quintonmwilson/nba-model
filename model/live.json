@@ -192,9 +192,34 @@
     "away": 117.0
    },
    "act_2h": 120.0
+  },
+  "401909985": {
+   "game_id": "401909985",
+   "date": "2026-11-15",
+   "start_utc": "2026-11-15T18:00Z",
+   "home": "PHI",
+   "away": "IND",
+   "priced_at": "2026-11-15T14:30:39-05:00",
+   "late": true,
+   "pre_source": "prediction log",
+   "h1_home": 58.0,
+   "h1_away": 57.0,
+   "pre_2h": 109.78074181232317,
+   "pre_2hm": 0.40569044256532294,
+   "mu_2h": 109.07350905839371,
+   "sd_2h": 13.91726605922576,
+   "mu_2hm": 1.2258220313848425,
+   "sd_2hm": 10.993124072715151,
+   "p_home_win": 0.5831966994147115,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "IND 57 \u2013 58 PHI",
+   "markets": [],
+   "picks": []
   }
  },
- "model_through": "2026-11-13",
+ "model_through": "2026-11-14",
  "halftime_fitted": true,
- "updated_at": "2026-11-15T03:27:03-05:00"
+ "updated_at": "2026-11-15T14:30:39-05:00"
 }

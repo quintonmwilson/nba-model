@@ -1,16 +1,16 @@
 {
- "fetched_at": "2026-11-15T18:15:49-05:00",
- "official_report": "2026-11-15T18:15:00-05:00",
+ "fetched_at": "2026-11-16T07:00:53-05:00",
+ "official_report": "2026-11-16T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
    "player_id": "3146557",
    "name": "Jock Landale",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Right Torso Hip",
-   "return_date": "2026-11-15",
-   "comment": "Landale (hip) is listed as questionable for Sunday's game against Milwakee.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-18",
+   "comment": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Right Torso Hip"
   },
@@ -37,18 +37,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Foot"
-  },
-  {
-   "team": "ATL",
-   "player_id": "4585618",
-   "name": "Keshon Gilbert",
-   "espn_status": "Out",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-20",
-   "comment": "Gilbert (knee) has been ruled out for Friday's game against the Bulls.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Knee"
   },
   {
    "team": "ATL",
@@ -644,8 +632,8 @@
    "name": "Ousmane Dieng",
    "espn_status": "Out",
    "detail": "Left Arm Finger",
-   "return_date": "2026-11-18",
-   "comment": "Dieng (finger) is listed as out for Sunday's game versus the Hawks.",
+   "return_date": "2026-12-14",
+   "comment": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Arm Finger"
@@ -654,11 +642,11 @@
    "team": "MIL",
    "player_id": "4591725",
    "name": "Ryan Rollins",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-15",
-   "comment": "Rollins (illness) is questionable to play in Sunday's game against the Hawks.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-18",
+   "comment": "Rollins (illness) is out for Sunday's game against the Hawks.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -700,6 +688,18 @@
   },
   {
    "team": "NO",
+   "player_id": "4576086",
+   "name": "Bryce McGowens",
+   "espn_status": "Out",
+   "detail": "Left Arm Elbow",
+   "return_date": "2026-11-18",
+   "comment": "McGowens (elbow) has been ruled out for Monday's game against the Warriors.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Arm Elbow"
+  },
+  {
+   "team": "NO",
    "player_id": "4683634",
    "name": "Bennedict Mathurin",
    "espn_status": "Out",
@@ -736,18 +736,6 @@
   },
   {
    "team": "NO",
-   "player_id": "4576086",
-   "name": "Bryce McGowens",
-   "espn_status": "Out",
-   "detail": "Left Arm Elbow",
-   "return_date": "2026-11-18",
-   "comment": "McGowens (elbow) has been ruled out for Saturday's game against the Nuggets.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Arm Elbow"
-  },
-  {
-   "team": "NO",
    "player_id": "3907497",
    "name": "Dejounte Murray",
    "espn_status": "Out",
@@ -769,18 +757,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "OKC",
-   "player_id": "4900671",
-   "name": "Ajay Mitchell",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-15",
-   "comment": "Mitchell (ankle) is questionable to suit up for Sunday's game against the Kings.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
   },
   {
    "team": "OKC",
@@ -1000,6 +976,42 @@
   },
   {
    "team": "SAC",
+   "player_id": "4065732",
+   "name": "De'Andre Hunter",
+   "espn_status": "Out",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-18",
+   "comment": "Hunter (hip) is out for Sunday's game against the Thunder.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Torso Hip"
+  },
+  {
+   "team": "SAC",
+   "player_id": "3064440",
+   "name": "Zach LaVine",
+   "espn_status": "Out",
+   "detail": "Other Illness",
+   "return_date": "2026-11-18",
+   "comment": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Other Illness"
+  },
+  {
+   "team": "SAC",
+   "player_id": "4431679",
+   "name": "Precious Achiuwa",
+   "espn_status": "Out",
+   "detail": "Left Leg Ankle",
+   "return_date": "2026-11-18",
+   "comment": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Ankle"
+  },
+  {
+   "team": "SAC",
    "player_id": "4898371",
    "name": "Maxime Raynaud",
    "espn_status": "Out",
@@ -1009,18 +1021,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "SAC",
-   "player_id": "4431679",
-   "name": "Precious Achiuwa",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-15",
-   "comment": "Achiuwa (ankle) is questionable for Sunday's game against the Thunder.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
   },
   {
    "team": "SAC",
@@ -1235,6 +1235,11 @@
     "position": "G"
    },
    {
+    "player_id": "4684443",
+    "name": "Rafael Castro",
+    "position": "F"
+   },
+   {
     "player_id": "4869342",
     "name": "Dyson Daniels",
     "position": "G"
@@ -1262,11 +1267,6 @@
    {
     "player_id": "5149077",
     "name": "Kingston Flemings",
-    "position": "G"
-   },
-   {
-    "player_id": "4585618",
-    "name": "Keshon Gilbert",
     "position": "G"
    },
    {

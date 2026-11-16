@@ -7,10 +7,10 @@
   "neutral": false,
   "home_team": "BOS",
   "away_team": "ORL",
-  "total_line": 212.5,
-  "spread_home": -8.5,
-  "ml_home": -360.0,
-  "ml_away": 287.0,
+  "total_line": 214.5,
+  "spread_home": -9.5,
+  "ml_home": -375.0,
+  "ml_away": 298.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -23,8 +23,8 @@
   "away_team": "CHI",
   "total_line": 241.5,
   "spread_home": -8.5,
-  "ml_home": -359.0,
-  "ml_away": 286.0,
+  "ml_home": -344.0,
+  "ml_away": 276.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -37,8 +37,8 @@
   "away_team": "MEM",
   "total_line": 232.5,
   "spread_home": 3.5,
-  "ml_home": 136.0,
-  "ml_away": -161.0,
+  "ml_home": 131.0,
+  "ml_away": -155.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -50,7 +50,7 @@
   "home_team": "BKN",
   "away_team": "PHI",
   "total_line": 226.5,
-  "spread_home": 5.5,
+  "spread_home": 4.5,
   "ml_home": 180.0,
   "ml_away": -217.0,
   "odds_provider": "DraftKings"
@@ -63,10 +63,10 @@
   "neutral": false,
   "home_team": "MIA",
   "away_team": "HOU",
-  "total_line": 231.5,
+  "total_line": 232.5,
   "spread_home": 2.5,
-  "ml_home": 124.0,
-  "ml_away": -148.0,
+  "ml_home": 110.0,
+  "ml_away": -130.0,
   "odds_provider": "DraftKings"
  },
  {

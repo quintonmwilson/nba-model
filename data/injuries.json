@@ -1,7 +1,31 @@
 {
- "fetched_at": "2026-11-17T18:15:49-05:00",
- "official_report": "2026-11-17T18:15:00-05:00",
+ "fetched_at": "2026-11-18T07:00:51-05:00",
+ "official_report": "2026-11-18T07:00:00-05:00",
  "players": [
+  {
+   "team": "ATL",
+   "player_id": "3146557",
+   "name": "Jock Landale",
+   "espn_status": "Out",
+   "detail": "Right Torso Hip",
+   "return_date": "2026-11-20",
+   "comment": "Landale (hip) won't play Wednesday in Oklahoma City.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Torso Hip"
+  },
+  {
+   "team": "ATL",
+   "player_id": "5149077",
+   "name": "Kingston Flemings",
+   "espn_status": "Out",
+   "detail": "Torso Back",
+   "return_date": "2026-11-20",
+   "comment": "Flemings (back) is out for Wednesday's game against the Thunder.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
   {
    "team": "ATL",
    "player_id": "4873201",
@@ -28,30 +52,6 @@
   },
   {
    "team": "ATL",
-   "player_id": "5149077",
-   "name": "Kingston Flemings",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-20",
-   "comment": "Flemings (back) practiced Tuesday, per Lauren L. Williams of The Atlanta Journal-Constitution.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Torso Back"
-  },
-  {
-   "team": "ATL",
-   "player_id": "3146557",
-   "name": "Jock Landale",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Torso Hip",
-   "return_date": "2026-11-18",
-   "comment": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Torso Hip"
-  },
-  {
-   "team": "ATL",
    "player_id": "4712863",
    "name": "Mouhamed Gueye",
    "espn_status": "Out",
@@ -75,16 +75,16 @@
    "reason": "Right Leg Knee"
   },
   {
-   "team": "BOS",
-   "player_id": "4397424",
-   "name": "Neemias Queta",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Rest",
-   "return_date": "2026-11-18",
-   "comment": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
-   "status": "Day-To-Day",
+   "team": "CHA",
+   "player_id": "3135045",
+   "name": "Grayson Allen",
+   "espn_status": "Out",
+   "detail": "Head Concussion",
+   "return_date": "2026-11-20",
+   "comment": "Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Other Rest"
+   "reason": "Head Concussion"
   },
   {
    "team": "CHA",
@@ -260,7 +260,7 @@
    "name": "Tarik Biberovic",
    "espn_status": "Out",
    "detail": "Right Leg Heel",
-   "return_date": "2026-11-30",
+   "return_date": "2026-11-27",
    "comment": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
    "status": "Out",
    "official_status": null,
@@ -361,6 +361,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "GS",
+   "player_id": "6589",
+   "name": "Draymond Green",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Elbow",
+   "return_date": "2026-11-18",
+   "comment": "Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Elbow"
   },
   {
    "team": "GS",
@@ -580,6 +592,18 @@
   },
   {
    "team": "LAL",
+   "player_id": "4433136",
+   "name": "Walker Kessler",
+   "espn_status": "Out",
+   "detail": "Right Leg Lower Leg",
+   "return_date": "2026-11-18",
+   "comment": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Lower Leg"
+  },
+  {
+   "team": "LAL",
    "player_id": "4066457",
    "name": "Austin Reaves",
    "espn_status": "Out",
@@ -591,16 +615,16 @@
    "reason": "Left Leg Heel"
   },
   {
-   "team": "LAL",
-   "player_id": "4433136",
-   "name": "Walker Kessler",
+   "team": "MEM",
+   "player_id": "5105550",
+   "name": "GG Jackson",
    "espn_status": "Out",
-   "detail": "Right Leg Lower Leg",
-   "return_date": "2026-11-18",
-   "comment": "Walker (leg) has been ruled out for Tuesday's game against the Hornets.",
+   "detail": "Left Leg Foot",
+   "return_date": "2027-01-18",
+   "comment": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months.",
    "status": "Out",
    "official_status": null,
-   "reason": "Right Leg Lower Leg"
+   "reason": "Left Leg Foot"
   },
   {
    "team": "MEM",
@@ -637,18 +661,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "MEM",
-   "player_id": "5105550",
-   "name": "GG Jackson",
-   "espn_status": "Out",
-   "detail": "Left Leg Foot",
-   "return_date": "2027-01-18",
-   "comment": "Jackson will undergo surgery to repair the broken fifth metatarsal in his left foot and is set to miss significant time.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Foot"
   },
   {
    "team": "MEM",
@@ -832,27 +844,27 @@
   },
   {
    "team": "OKC",
+   "player_id": "5061603",
+   "name": "Thomas Sorber",
+   "espn_status": "Out",
+   "detail": "Leg Knee",
+   "return_date": "2027-01-31",
+   "comment": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Leg Knee"
+  },
+  {
+   "team": "OKC",
    "player_id": "4432823",
    "name": "Jaylin Williams",
    "espn_status": "Out",
    "detail": "Torso Back",
    "return_date": "2026-11-18",
-   "comment": "Williams (back) has been ruled out for Sunday's game against the Kings.",
+   "comment": "Williams (back) is listed as questionable for Wednesday's game against the Hawks, Clemente Almanza of USA Today reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Torso Back"
-  },
-  {
-   "team": "OKC",
-   "player_id": "5061603",
-   "name": "Thomas Sorber",
-   "espn_status": "Out",
-   "detail": "Leg Knee",
-   "return_date": "2026-11-20",
-   "comment": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Leg Knee"
   },
   {
    "team": "OKC",
@@ -1002,11 +1014,11 @@
    "team": "POR",
    "player_id": "4683021",
    "name": "Deni Avdija",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Leg Foot",
-   "return_date": "2026-11-17",
-   "comment": "Avdija (foot) is questionable for Tuesday's game against the Timberwolves.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-19",
+   "comment": "Avdija (foot) won't play Tuesday versus Minnesota.",
+   "status": "Out",
    "official_status": null,
    "reason": "Leg Foot"
   },
@@ -1060,15 +1072,15 @@
   },
   {
    "team": "SAC",
-   "player_id": "3064440",
-   "name": "Zach LaVine",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
-   "return_date": "2026-11-18",
-   "comment": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports.",
-   "status": "Day-To-Day",
+   "player_id": "4898371",
+   "name": "Maxime Raynaud",
+   "espn_status": "Out",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-11-25",
+   "comment": "Raynaud (knee) will remain on the inactive list for Wednesday's game against the Suns.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Other Illness"
+   "reason": "Right Leg Knee"
   },
   {
    "team": "SAC",
@@ -1077,7 +1089,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Torso Hip",
    "return_date": "2026-11-18",
-   "comment": "Hunter (hip) is out for Sunday's game against the Thunder.",
+   "comment": "Hunter (hip) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Torso Hip"
@@ -1089,22 +1101,10 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Ankle",
    "return_date": "2026-11-18",
-   "comment": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports.",
+   "comment": "Achiuwa (ankle) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Ankle"
-  },
-  {
-   "team": "SAC",
-   "player_id": "4898371",
-   "name": "Maxime Raynaud",
-   "espn_status": "Out",
-   "detail": "Right Leg Knee",
-   "return_date": "2026-11-18",
-   "comment": "Raynaud (knee) has been ruled out for Sunday's game against the Thunder.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Knee"
   },
   {
    "team": "SAC",
@@ -1117,6 +1117,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Achilles"
+  },
+  {
+   "team": "SA",
+   "player_id": "5037871",
+   "name": "Dylan Harper",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Undisclosed",
+   "return_date": "2026-11-19",
+   "comment": "Harper left Tuesday's game against the Spurs due to an undisclosed injury after an awkward fall, Chris Mannix reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Undisclosed"
   },
   {
    "team": "SA",
@@ -2059,6 +2071,11 @@
     "player_id": "5107818",
     "name": "Isaac Jones",
     "position": "C"
+   },
+   {
+    "player_id": "4700852",
+    "name": "Chaz Lanier",
+    "position": "G"
    },
    {
     "player_id": "5258459",
@@ -3795,6 +3812,11 @@
    }
   ],
   "UTAH": [
+   {
+    "player_id": "4684682",
+    "name": "Jonas Aidoo",
+    "position": "C"
+   },
    {
     "player_id": "4873138",
     "name": "Ace Bailey",

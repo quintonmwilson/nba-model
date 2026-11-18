@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-18T12:00:45-05:00",
- "official_report": "2026-11-18T12:00:00-05:00",
+ "fetched_at": "2026-11-18T18:15:37-05:00",
+ "official_report": "2026-11-18T18:15:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -112,18 +112,6 @@
   },
   {
    "team": "CHI",
-   "player_id": "4431687",
-   "name": "Patrick Williams",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Finger",
-   "return_date": "2026-11-18",
-   "comment": "Williams (finger) is listed as probable for Wednesday's game against Brooklyn.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Finger"
-  },
-  {
-   "team": "CHI",
    "player_id": "5105555",
    "name": "Tobe Awaka",
    "espn_status": "Out",
@@ -148,6 +136,30 @@
   },
   {
    "team": "CLE",
+   "player_id": "4576087",
+   "name": "Peyton Watson",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Back",
+   "return_date": "2026-11-18",
+   "comment": "Watson (back) is doubtful for Wednesday's game versus Memphis.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
+  {
+   "team": "CLE",
+   "player_id": "4683747",
+   "name": "Jaylon Tyson",
+   "espn_status": "Out",
+   "detail": "Right Leg Ankle",
+   "return_date": "2026-11-20",
+   "comment": "Tyson (ankle) has been ruled out for Wednesday's game against Memphis.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Ankle"
+  },
+  {
+   "team": "CLE",
    "player_id": "5106268",
    "name": "Nae'Qwan Tomlin",
    "espn_status": "Out",
@@ -160,18 +172,6 @@
   },
   {
    "team": "CLE",
-   "player_id": "4683747",
-   "name": "Jaylon Tyson",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Ankle",
-   "return_date": "2026-11-18",
-   "comment": "Tyson (ankle) is listed as doubtful for Wednesday's game against the Grizzlies.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Ankle"
-  },
-  {
-   "team": "CLE",
    "player_id": "4066757",
    "name": "Sam Merrill",
    "espn_status": "Out",
@@ -181,18 +181,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Arm Elbow"
-  },
-  {
-   "team": "CLE",
-   "player_id": "4576087",
-   "name": "Peyton Watson",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-18",
-   "comment": "Watson (back) is listed as questionable for Wednesday's game against Memphis.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Torso Back"
   },
   {
    "team": "CLE",
@@ -304,27 +292,15 @@
   },
   {
    "team": "DET",
-   "player_id": "2990962",
-   "name": "Taurean Prince",
+   "player_id": "4432166",
+   "name": "Cade Cunningham",
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Knee",
    "return_date": "2026-11-18",
-   "comment": "Prince (knee) has been ruled out for Tuesday's game against the Spurs.",
+   "comment": "Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "DET",
-   "player_id": "4683771",
-   "name": "Ronald Holland II",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-18",
-   "comment": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Knee"
   },
   {
    "team": "DET",
@@ -333,10 +309,34 @@
    "espn_status": "Out",
    "detail": "Right Torso Hip",
    "return_date": "2026-11-18",
-   "comment": "Joe (hip) is out for Tuesday's game against the Spurs.",
+   "comment": "Joe (hip) is listed as questionable for Wednesday's game against the Pelicans.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Torso Hip"
+  },
+  {
+   "team": "DET",
+   "player_id": "2990962",
+   "name": "Taurean Prince",
+   "espn_status": "Out",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-11-20",
+   "comment": "Prince (knee) is out for Wednesday's game against the Pelicans.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Knee"
+  },
+  {
+   "team": "DET",
+   "player_id": "4683771",
+   "name": "Ronald Holland II",
+   "espn_status": "Out",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-20",
+   "comment": "Holland (knee) is out for Wednesday's game against the Pelicans.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Knee"
   },
   {
    "team": "DET",
@@ -361,6 +361,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "GS",
+   "player_id": "4397040",
+   "name": "Brandon Williams",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-11-22",
+   "comment": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
   },
   {
    "team": "GS",
@@ -397,18 +409,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Torso Abdomen"
-  },
-  {
-   "team": "GS",
-   "player_id": "4397040",
-   "name": "Brandon Williams",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-22",
-   "comment": "Williams (hamstring) will miss at least one week, per Anthony Slater of ESPN.com.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
   },
   {
    "team": "GS",
@@ -459,38 +459,14 @@
    "reason": "Right Leg Ankle"
   },
   {
-   "team": "HOU",
-   "player_id": "4684740",
-   "name": "Amen Thompson",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-18",
-   "comment": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Knee"
-  },
-  {
-   "team": "IND",
-   "player_id": "2530530",
-   "name": "T.J. McConnell",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Hamstring",
-   "return_date": "2026-11-18",
-   "comment": "McConnell (hamstring) is probable to play Wednesday against the Rockets.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Hamstring"
-  },
-  {
    "team": "IND",
    "player_id": "4395712",
    "name": "Andrew Nembhard",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Torso Hip",
-   "return_date": "2026-11-18",
-   "comment": "Nembhard (hip) is questionable for Wednesday's game against Houston.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-20",
+   "comment": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Torso Hip"
   },
@@ -532,23 +508,11 @@
   },
   {
    "team": "LAC",
-   "player_id": "5108024",
-   "name": "Yanic Konan Niederhauser",
-   "espn_status": "Out",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-23",
-   "comment": "Niederhauser (foot) has been ruled out for Tuesday's game against the Jazz.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Foot"
-  },
-  {
-   "team": "LAC",
    "player_id": "3913176",
    "name": "Brandon Ingram",
    "espn_status": "Out",
    "detail": "Right Leg Achilles",
-   "return_date": "2026-11-19",
+   "return_date": "2026-11-21",
    "comment": "Ingram (Achilles) won't play in Friday's game against the Thunder, per Law Murray of The Athletic.",
    "status": "Out",
    "official_status": null,
@@ -582,25 +546,13 @@
    "team": "LAL",
    "player_id": "4066457",
    "name": "Austin Reaves",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Heel",
-   "return_date": "2026-11-18",
-   "comment": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-20",
+   "comment": "Reaves (heel) is out for Wednesday's game against the Jazz.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Heel"
-  },
-  {
-   "team": "LAL",
-   "player_id": "4433136",
-   "name": "Walker Kessler",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Lower Leg",
-   "return_date": "2026-11-18",
-   "comment": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Lower Leg"
   },
   {
    "team": "MEM",
@@ -666,37 +618,25 @@
    "team": "MIA",
    "player_id": "4431772",
    "name": "Myron Gardner",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Leg Hamstring",
-   "return_date": "2026-11-18",
-   "comment": "Gardner (hamstring) is questionable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-22",
+   "comment": "Gardner (hamstring) is out for Wednesday's game against the Bucks.",
+   "status": "Out",
    "official_status": null,
    "reason": "Leg Hamstring"
   },
   {
-   "team": "MIA",
-   "player_id": "4997528",
-   "name": "Nikola Jovic",
-   "espn_status": "Day-To-Day",
+   "team": "MIL",
+   "player_id": "4591725",
+   "name": "Ryan Rollins",
+   "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-18",
-   "comment": "Jovic (illness) is listed as probable for Wednesday's game against Milwaukee, Ira Winderman of the South Florida Sun Sentinel reports.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-19",
+   "comment": "Rollins (illness) has been ruled out for Wednesday's game at Miami.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
-  },
-  {
-   "team": "MIA",
-   "player_id": "4066261",
-   "name": "Bam Adebayo",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Torso Hip",
-   "return_date": "2026-11-18",
-   "comment": "Adebayo (hip) is probable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Torso Hip"
   },
   {
    "team": "MIL",
@@ -897,7 +837,7 @@
    "espn_status": "Out",
    "detail": "Left Leg Ankle",
    "return_date": "2026-11-28",
-   "comment": "Nelson (ankle) has been ruled out for Wednesday's game against the 76ers.",
+   "comment": "Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing \"some on-court stuff,\" though Sweeney added that the work has been \"minimal,\" Jason Beede of the Orlando Sentinel reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Ankle"
@@ -940,6 +880,42 @@
   },
   {
    "team": "PHI",
+   "player_id": "4431678",
+   "name": "Tyrese Maxey",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Foot",
+   "return_date": "2026-11-18",
+   "comment": "Maxey closed Monday's 135-123 win over the Nets with 24 points (7-12 FG, 4-8 3Pt, 6-6 FT), nine assists, one rebound and one steal across 35 minutes.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Foot"
+  },
+  {
+   "team": "PHI",
+   "player_id": "3917376",
+   "name": "Jaylen Brown",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-11-21",
+   "comment": "Brown (hamstring) will be re-evaluated at some point this weekend, per Kris Rihm of ESPN.com.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "PHI",
+   "player_id": "3912848",
+   "name": "Dean Wade",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-11-18",
+   "comment": "Wade (hamstring) has been downgraded to questionable for Wednesday's game against the Magic.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "PHI",
    "player_id": "4870562",
    "name": "Dominick Barlow",
    "espn_status": "Out",
@@ -949,18 +925,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Not Specified Torso Back"
-  },
-  {
-   "team": "PHI",
-   "player_id": "3917376",
-   "name": "Jaylen Brown",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-21",
-   "comment": "Brown is out for Wednesday's game against the Magic with a left hamstring strain.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
   },
   {
    "team": "PHI",
@@ -1000,15 +964,39 @@
   },
   {
    "team": "POR",
+   "player_id": "4066211",
+   "name": "Robert Williams III",
+   "espn_status": "Out",
+   "detail": "Other Rest",
+   "return_date": "2026-11-21",
+   "comment": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Other Rest"
+  },
+  {
+   "team": "POR",
    "player_id": "4683021",
    "name": "Deni Avdija",
    "espn_status": "Day-To-Day",
    "detail": "Leg Foot",
    "return_date": "2026-11-19",
-   "comment": "Avdija (foot) won't play Tuesday versus Minnesota.",
+   "comment": "Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Leg Foot"
+  },
+  {
+   "team": "POR",
+   "player_id": "4431736",
+   "name": "Toumani Camara",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Rest",
+   "return_date": "2026-11-19",
+   "comment": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Rest"
   },
   {
    "team": "POR",
@@ -1072,30 +1060,6 @@
   },
   {
    "team": "SAC",
-   "player_id": "4065732",
-   "name": "De'Andre Hunter",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-18",
-   "comment": "Hunter (hip) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Torso Hip"
-  },
-  {
-   "team": "SAC",
-   "player_id": "4431679",
-   "name": "Precious Achiuwa",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Ankle",
-   "return_date": "2026-11-18",
-   "comment": "Achiuwa (ankle) is questionable for Wednesday's game against the Suns, James Ham of ESPN 1320 Sacramento reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Ankle"
-  },
-  {
-   "team": "SAC",
    "player_id": "3907387",
    "name": "Ben Simmons",
    "espn_status": "Out",
@@ -1110,11 +1074,11 @@
    "team": "SA",
    "player_id": "5037871",
    "name": "Dylan Harper",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Undisclosed",
-   "return_date": "2026-11-19",
-   "comment": "Harper left Tuesday's game against the Spurs due to an undisclosed injury after an awkward fall, Chris Mannix reports.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-21",
+   "comment": "Harper (hip) won't play in Thursday's game against the Clippers, Jeff McDonald of the San Antonio Express-News reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Undisclosed"
   },
@@ -1144,6 +1108,30 @@
   },
   {
    "team": "TOR",
+   "player_id": "4395625",
+   "name": "RJ Barrett",
+   "espn_status": "Out",
+   "detail": "Leg Hamstring",
+   "return_date": "2026-11-20",
+   "comment": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Sportsnet.ca reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Leg Hamstring"
+  },
+  {
+   "team": "TOR",
+   "player_id": "4433134",
+   "name": "Scottie Barnes",
+   "espn_status": "Out",
+   "detail": "Groin Groin",
+   "return_date": "2026-11-20",
+   "comment": "Barnes (injury management) has been ruled out for Wednesday's game against Washington, Esfandiar Baraheni of The Athletic reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Groin Groin"
+  },
+  {
+   "team": "TOR",
    "player_id": "6450",
    "name": "Kawhi Leonard",
    "espn_status": "Out",
@@ -1167,25 +1155,13 @@
    "reason": "Right Leg Foot"
   },
   {
-   "team": "TOR",
-   "player_id": "4411057",
-   "name": "Kevin McCullar Jr.",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
-   "return_date": "2026-11-20",
-   "comment": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Other Illness"
-  },
-  {
    "team": "UTAH",
    "player_id": "4397077",
    "name": "Jaxson Hayes",
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Knee",
    "return_date": "2026-11-18",
-   "comment": "Hayes (knee) has been ruled out for Tuesday's game against the Clippers.",
+   "comment": "Hayes (knee) is questionable for Wednesday's game against the Lakers.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Knee"

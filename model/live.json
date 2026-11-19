@@ -894,9 +894,34 @@
    "h1_line": "BOS 61 \u2013 49 DEN",
    "markets": [],
    "picks": []
+  },
+  "401910018": {
+   "game_id": "401910018",
+   "date": "2026-11-18",
+   "start_utc": "2026-11-19T03:00Z",
+   "home": "SAC",
+   "away": "PHX",
+   "priced_at": "2026-11-18T23:00:08-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 60.0,
+   "h1_away": 65.0,
+   "pre_2h": 112.62389270432499,
+   "pre_2hm": -1.3728430235547862,
+   "mu_2h": 112.07430756244514,
+   "sd_2h": 13.797946968822473,
+   "mu_2hm": -1.7043600370114589,
+   "sd_2hm": 11.007195521994875,
+   "p_home_win": 0.2739995122789712,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "PHX 65 \u2013 60 SAC",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-17",
  "halftime_fitted": true,
- "updated_at": "2026-11-18T22:52:35-05:00"
+ "updated_at": "2026-11-18T23:00:08-05:00"
 }

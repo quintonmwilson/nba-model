@@ -919,9 +919,34 @@
    "h1_line": "PHX 65 \u2013 60 SAC",
    "markets": [],
    "picks": []
+  },
+  "401910017": {
+   "game_id": "401910017",
+   "date": "2026-11-18",
+   "start_utc": "2026-11-19T03:00Z",
+   "home": "LAL",
+   "away": "UTAH",
+   "priced_at": "2026-11-18T23:13:42-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 54.0,
+   "h1_away": 56.0,
+   "pre_2h": 116.63332128311646,
+   "pre_2hm": 2.208874435031383,
+   "mu_2h": 115.3527763528777,
+   "sd_2h": 13.797946968822473,
+   "mu_2hm": 4.365716352137417,
+   "sd_2hm": 11.007195521994875,
+   "p_home_win": 0.5880099194027292,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "UTAH 56 \u2013 54 LAL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-17",
  "halftime_fitted": true,
- "updated_at": "2026-11-18T23:00:08-05:00"
+ "updated_at": "2026-11-18T23:13:42-05:00"
 }

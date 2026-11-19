@@ -749,9 +749,34 @@
     }
    ],
    "picks": []
+  },
+  "401910014": {
+   "game_id": "401910014",
+   "date": "2026-11-18",
+   "start_utc": "2026-11-19T01:00Z",
+   "home": "OKC",
+   "away": "ATL",
+   "priced_at": "2026-11-18T21:04:03-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 51.0,
+   "h1_away": 64.0,
+   "pre_2h": 111.10840064651194,
+   "pre_2hm": 1.6133219917455008,
+   "mu_2h": 110.51790142328507,
+   "sd_2h": 13.797946968822473,
+   "mu_2hm": 4.77501252226943,
+   "sd_2hm": 11.007195521994875,
+   "p_home_win": 0.23002260384174444,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "ATL 64 \u2013 51 OKC",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-17",
  "halftime_fitted": true,
- "updated_at": "2026-11-18T20:36:57-05:00"
+ "updated_at": "2026-11-18T21:04:03-05:00"
 }

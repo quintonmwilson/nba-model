@@ -799,9 +799,34 @@
    "h1_line": "DET 67 \u2013 60 NO",
    "markets": [],
    "picks": []
+  },
+  "401910016": {
+   "game_id": "401910016",
+   "date": "2026-11-18",
+   "start_utc": "2026-11-19T01:00Z",
+   "home": "DAL",
+   "away": "GS",
+   "priced_at": "2026-11-18T21:13:07-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 62.0,
+   "h1_away": 49.0,
+   "pre_2h": 117.01014365394228,
+   "pre_2hm": 1.5153974308911558,
+   "mu_2h": 116.35823125676383,
+   "sd_2h": 13.797946968822473,
+   "mu_2hm": -0.6218508808145682,
+   "sd_2hm": 11.007195521994875,
+   "p_home_win": 0.8710015196124885,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "GS 49 \u2013 62 DAL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-17",
  "halftime_fitted": true,
- "updated_at": "2026-11-18T21:11:35-05:00"
+ "updated_at": "2026-11-18T21:13:07-05:00"
 }

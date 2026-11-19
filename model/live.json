@@ -774,9 +774,34 @@
    "h1_line": "ATL 64 \u2013 51 OKC",
    "markets": [],
    "picks": []
+  },
+  "401910013": {
+   "game_id": "401910013",
+   "date": "2026-11-18",
+   "start_utc": "2026-11-19T01:00Z",
+   "home": "NO",
+   "away": "DET",
+   "priced_at": "2026-11-18T21:11:35-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 60.0,
+   "h1_away": 67.0,
+   "pre_2h": 117.84255703623059,
+   "pre_2hm": -5.048592422907703,
+   "mu_2h": 117.6681590130047,
+   "sd_2h": 13.797946968822473,
+   "mu_2hm": -4.416012273859573,
+   "sd_2hm": 11.007195521994875,
+   "p_home_win": 0.1518835568893584,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "DET 67 \u2013 60 NO",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-17",
  "halftime_fitted": true,
- "updated_at": "2026-11-18T21:04:03-05:00"
+ "updated_at": "2026-11-18T21:11:35-05:00"
 }

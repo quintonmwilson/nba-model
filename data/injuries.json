@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-19T18:15:36-05:00",
- "official_report": "2026-11-19T18:15:00-05:00",
+ "fetched_at": "2026-11-20T07:01:00-05:00",
+ "official_report": "2026-11-20T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -366,25 +366,13 @@
    "team": "GS",
    "player_id": "6589",
    "name": "Draymond Green",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Not Specified Other Rest",
    "return_date": "2026-11-22",
    "comment": "Green (elbow) is out for Thursday's game against the Grizzlies.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Not Specified Other Rest"
-  },
-  {
-   "team": "GS",
-   "player_id": "4433149",
-   "name": "LJ Cryer",
-   "espn_status": "Day-To-Day",
-   "detail": "Torso Back",
-   "return_date": "2026-11-19",
-   "comment": "Cryer (back) is questionable for Thursday's game against Memphis.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Torso Back"
+   "reason": "Not Specified Other Rest"
   },
   {
    "team": "GS",
@@ -448,15 +436,15 @@
   },
   {
    "team": "HOU",
-   "player_id": "4871144",
-   "name": "Alperen Sengun",
+   "player_id": "2991235",
+   "name": "Steven Adams",
    "espn_status": "Day-To-Day",
-   "detail": "Head Eye",
+   "detail": "Right Leg Quadriceps",
    "return_date": "2026-11-20",
-   "comment": "Sengun (eye) will not return to Wednesday's game against the Pacers, Will Guillory of The Athletic reports.",
+   "comment": "Adams (quadriceps) is listed as questionable for Friday's game against Denver.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Head Eye"
+   "reason": "Right Leg Quadriceps"
   },
   {
    "team": "HOU",
@@ -464,11 +452,23 @@
    "name": "Clint Capela",
    "espn_status": "Out",
    "detail": "Right Leg Ankle",
-   "return_date": "2026-11-20",
-   "comment": "Capela (ankle) has been ruled out for Wednesday's game against Indiana.",
+   "return_date": "2026-11-23",
+   "comment": "Capela (ankle) is out for Friday's game against Denver.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Ankle"
+  },
+  {
+   "team": "HOU",
+   "player_id": "4871144",
+   "name": "Alperen Sengun",
+   "espn_status": "Day-To-Day",
+   "detail": "Head Eye",
+   "return_date": "2026-11-20",
+   "comment": "Sengun (eye) is questionable for Friday's game against the Nuggets.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Head Eye"
   },
   {
    "team": "IND",
@@ -584,35 +584,35 @@
    "name": "Austin Reaves",
    "espn_status": "Out",
    "detail": "Left Leg Heel",
-   "return_date": "2026-11-20",
-   "comment": "Head coach JJ Redick said Reaves' (heel) pregame workout went \"well,\" but he remains without an official timetable to return, Daniel Starkand of LakersNation.com reports.",
+   "return_date": "2026-11-23",
+   "comment": "Reaves (heel) is listed as out for Friday's game against the Kings.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Heel"
   },
   {
    "team": "MEM",
-   "player_id": "4432810",
-   "name": "Isaiah Stewart",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
-   "return_date": "2026-11-19",
-   "comment": "Stewart is questionable for Thursday's game against the Warriors due to an illness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Other Illness"
-  },
-  {
-   "team": "MEM",
    "player_id": "4600663",
    "name": "Zach Edey",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Leg Ankle",
    "return_date": "2026-11-21",
    "comment": "Edey (hip) has been ruled out for Thursday's game against the Warriors.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Leg Ankle"
+  },
+  {
+   "team": "MEM",
+   "player_id": "2991070",
+   "name": "Jerami Grant",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Calf",
+   "return_date": "2026-11-21",
+   "comment": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Calf"
   },
   {
    "team": "MEM",
@@ -676,27 +676,27 @@
   },
   {
    "team": "MIL",
-   "player_id": "3134907",
-   "name": "Kyle Kuzma",
-   "espn_status": "Out",
-   "detail": "Right Arm Shoulder",
-   "return_date": "2026-11-21",
-   "comment": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Arm Shoulder"
-  },
-  {
-   "team": "MIL",
    "player_id": "3133628",
    "name": "Myles Turner",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Left Arm Shoulder",
    "return_date": "2026-11-21",
    "comment": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Arm Shoulder"
+  },
+  {
+   "team": "MIL",
+   "player_id": "3134907",
+   "name": "Kyle Kuzma",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Shoulder",
+   "return_date": "2026-11-21",
+   "comment": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Shoulder"
   },
   {
    "team": "MIL",
@@ -709,18 +709,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Arm Finger"
-  },
-  {
-   "team": "MIN",
-   "player_id": "4433247",
-   "name": "Jonathan Kuminga",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Shoulder",
-   "return_date": "2026-11-19",
-   "comment": "Kuminga (shoulder) is questionable for Thursday's game against the Knicks, Charlie Walton of ZoneCoverage.com reports.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Shoulder"
   },
   {
    "team": "MIN",
@@ -825,7 +813,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Right Torso Hip",
    "return_date": "2026-11-20",
-   "comment": "Caruso won't return to Wednesday's game against the Hawks due to right hip soreness, Clemente Almanza of USA Today reports.",
+   "comment": "Caruso is questionable for Friday's game against the Pelicans due to right hip soreness, Justin Martinez of The Oklahoman reports.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Torso Hip"
@@ -1012,25 +1000,13 @@
   },
   {
    "team": "POR",
-   "player_id": "4706557",
-   "name": "Chris Youngblood",
-   "espn_status": "Out",
-   "detail": "Right Leg Heel",
-   "return_date": "2026-11-21",
-   "comment": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Heel"
-  },
-  {
-   "team": "POR",
    "player_id": "4066211",
    "name": "Robert Williams III",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Other Rest",
    "return_date": "2026-11-21",
    "comment": "Williams (rest) is listed as out for Thursday's game versus the Bucks.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Rest"
   },
@@ -1040,23 +1016,23 @@
    "name": "Deni Avdija",
    "espn_status": "Day-To-Day",
    "detail": "Leg Foot",
-   "return_date": "2026-11-19",
-   "comment": "Avdija (foot) is listed as questionable ahead of Thursday's game against Milwaukee.",
+   "return_date": "2026-11-21",
+   "comment": "Avdija (foot) is listed as out for Thursday's game against the Bucks.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Leg Foot"
   },
   {
    "team": "POR",
-   "player_id": "4431736",
-   "name": "Toumani Camara",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Rest",
-   "return_date": "2026-11-19",
-   "comment": "Camara is questionable to play Thursday against the Bucks due to general soreness.",
-   "status": "Day-To-Day",
+   "player_id": "4706557",
+   "name": "Chris Youngblood",
+   "espn_status": "Out",
+   "detail": "Right Leg Heel",
+   "return_date": "2026-11-21",
+   "comment": "Youngblood (heel) has been ruled out for Thursday's game against the Bucks.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Other Rest"
+   "reason": "Right Leg Heel"
   },
   {
    "team": "POR",
@@ -1093,6 +1069,30 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "SAC",
+   "player_id": "4431679",
+   "name": "Precious Achiuwa",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Lower Leg",
+   "return_date": "2026-11-20",
+   "comment": "Achiuwa is doubtful for Friday's game against the Lakers due to a left lower leg bruise.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Lower Leg"
+  },
+  {
+   "team": "SAC",
+   "player_id": "4065732",
+   "name": "De'Andre Hunter",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-20",
+   "comment": "Hunter (hip) is listed as questionable for Friday's game against the Lakers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Torso Hip"
   },
   {
    "team": "SAC",
@@ -1204,6 +1204,18 @@
   },
   {
    "team": "UTAH",
+   "player_id": "3102530",
+   "name": "Jusuf Nurkic",
+   "espn_status": "Out",
+   "detail": "Right Leg Foot",
+   "return_date": "2026-11-27",
+   "comment": "Nurkic (toe) is listed as out for Friday's game against Phoenix.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Foot"
+  },
+  {
+   "team": "UTAH",
    "player_id": "4066336",
    "name": "Lauri Markkanen",
    "espn_status": "Out",
@@ -1213,18 +1225,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Arm Hand"
-  },
-  {
-   "team": "UTAH",
-   "player_id": "3102530",
-   "name": "Jusuf Nurkic",
-   "espn_status": "Out",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-20",
-   "comment": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Foot"
   },
   {
    "team": "UTAH",

@@ -620,9 +620,34 @@
    "h1_line": "NY 34 \u2013 28 MIN",
    "markets": [],
    "picks": []
+  },
+  "401910022": {
+   "game_id": "401910022",
+   "date": "2026-11-19",
+   "start_utc": "2026-11-20T01:00Z",
+   "home": "SA",
+   "away": "LAC",
+   "priced_at": "2026-11-19T21:06:58-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 57.0,
+   "h1_away": 54.0,
+   "pre_2h": 111.98584148622189,
+   "pre_2hm": 10.751057029896359,
+   "mu_2h": 110.8304500777294,
+   "sd_2h": 13.81969284185641,
+   "mu_2hm": 12.000127311191251,
+   "sd_2hm": 11.042255144992273,
+   "p_home_win": 0.9138364606672787,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "LAC 54 \u2013 57 SA",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-18",
  "halftime_fitted": true,
- "updated_at": "2026-11-19T20:39:52-05:00"
+ "updated_at": "2026-11-19T21:06:58-05:00"
 }

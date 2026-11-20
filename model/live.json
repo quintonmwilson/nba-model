@@ -670,9 +670,34 @@
    "h1_line": "GS 47 \u2013 55 MEM",
    "markets": [],
    "picks": []
+  },
+  "401910020": {
+   "game_id": "401910020",
+   "date": "2026-11-19",
+   "start_utc": "2026-11-20T01:00Z",
+   "home": "MIL",
+   "away": "POR",
+   "priced_at": "2026-11-19T21:14:31-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 58.0,
+   "h1_away": 60.0,
+   "pre_2h": 120.60498208902743,
+   "pre_2hm": -6.6030021391358815,
+   "mu_2h": 119.96685761763935,
+   "sd_2h": 13.81969284185641,
+   "mu_2hm": -8.922281660856484,
+   "sd_2hm": 11.042255144992273,
+   "p_home_win": 0.1634293200829016,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "POR 60 \u2013 58 MIL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-18",
  "halftime_fitted": true,
- "updated_at": "2026-11-19T21:13:00-05:00"
+ "updated_at": "2026-11-19T21:14:31-05:00"
 }

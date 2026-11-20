@@ -7,10 +7,10 @@
   "neutral": false,
   "home_team": "ATL",
   "away_team": "CHA",
-  "total_line": 219.5,
+  "total_line": 218.5,
   "spread_home": -6.5,
-  "ml_home": -230.0,
-  "ml_away": 191.0,
+  "ml_home": -237.0,
+  "ml_away": 196.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -22,9 +22,9 @@
   "home_team": "BKN",
   "away_team": "ORL",
   "total_line": 223.5,
-  "spread_home": 5.5,
-  "ml_home": 181.0,
-  "ml_away": -218.0,
+  "spread_home": 6.5,
+  "ml_home": 211.0,
+  "ml_away": -257.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -36,9 +36,9 @@
   "home_team": "CLE",
   "away_team": "IND",
   "total_line": 233.5,
-  "spread_home": -7.5,
-  "ml_home": -283.0,
-  "ml_away": 231.0,
+  "spread_home": -5.5,
+  "ml_home": -230.0,
+  "ml_away": 191.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -49,10 +49,10 @@
   "neutral": false,
   "home_team": "DET",
   "away_team": "TOR",
-  "total_line": 217.5,
-  "spread_home": -7.5,
-  "ml_home": -291.0,
-  "ml_away": 237.0,
+  "total_line": 216.5,
+  "spread_home": -6.5,
+  "ml_home": -264.0,
+  "ml_away": 217.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -63,10 +63,10 @@
   "neutral": false,
   "home_team": "CHI",
   "away_team": "WSH",
-  "total_line": 239.5,
+  "total_line": 238.5,
   "spread_home": -2.5,
-  "ml_home": -142.0,
-  "ml_away": 120.0,
+  "ml_home": -135.0,
+  "ml_away": 114.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -79,8 +79,8 @@
   "away_team": "NO",
   "total_line": 228.5,
   "spread_home": -11.5,
-  "ml_home": -546.0,
-  "ml_away": 411.0,
+  "ml_home": -598.0,
+  "ml_away": 443.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -91,10 +91,10 @@
   "neutral": false,
   "home_team": "UTAH",
   "away_team": "PHX",
-  "total_line": 226.5,
+  "total_line": 224.5,
   "spread_home": 4.5,
-  "ml_home": 151.0,
-  "ml_away": -180.0,
+  "ml_home": 154.0,
+  "ml_away": -184.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -105,9 +105,9 @@
   "neutral": false,
   "home_team": "DEN",
   "away_team": "HOU",
-  "total_line": 225.5,
+  "total_line": 226.5,
   "spread_home": -1.5,
-  "ml_home": -119.0,
+  "ml_home": -120.0,
   "ml_away": 101.0,
   "odds_provider": "Draft Kings"
  },
@@ -121,8 +121,8 @@
   "away_team": "SAC",
   "total_line": 229.5,
   "spread_home": -14.5,
-  "ml_home": -890.0,
-  "ml_away": 600.0,
+  "ml_home": -940.0,
+  "ml_away": 630.0,
   "odds_provider": "Draft Kings"
  },
  {

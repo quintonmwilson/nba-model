@@ -595,9 +595,34 @@
    "h1_line": "UTAH 56 \u2013 54 LAL",
    "markets": [],
    "picks": []
+  },
+  "401910021": {
+   "game_id": "401910021",
+   "date": "2026-11-19",
+   "start_utc": "2026-11-20T01:00Z",
+   "home": "MIN",
+   "away": "NY",
+   "priced_at": "2026-11-19T20:39:52-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 28.0,
+   "h1_away": 34.0,
+   "pre_2h": 106.11959206564433,
+   "pre_2hm": 2.324659523225236,
+   "mu_2h": 103.40662999528737,
+   "sd_2h": 13.81969284185641,
+   "mu_2hm": 3.220963473210735,
+   "sd_2hm": 11.042255144992273,
+   "p_home_win": 0.40372087391617156,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "NY 34 \u2013 28 MIN",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-18",
  "halftime_fitted": true,
- "updated_at": "2026-11-19T19:30:41-05:00"
+ "updated_at": "2026-11-19T20:39:52-05:00"
 }

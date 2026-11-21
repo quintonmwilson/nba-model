@@ -219,9 +219,34 @@
    "h1_line": "ORL 62 \u2013 61 BKN",
    "markets": [],
    "picks": []
+  },
+  "401909309": {
+   "game_id": "401909309",
+   "date": "2026-11-20",
+   "start_utc": "2026-11-21T01:00Z",
+   "home": "CHI",
+   "away": "WSH",
+   "priced_at": "2026-11-20T21:05:25-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 60.0,
+   "h1_away": 52.0,
+   "pre_2h": 121.92188899455721,
+   "pre_2hm": 0.34138874722937373,
+   "mu_2h": 120.70001629372285,
+   "sd_2h": 13.850130845302756,
+   "mu_2hm": -0.04428790236237368,
+   "sd_2hm": 11.043867904527168,
+   "p_home_win": 0.766493783508089,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "WSH 52 \u2013 60 CHI",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-19",
  "halftime_fitted": true,
- "updated_at": "2026-11-20T20:45:52-05:00"
+ "updated_at": "2026-11-20T21:05:25-05:00"
 }

@@ -1,19 +1,5 @@
 [
  {
-  "game_id": "401910023",
-  "game_date": "2026-11-21",
-  "start_utc": "2026-11-21T18:00Z",
-  "game_type": 2,
-  "neutral": false,
-  "home_team": "PHI",
-  "away_team": "MIL",
-  "total_line": 228.5,
-  "spread_home": -10.5,
-  "ml_home": -545.0,
-  "ml_away": 411.0,
-  "odds_provider": "DraftKings"
- },
- {
   "game_id": "401910024",
   "game_date": "2026-11-21",
   "start_utc": "2026-11-22T00:30Z",
@@ -21,10 +7,10 @@
   "neutral": false,
   "home_team": "NY",
   "away_team": "POR",
-  "total_line": 215.5,
-  "spread_home": -3.5,
-  "ml_home": -155.0,
-  "ml_away": 131.0,
+  "total_line": 213.5,
+  "spread_home": 1.5,
+  "ml_home": -105.0,
+  "ml_away": -112.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -36,9 +22,9 @@
   "home_team": "DAL",
   "away_team": "LAC",
   "total_line": 230.5,
-  "spread_home": -5.5,
-  "ml_home": -217.0,
-  "ml_away": 180.0,
+  "spread_home": -4.5,
+  "ml_home": -191.0,
+  "ml_away": 160.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -50,9 +36,9 @@
   "home_team": "MIN",
   "away_team": "MEM",
   "total_line": 228.5,
-  "spread_home": -6.5,
-  "ml_home": -237.0,
-  "ml_away": 196.0,
+  "spread_home": -5.5,
+  "ml_home": -222.0,
+  "ml_away": 184.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -63,10 +49,10 @@
   "neutral": false,
   "home_team": "SA",
   "away_team": "NO",
-  "total_line": 228.5,
+  "total_line": 229.5,
   "spread_home": -18.5,
-  "ml_home": -1580.0,
-  "ml_away": 900.0,
+  "ml_home": -1700.0,
+  "ml_away": 940.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -77,10 +63,10 @@
   "neutral": false,
   "home_team": "SAC",
   "away_team": "BOS",
-  "total_line": 217.5,
-  "spread_home": 13.5,
-  "ml_home": 554.0,
-  "ml_away": -790.0,
+  "total_line": 215.5,
+  "spread_home": 12.5,
+  "ml_home": 446.0,
+  "ml_away": -600.0,
   "odds_provider": "DraftKings"
  },
  {
@@ -91,11 +77,11 @@
   "neutral": false,
   "home_team": "ATL",
   "away_team": "DET",
-  "total_line": null,
-  "spread_home": null,
-  "ml_home": null,
-  "ml_away": null,
-  "odds_provider": null
+  "total_line": 227.5,
+  "spread_home": 2.5,
+  "ml_home": 110.0,
+  "ml_away": -130.0,
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401910030",

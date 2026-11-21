@@ -244,9 +244,34 @@
    "h1_line": "WSH 52 \u2013 60 CHI",
    "markets": [],
    "picks": []
+  },
+  "401909310": {
+   "game_id": "401909310",
+   "date": "2026-11-20",
+   "start_utc": "2026-11-21T01:00Z",
+   "home": "OKC",
+   "away": "NO",
+   "priced_at": "2026-11-20T21:06:57-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 56.0,
+   "h1_away": 64.0,
+   "pre_2h": 116.95872131684747,
+   "pre_2hm": 5.905958299259986,
+   "mu_2h": 116.46578830809399,
+   "sd_2h": 13.850130845302756,
+   "mu_2hm": 8.534286888291827,
+   "sd_2hm": 11.043867904527168,
+   "p_home_win": 0.5223388514005588,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "NO 64 \u2013 56 OKC",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-19",
  "halftime_fitted": true,
- "updated_at": "2026-11-20T21:05:25-05:00"
+ "updated_at": "2026-11-20T21:06:57-05:00"
 }

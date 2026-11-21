@@ -143,7 +143,12 @@
    "book": null,
    "h1_line": "CHA 57 \u2013 56 ATL",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 111.0,
+    "away": 97.0
+   },
+   "act_2h": 95.0
   },
   "401909308": {
    "game_id": "401909308",
@@ -168,7 +173,12 @@
    "book": null,
    "h1_line": "TOR 54 \u2013 48 DET",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 102.0,
+    "away": 105.0
+   },
+   "act_2h": 105.0
   },
   "401909307": {
    "game_id": "401909307",
@@ -193,7 +203,12 @@
    "book": null,
    "h1_line": "IND 61 \u2013 62 CLE",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 128.0,
+    "away": 119.0
+   },
+   "act_2h": 124.0
   },
   "401909306": {
    "game_id": "401909306",
@@ -218,7 +233,12 @@
    "book": null,
    "h1_line": "ORL 62 \u2013 61 BKN",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 111.0,
+    "away": 113.0
+   },
+   "act_2h": 101.0
   },
   "401909309": {
    "game_id": "401909309",
@@ -243,7 +263,12 @@
    "book": null,
    "h1_line": "WSH 52 \u2013 60 CHI",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 94.0,
+    "away": 98.0
+   },
+   "act_2h": 80.0
   },
   "401909310": {
    "game_id": "401909310",
@@ -268,10 +293,40 @@
    "book": null,
    "h1_line": "NO 64 \u2013 56 OKC",
    "markets": [],
+   "picks": [],
+   "final": {
+    "home": 126.0,
+    "away": 120.0
+   },
+   "act_2h": 126.0
+  },
+  "401909311": {
+   "game_id": "401909311",
+   "date": "2026-11-20",
+   "start_utc": "2026-11-21T02:30Z",
+   "home": "UTAH",
+   "away": "PHX",
+   "priced_at": "2026-11-20T22:40:16-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 49.0,
+   "h1_away": 61.0,
+   "pre_2h": 114.01241869726213,
+   "pre_2hm": -0.22211298411457392,
+   "mu_2h": 113.11213262624956,
+   "sd_2h": 13.850130845302756,
+   "mu_2hm": 0.9486507568048688,
+   "sd_2hm": 11.043867904527168,
+   "p_home_win": 0.16060038229310242,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "PHX 61 \u2013 49 UTAH",
+   "markets": [],
    "picks": []
   }
  },
  "model_through": "2026-11-19",
  "halftime_fitted": true,
- "updated_at": "2026-11-20T21:06:57-05:00"
+ "updated_at": "2026-11-20T22:40:16-05:00"
 }

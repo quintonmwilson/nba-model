@@ -324,9 +324,34 @@
    "h1_line": "PHX 61 \u2013 49 UTAH",
    "markets": [],
    "picks": []
+  },
+  "401909313": {
+   "game_id": "401909313",
+   "date": "2026-11-20",
+   "start_utc": "2026-11-21T03:00Z",
+   "home": "LAL",
+   "away": "SAC",
+   "priced_at": "2026-11-20T23:07:20-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 54.0,
+   "h1_away": 62.0,
+   "pre_2h": 111.82521993351536,
+   "pre_2hm": 4.162839871006753,
+   "mu_2h": 110.68382679603228,
+   "sd_2h": 13.850130845302756,
+   "mu_2hm": 7.297409273985309,
+   "sd_2hm": 11.043867904527168,
+   "p_home_win": 0.47772631602961957,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "SAC 62 \u2013 54 LAL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-19",
  "halftime_fitted": true,
- "updated_at": "2026-11-20T22:40:16-05:00"
+ "updated_at": "2026-11-20T23:07:20-05:00"
 }

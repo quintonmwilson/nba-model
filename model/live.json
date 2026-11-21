@@ -144,9 +144,34 @@
    "h1_line": "CHA 57 \u2013 56 ATL",
    "markets": [],
    "picks": []
+  },
+  "401909308": {
+   "game_id": "401909308",
+   "date": "2026-11-20",
+   "start_utc": "2026-11-21T00:30Z",
+   "home": "DET",
+   "away": "TOR",
+   "priced_at": "2026-11-20T20:38:17-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 48.0,
+   "h1_away": 54.0,
+   "pre_2h": 110.62190291119289,
+   "pre_2hm": 4.820756869992735,
+   "mu_2h": 109.41117797352842,
+   "sd_2h": 13.850130845302756,
+   "mu_2hm": 6.024710056066274,
+   "sd_2hm": 11.043867904527168,
+   "p_home_win": 0.5039611310608288,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "TOR 54 \u2013 48 DET",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-19",
  "halftime_fitted": true,
- "updated_at": "2026-11-20T20:06:43-05:00"
+ "updated_at": "2026-11-20T20:38:17-05:00"
 }

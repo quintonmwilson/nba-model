@@ -254,9 +254,34 @@
    "h1_line": "HOU 60 \u2013 62 DEN",
    "markets": [],
    "picks": []
+  },
+  "401910023": {
+   "game_id": "401910023",
+   "date": "2026-11-21",
+   "start_utc": "2026-11-21T18:00Z",
+   "home": "PHI",
+   "away": "MIL",
+   "priced_at": "2026-11-21T14:30:44-05:00",
+   "late": true,
+   "pre_source": "prediction log",
+   "h1_home": 60.0,
+   "h1_away": 59.0,
+   "pre_2h": 118.81074636245953,
+   "pre_2hm": 2.7381746307547985,
+   "mu_2h": 117.96163465270381,
+   "sd_2h": 13.983878462814461,
+   "mu_2hm": 4.023335989835952,
+   "sd_2hm": 11.008780286152943,
+   "p_home_win": 0.6785196951005312,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "MIL 59 \u2013 60 PHI",
+   "markets": [],
+   "picks": []
   }
  },
- "model_through": "2026-11-19",
+ "model_through": "2026-11-20",
  "halftime_fitted": true,
- "updated_at": "2026-11-21T00:01:29-05:00"
+ "updated_at": "2026-11-21T14:30:44-05:00"
 }

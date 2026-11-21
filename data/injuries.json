@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-21T07:00:48-05:00",
- "official_report": "2026-11-21T07:00:00-05:00",
+ "fetched_at": "2026-11-21T12:00:44-05:00",
+ "official_report": "2026-11-21T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -102,11 +102,11 @@
    "team": "BKN",
    "player_id": "5279130",
    "name": "Nolan Traore",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Hamstring",
    "return_date": "2026-11-23",
    "comment": "Traore (hamstring) won't return to Friday's game against Orlando, Meghan Triplett of YES Network reports. He finished with four points (2-6 FG, 0-2 3Pt) and two assists over 18 minutes.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Hamstring"
   },
@@ -114,11 +114,11 @@
    "team": "BKN",
    "player_id": "4702670",
    "name": "Grant Nelson",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Ankle",
    "return_date": "2026-11-23",
    "comment": "Nelson (ankle) has been ruled out for Friday's game against Orlando.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Ankle"
   },
@@ -126,11 +126,11 @@
    "team": "CHA",
    "player_id": "4066218",
    "name": "Grant Williams",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Hamstring",
    "return_date": "2026-11-23",
    "comment": "Williams (hamstring) is listed as out for Friday's game versus the Hawks.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Hamstring"
   },
@@ -138,11 +138,11 @@
    "team": "CHA",
    "player_id": "3135045",
    "name": "Grayson Allen",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Head Concussion",
    "return_date": "2026-11-23",
    "comment": "Allen (concussion) has been ruled out for Friday's game against Atlanta.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Head Concussion"
   },
@@ -174,11 +174,11 @@
    "team": "CHI",
    "player_id": "4397189",
    "name": "Jalen Smith",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Other Illness",
    "return_date": "2026-11-22",
    "comment": "Smith (illness) is out for Friday's game against the Wizards, Joel Lorenzi of The Athletic reports.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -244,6 +244,18 @@
   },
   {
    "team": "DAL",
+   "player_id": "5106040",
+   "name": "Tobi Lawal",
+   "espn_status": "Out",
+   "detail": "Right Groin Groin",
+   "return_date": "2026-11-22",
+   "comment": "Lawal (groin) is out for Saturday's game against the Clippers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Groin Groin"
+  },
+  {
+   "team": "DAL",
    "player_id": "4278078",
    "name": "P.J. Washington",
    "espn_status": "Day-To-Day",
@@ -277,18 +289,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"
-  },
-  {
-   "team": "DAL",
-   "player_id": "5106040",
-   "name": "Tobi Lawal",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Groin Groin",
-   "return_date": "2026-11-21",
-   "comment": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Groin Groin"
   },
   {
    "team": "DAL",
@@ -328,6 +328,18 @@
   },
   {
    "team": "DET",
+   "player_id": "5258459",
+   "name": "Ebuka Okorie",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Torso Oblique",
+   "return_date": "2026-11-22",
+   "comment": "Okorie (oblique) has been ruled out for Friday's game against Toronto.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Torso Oblique"
+  },
+  {
+   "team": "DET",
    "player_id": "4683771",
    "name": "Ronald Holland II",
    "espn_status": "Out",
@@ -349,18 +361,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "DET",
-   "player_id": "5258459",
-   "name": "Ebuka Okorie",
-   "espn_status": "Out",
-   "detail": "Left Torso Oblique",
-   "return_date": "2026-11-22",
-   "comment": "Okorie (oblique) has been ruled out for Friday's game against Toronto.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Torso Oblique"
   },
   {
    "team": "DET",
@@ -486,11 +486,11 @@
    "team": "IND",
    "player_id": "2530530",
    "name": "T.J. McConnell",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Left Leg Hamstring",
    "return_date": "2026-11-22",
    "comment": "Rick Carlisle revealed during his postgame interview that McConnell exited Friday's 128-119 loss with a left hamstring issue, Tony East of Forbes.com reports.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Hamstring"
   },
@@ -772,6 +772,30 @@
   },
   {
    "team": "NY",
+   "player_id": "3934719",
+   "name": "OG Anunoby",
+   "espn_status": "Day-To-Day",
+   "detail": "Leg Calf",
+   "return_date": "2026-11-21",
+   "comment": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Leg Calf"
+  },
+  {
+   "team": "NY",
+   "player_id": "3136195",
+   "name": "Karl-Anthony Towns",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-21",
+   "comment": "Towns is questionable for Saturday's game against the Trail Blazers due to an illness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
+  },
+  {
+   "team": "NY",
    "player_id": "2528426",
    "name": "Jordan Clarkson",
    "espn_status": "Out",
@@ -783,40 +807,28 @@
    "reason": "Right Leg Foot"
   },
   {
-   "team": "NY",
-   "player_id": "3934719",
-   "name": "OG Anunoby",
+   "team": "OKC",
+   "player_id": "5159925",
+   "name": "Nikola Topic",
    "espn_status": "Day-To-Day",
-   "detail": "Leg Calf",
-   "return_date": "2026-11-21",
-   "comment": "Anunoby (calf) is questionable for Saturday's game against Portland.",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-22",
+   "comment": "Topic (hip) is out for Friday's game against New Orleans.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Leg Calf"
+   "reason": "Left Torso Hip"
   },
   {
    "team": "OKC",
    "player_id": "2991350",
    "name": "Alex Caruso",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Torso Hip",
    "return_date": "2026-11-22",
    "comment": "Caruso (hip) is listed as out for Friday's game against the Pelicans.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Torso Hip"
-  },
-  {
-   "team": "OKC",
-   "player_id": "5159925",
-   "name": "Nikola Topic",
-   "espn_status": "Out",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-22",
-   "comment": "Topic (hip) is out for Friday's game against New Orleans.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Torso Hip"
   },
   {
    "team": "OKC",
@@ -916,6 +928,18 @@
   },
   {
    "team": "PHI",
+   "player_id": "4431678",
+   "name": "Tyrese Maxey",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Foot",
+   "return_date": "2026-11-21",
+   "comment": "Maxey (foot) will be a true game-time decision for Saturday's game against the Bucks, head coach Nick Nurse told Ky Carlin of USA Today.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Foot"
+  },
+  {
+   "team": "PHI",
    "player_id": "4870562",
    "name": "Dominick Barlow",
    "espn_status": "Out",
@@ -937,18 +961,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "PHI",
-   "player_id": "4431678",
-   "name": "Tyrese Maxey",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-21",
-   "comment": "Maxey (foot) is questionable for Saturday's game against the Bucks.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Foot"
   },
   {
    "team": "PHI",
@@ -990,11 +1002,11 @@
    "team": "PHX",
    "player_id": "4888725",
    "name": "Ryan Dunn",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Quadriceps",
    "return_date": "2026-11-23",
    "comment": "Dunn won't return to Friday's game against the Jazz due to a right quad injury, Amanda Pflugrad of 3TV Phoenix reports.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Quadriceps"
   },
@@ -1074,11 +1086,11 @@
    "team": "SAC",
    "player_id": "4431679",
    "name": "Precious Achiuwa",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Left Leg Lower Leg",
    "return_date": "2026-11-21",
    "comment": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Lower Leg"
   },
@@ -1144,6 +1156,18 @@
   },
   {
    "team": "TOR",
+   "player_id": "5093267",
+   "name": "Collin Murray-Boyles",
+   "espn_status": "Day-To-Day",
+   "detail": "Head Concussion",
+   "return_date": "2026-11-23",
+   "comment": "Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Head Concussion"
+  },
+  {
+   "team": "TOR",
    "player_id": "6450",
    "name": "Kawhi Leonard",
    "espn_status": "Out",
@@ -1153,18 +1177,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Knee"
-  },
-  {
-   "team": "TOR",
-   "player_id": "5093267",
-   "name": "Collin Murray-Boyles",
-   "espn_status": "Out",
-   "detail": "Head Concussion",
-   "return_date": "2026-11-23",
-   "comment": "Murray-Boyles (concussion) has been ruled out for Friday's game against the Pistons.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Head Concussion"
   },
   {
    "team": "TOR",
@@ -1230,11 +1242,11 @@
    "team": "WSH",
    "player_id": "5105841",
    "name": "Felix Okpara",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Torso Back",
    "return_date": "2026-11-22",
    "comment": "Okpara (illness) is available for Friday's game against Toronto.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Torso Back"
   },

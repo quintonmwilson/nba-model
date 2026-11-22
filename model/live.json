@@ -284,9 +284,34 @@
     "away": 129.0
    },
    "act_2h": 142.0
+  },
+  "401910024": {
+   "game_id": "401910024",
+   "date": "2026-11-21",
+   "start_utc": "2026-11-22T00:30Z",
+   "home": "NY",
+   "away": "POR",
+   "priced_at": "2026-11-21T20:36:50-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 66.0,
+   "h1_away": 43.0,
+   "pre_2h": 106.87273480568058,
+   "pre_2hm": -0.5298106920773975,
+   "mu_2h": 106.25165392536731,
+   "sd_2h": 14.013434102837858,
+   "mu_2hm": -3.054439952511649,
+   "sd_2hm": 11.03935867844592,
+   "p_home_win": 0.9650572125774557,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "POR 43 \u2013 66 NY",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-21",
  "halftime_fitted": true,
- "updated_at": "2026-11-21T20:15:45-05:00"
+ "updated_at": "2026-11-21T20:36:50-05:00"
 }

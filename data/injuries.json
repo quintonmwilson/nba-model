@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-21T18:15:44-05:00",
- "official_report": "2026-11-21T18:15:00-05:00",
+ "fetched_at": "2026-11-22T07:00:43-05:00",
+ "official_report": "2026-11-22T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -184,6 +184,30 @@
   },
   {
    "team": "CHI",
+   "player_id": "4431687",
+   "name": "Patrick Williams",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Arm Thumb",
+   "return_date": "2026-11-22",
+   "comment": "Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Arm Thumb"
+  },
+  {
+   "team": "CHI",
+   "player_id": "2595516",
+   "name": "Norman Powell",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Hamstring",
+   "return_date": "2026-11-22",
+   "comment": "Powell is questionable for Sunday's game against the Nuggets due to a right hamstring strain.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "CHI",
    "player_id": "4397189",
    "name": "Jalen Smith",
    "espn_status": "Day-To-Day",
@@ -258,11 +282,11 @@
    "team": "DAL",
    "player_id": "4278078",
    "name": "P.J. Washington",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-21",
-   "comment": "Washington (illness/shoulder) has been downgraded from questionable to doubtful ahead of Saturday's game against the Clippers.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-22",
+   "comment": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -277,18 +301,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Groin Groin"
-  },
-  {
-   "team": "DAL",
-   "player_id": "4896372",
-   "name": "Walter Clayton Jr.",
-   "espn_status": "Day-To-Day",
-   "detail": "Leg Knee",
-   "return_date": "2026-11-21",
-   "comment": "Clayton (knee) is questionable for Saturday's game against the Clippers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Leg Knee"
   },
   {
    "team": "DAL",
@@ -424,24 +436,12 @@
   },
   {
    "team": "GS",
-   "player_id": "6589",
-   "name": "Draymond Green",
-   "espn_status": "Day-To-Day",
-   "detail": "Not Specified Other Rest",
-   "return_date": "2026-11-22",
-   "comment": "Green (elbow) is out for Thursday's game against the Grizzlies.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Not Specified Other Rest"
-  },
-  {
-   "team": "GS",
    "player_id": "4397040",
    "name": "Brandon Williams",
    "espn_status": "Out",
    "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-22",
-   "comment": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday.",
+   "return_date": "2026-11-25",
+   "comment": "Williams (hamstring) is out for Sunday's game against the Celtics.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
@@ -760,6 +760,18 @@
   },
   {
    "team": "NO",
+   "player_id": "4395628",
+   "name": "Zion Williamson",
+   "espn_status": "Out",
+   "detail": "Left Leg Thigh",
+   "return_date": "2026-11-23",
+   "comment": "Williamson is out for Saturday's game against the Spurs due to a left thigh contusion.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Thigh"
+  },
+  {
+   "team": "NO",
    "player_id": "4397688",
    "name": "Trey Murphy III",
    "espn_status": "Out",
@@ -822,37 +834,37 @@
    "team": "NY",
    "player_id": "3136195",
    "name": "Karl-Anthony Towns",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Other Illness",
    "return_date": "2026-11-22",
    "comment": "Towns (illness) won't play in Saturday's game versus the Trail Blazers.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
   },
   {
    "team": "NY",
-   "player_id": "3934719",
-   "name": "OG Anunoby",
-   "espn_status": "Out",
-   "detail": "Leg Calf",
-   "return_date": "2026-11-22",
-   "comment": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Leg Calf"
-  },
-  {
-   "team": "NY",
    "player_id": "2528426",
    "name": "Jordan Clarkson",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Right Leg Foot",
    "return_date": "2026-11-22",
    "comment": "Clarkson (foot) won't play in Saturday's game against Portland.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Foot"
+  },
+  {
+   "team": "NY",
+   "player_id": "3934719",
+   "name": "OG Anunoby",
+   "espn_status": "Day-To-Day",
+   "detail": "Leg Calf",
+   "return_date": "2026-11-22",
+   "comment": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Leg Calf"
   },
   {
    "team": "OKC",
@@ -956,7 +968,7 @@
    "name": "Jonathan Isaac",
    "espn_status": "Out",
    "detail": "Left Leg Knee",
-   "return_date": "2026-11-29",
+   "return_date": "2026-11-28",
    "comment": "Isaac (knee) is out for Sunday's game against the Wizards.",
    "status": "Out",
    "official_status": null,
@@ -1117,18 +1129,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "SAC",
-   "player_id": "4431679",
-   "name": "Precious Achiuwa",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Lower Leg",
-   "return_date": "2026-11-21",
-   "comment": "Achiuwa (lower leg) is questionable for Saturday's game against the Celtics.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Lower Leg"
   },
   {
    "team": "SAC",

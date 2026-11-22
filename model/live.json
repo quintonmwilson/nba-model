@@ -334,9 +334,34 @@
    "h1_line": "MEM 46 \u2013 56 MIN",
    "markets": [],
    "picks": []
+  },
+  "401910025": {
+   "game_id": "401910025",
+   "date": "2026-11-21",
+   "start_utc": "2026-11-22T01:00Z",
+   "home": "DAL",
+   "away": "LAC",
+   "priced_at": "2026-11-21T21:08:27-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 52.0,
+   "h1_away": 44.0,
+   "pre_2h": 117.2921948744922,
+   "pre_2hm": 9.439674622358815,
+   "mu_2h": 115.4611556704819,
+   "sd_2h": 14.013434102837858,
+   "mu_2hm": 7.907774065231296,
+   "sd_2hm": 11.03935867844592,
+   "p_home_win": 0.9260876815623571,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "LAC 44 \u2013 52 DAL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-21",
  "halftime_fitted": true,
- "updated_at": "2026-11-21T21:05:24-05:00"
+ "updated_at": "2026-11-21T21:08:27-05:00"
 }

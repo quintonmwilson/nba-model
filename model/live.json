@@ -174,9 +174,34 @@
    "h1_line": "BOS 54 \u2013 41 SAC",
    "markets": [],
    "picks": []
+  },
+  "401910029": {
+   "game_id": "401910029",
+   "date": "2026-11-22",
+   "start_utc": "2026-11-22T20:30Z",
+   "home": "ATL",
+   "away": "DET",
+   "priced_at": "2026-11-22T16:39:52-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 51.0,
+   "h1_away": 52.0,
+   "pre_2h": 110.95146762182026,
+   "pre_2hm": -2.6707289868097916,
+   "mu_2h": 109.2191416058315,
+   "sd_2h": 14.011538363407784,
+   "mu_2hm": -2.498126063326972,
+   "sd_2hm": 11.048329827006167,
+   "p_home_win": 0.3788071136397001,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "DET 52 \u2013 51 ATL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-21",
  "halftime_fitted": true,
- "updated_at": "2026-11-22T00:00:01-05:00"
+ "updated_at": "2026-11-22T16:39:52-05:00"
 }

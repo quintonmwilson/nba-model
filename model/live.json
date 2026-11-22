@@ -278,10 +278,15 @@
    "book": null,
    "h1_line": "MIL 59 \u2013 60 PHI",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 132.0,
+    "away": 129.0
+   },
+   "act_2h": 142.0
   }
  },
- "model_through": "2026-11-20",
+ "model_through": "2026-11-21",
  "halftime_fitted": true,
- "updated_at": "2026-11-21T14:30:44-05:00"
+ "updated_at": "2026-11-21T20:15:45-05:00"
 }

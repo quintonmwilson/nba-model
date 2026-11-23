@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-22T18:15:39-05:00",
- "official_report": "2026-11-22T18:15:00-05:00",
+ "fetched_at": "2026-11-23T07:00:59-05:00",
+ "official_report": "2026-11-23T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -436,18 +436,6 @@
   },
   {
    "team": "IND",
-   "player_id": "3149673",
-   "name": "Pascal Siakam",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-22",
-   "comment": "Siakam (hip) is listed as questionable for Sunday's game against New York.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Torso Hip"
-  },
-  {
-   "team": "IND",
    "player_id": "4396993",
    "name": "Tyrese Haliburton",
    "espn_status": "Out",
@@ -484,18 +472,6 @@
   },
   {
    "team": "LAC",
-   "player_id": "3913176",
-   "name": "Brandon Ingram",
-   "espn_status": "Out",
-   "detail": null,
-   "return_date": null,
-   "comment": "Ingram (Achilles) is expected to make his season and team debut Monday against the Rockets, per Shams Charania of ESPN.",
-   "status": "Out",
-   "official_status": null,
-   "reason": null
-  },
-  {
-   "team": "LAC",
    "player_id": "6580",
    "name": "Bradley Beal",
    "espn_status": "Out",
@@ -524,8 +500,8 @@
    "name": "Austin Reaves",
    "espn_status": "Out",
    "detail": "Left Leg Heel",
-   "return_date": "2026-11-23",
-   "comment": "Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports.",
+   "return_date": "2026-11-27",
+   "comment": "Reaves (heel) has been ruled out for Monday's game against the Jazz, Jovan Buha of The Athletic reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Heel"
@@ -534,11 +510,11 @@
    "team": "MEM",
    "player_id": "2991070",
    "name": "Jerami Grant",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Calf",
-   "return_date": "2026-11-23",
-   "comment": "Grant (calf) has been ruled out for Monday's game against the Hornets.",
-   "status": "Day-To-Day",
+   "return_date": "2026-12-12",
+   "comment": "Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
   },
@@ -724,6 +700,18 @@
   },
   {
    "team": "NY",
+   "player_id": "4431823",
+   "name": "Miles McBride",
+   "espn_status": "Out",
+   "detail": "Left Torso Abdomen",
+   "return_date": "2026-11-25",
+   "comment": "McBride (abdomen) has been ruled out for Sunday's game against the Pacers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Torso Abdomen"
+  },
+  {
+   "team": "NY",
    "player_id": "3934719",
    "name": "OG Anunoby",
    "espn_status": "Out",
@@ -733,18 +721,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
-  },
-  {
-   "team": "NY",
-   "player_id": "3136195",
-   "name": "Karl-Anthony Towns",
-   "espn_status": "Day-To-Day",
-   "detail": "Other Illness",
-   "return_date": "2026-11-22",
-   "comment": "Towns (illness) is questionable to play in Sunday's game against the Pacers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Other Illness"
   },
   {
    "team": "NY",
@@ -969,7 +945,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Quadriceps",
    "return_date": "2026-11-23",
-   "comment": "Dunn (quadriceps) was a full participant in Sunday's practice, Duane Rankin of The Arizona Republic reports.",
+   "comment": "Dunn (quadriceps) is listed as questionable for Monday's game against the Pelicans.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Quadriceps"
@@ -1060,6 +1036,42 @@
   },
   {
    "team": "SA",
+   "player_id": "5104157",
+   "name": "Victor Wembanyama",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Back",
+   "return_date": "2026-11-23",
+   "comment": "Wembanyama (back) is questionable for Monday's game against the Kings, Jared Weiss of The Athletic reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
+  {
+   "team": "SA",
+   "player_id": "4066259",
+   "name": "De'Aaron Fox",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Lower Leg",
+   "return_date": "2026-11-23",
+   "comment": "Fox is questionable for Monday's game against the Kings due to a right shin contusion, Jared Weiss of The Athletic reports.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Lower Leg"
+  },
+  {
+   "team": "SA",
+   "player_id": "3134916",
+   "name": "Jordan McLaughlin",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Arm Shoulder",
+   "return_date": "2026-11-23",
+   "comment": "McLaughlin (shoulder) is listed as questionable for Monday's game against the Kings.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Arm Shoulder"
+  },
+  {
+   "team": "SA",
    "player_id": "5037871",
    "name": "Dylan Harper",
    "espn_status": "Out",
@@ -1141,6 +1153,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "UTAH",
+   "player_id": "4397077",
+   "name": "Jaxson Hayes",
+   "espn_status": "Out",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-23",
+   "comment": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Knee"
   },
   {
    "team": "UTAH",

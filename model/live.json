@@ -198,10 +198,40 @@
    "book": null,
    "h1_line": "DET 52 \u2013 51 ATL",
    "markets": [],
+   "picks": [],
+   "final": {
+    "home": 107.0,
+    "away": 97.0
+   },
+   "act_2h": 101.0
+  },
+  "401910030": {
+   "game_id": "401910030",
+   "date": "2026-11-22",
+   "start_utc": "2026-11-22T23:00Z",
+   "home": "MIA",
+   "away": "OKC",
+   "priced_at": "2026-11-22T19:04:14-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 67.0,
+   "h1_away": 54.0,
+   "pre_2h": 118.61112901370514,
+   "pre_2hm": -2.62187441088863,
+   "mu_2h": 117.95613577855264,
+   "sd_2h": 14.011538363407784,
+   "mu_2hm": -4.572141334863944,
+   "sd_2hm": 11.048329827006167,
+   "p_home_win": 0.7792751026446552,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "OKC 54 \u2013 67 MIA",
+   "markets": [],
    "picks": []
   }
  },
  "model_through": "2026-11-21",
  "halftime_fitted": true,
- "updated_at": "2026-11-22T16:39:52-05:00"
+ "updated_at": "2026-11-22T19:04:14-05:00"
 }

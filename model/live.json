@@ -279,9 +279,34 @@
    "h1_line": "DAL 64 \u2013 57 UTAH",
    "markets": [],
    "picks": []
+  },
+  "401910031": {
+   "game_id": "401910031",
+   "date": "2026-11-22",
+   "start_utc": "2026-11-23T00:00Z",
+   "home": "WSH",
+   "away": "ORL",
+   "priced_at": "2026-11-22T20:06:01-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 63.0,
+   "h1_away": 51.0,
+   "pre_2h": 109.8961079318735,
+   "pre_2hm": -0.5481085787130482,
+   "mu_2h": 108.93796653682014,
+   "sd_2h": 14.011538363407784,
+   "mu_2hm": -2.7384309601010997,
+   "sd_2hm": 11.048329827006167,
+   "p_home_win": 0.8009814428383565,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "ORL 51 \u2013 63 WSH",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-21",
  "halftime_fitted": true,
- "updated_at": "2026-11-22T20:04:29-05:00"
+ "updated_at": "2026-11-22T20:06:01-05:00"
 }

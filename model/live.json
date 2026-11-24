@@ -309,9 +309,34 @@
    "h1_line": "MIL 49 \u2013 53 TOR",
    "markets": [],
    "picks": []
+  },
+  "401910040": {
+   "game_id": "401910040",
+   "date": "2026-11-23",
+   "start_utc": "2026-11-24T00:30Z",
+   "home": "MIN",
+   "away": "BKN",
+   "priced_at": "2026-11-23T20:40:02-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 74.0,
+   "h1_away": 61.0,
+   "pre_2h": 109.83918148697272,
+   "pre_2hm": 8.02242170969663,
+   "mu_2h": 110.18242298435707,
+   "sd_2h": 13.991986989167641,
+   "mu_2hm": 8.680530286988054,
+   "sd_2hm": 11.011514110226758,
+   "p_home_win": 0.9758294686217736,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "BKN 61 \u2013 74 MIN",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-22",
  "halftime_fitted": true,
- "updated_at": "2026-11-23T20:38:30-05:00"
+ "updated_at": "2026-11-23T20:40:02-05:00"
 }

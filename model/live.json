@@ -233,7 +233,12 @@
    "book": null,
    "h1_line": "MEM 62 \u2013 60 CHA",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 111.0,
+    "away": 117.0
+   },
+   "act_2h": 106.0
   },
   "401910037": {
    "game_id": "401910037",
@@ -258,7 +263,12 @@
    "book": null,
    "h1_line": "POR 69 \u2013 69 PHI",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 111.0,
+    "away": 128.0
+   },
+   "act_2h": 101.0
   },
   "401910038": {
    "game_id": "401910038",
@@ -384,9 +394,34 @@
    "h1_line": "CLE 50 \u2013 72 CHI",
    "markets": [],
    "picks": []
+  },
+  "401910043": {
+   "game_id": "401910043",
+   "date": "2026-11-23",
+   "start_utc": "2026-11-24T01:30Z",
+   "home": "HOU",
+   "away": "LAC",
+   "priced_at": "2026-11-23T21:37:18-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 47.0,
+   "h1_away": 43.0,
+   "pre_2h": 122.85764898943965,
+   "pre_2hm": 6.650587035812535,
+   "mu_2h": 120.81270385454557,
+   "sd_2h": 13.991986989167641,
+   "mu_2hm": 7.941040450147888,
+   "sd_2hm": 11.011514110226758,
+   "p_home_win": 0.8623137689037151,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "LAC 43 \u2013 47 HOU",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-22",
  "halftime_fitted": true,
- "updated_at": "2026-11-23T21:11:41-05:00"
+ "updated_at": "2026-11-23T21:37:18-05:00"
 }

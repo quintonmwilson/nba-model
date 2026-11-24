@@ -234,9 +234,34 @@
    "h1_line": "MEM 62 \u2013 60 CHA",
    "markets": [],
    "picks": []
+  },
+  "401910037": {
+   "game_id": "401910037",
+   "date": "2026-11-23",
+   "start_utc": "2026-11-24T00:00Z",
+   "home": "PHI",
+   "away": "POR",
+   "priced_at": "2026-11-23T20:11:22-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 69.0,
+   "h1_away": 69.0,
+   "pre_2h": 112.99507643350461,
+   "pre_2hm": -3.403178914089146,
+   "mu_2h": 113.02236457763762,
+   "sd_2h": 13.991986989167641,
+   "mu_2hm": -3.6082994004408233,
+   "sd_2hm": 11.011514110226758,
+   "p_home_win": 0.3745206177584562,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "POR 69 \u2013 69 PHI",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-22",
  "halftime_fitted": true,
- "updated_at": "2026-11-23T20:05:20-05:00"
+ "updated_at": "2026-11-23T20:11:22-05:00"
 }

@@ -359,9 +359,34 @@
    "h1_line": "PHX 56 \u2013 54 NO",
    "markets": [],
    "picks": []
+  },
+  "401910041": {
+   "game_id": "401910041",
+   "date": "2026-11-23",
+   "start_utc": "2026-11-24T01:00Z",
+   "home": "CHI",
+   "away": "CLE",
+   "priced_at": "2026-11-23T21:11:41-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 72.0,
+   "h1_away": 50.0,
+   "pre_2h": 126.66333467174782,
+   "pre_2hm": -5.331242700687625,
+   "mu_2h": 125.91847990736083,
+   "sd_2h": 13.991986989167641,
+   "mu_2hm": -8.72153818368977,
+   "sd_2hm": 11.011514110226758,
+   "p_home_win": 0.887264353606291,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "CLE 50 \u2013 72 CHI",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-22",
  "halftime_fitted": true,
- "updated_at": "2026-11-23T21:05:38-05:00"
+ "updated_at": "2026-11-23T21:11:41-05:00"
 }

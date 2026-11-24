@@ -259,9 +259,34 @@
    "h1_line": "POR 69 \u2013 69 PHI",
    "markets": [],
    "picks": []
+  },
+  "401910038": {
+   "game_id": "401910038",
+   "date": "2026-11-23",
+   "start_utc": "2026-11-24T00:30Z",
+   "home": "IND",
+   "away": "OKC",
+   "priced_at": "2026-11-23T20:33:58-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 56.0,
+   "h1_away": 51.0,
+   "pre_2h": 115.68159761343901,
+   "pre_2hm": -0.5132415798448307,
+   "mu_2h": 114.71750840462823,
+   "sd_2h": 13.991986989167641,
+   "mu_2hm": -2.1179803628268,
+   "sd_2hm": 11.011514110226758,
+   "p_home_win": 0.6060034018989241,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "OKC 51 \u2013 56 IND",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-22",
  "halftime_fitted": true,
- "updated_at": "2026-11-23T20:11:22-05:00"
+ "updated_at": "2026-11-23T20:33:58-05:00"
 }

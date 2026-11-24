@@ -7,10 +7,10 @@
   "neutral": false,
   "home_team": "ORL",
   "away_team": "DET",
-  "total_line": 213.5,
+  "total_line": 212.5,
   "spread_home": 2.5,
-  "ml_home": 120.0,
-  "ml_away": -142.0,
+  "ml_home": 110.0,
+  "ml_away": -130.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -23,8 +23,8 @@
   "away_team": "BOS",
   "total_line": 218.5,
   "spread_home": 10.5,
-  "ml_home": 351.0,
-  "ml_away": -453.0,
+  "ml_home": 331.0,
+  "ml_away": -424.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -50,9 +50,9 @@
   "home_team": "PHI",
   "away_team": "MIA",
   "total_line": 238.5,
-  "spread_home": -3.5,
-  "ml_home": -162.0,
-  "ml_away": 136.0,
+  "spread_home": -1.5,
+  "ml_home": -116.0,
+  "ml_away": -102.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -78,9 +78,9 @@
   "home_team": "NY",
   "away_team": "CLE",
   "total_line": 220.5,
-  "spread_home": -5.5,
-  "ml_home": -224.0,
-  "ml_away": 186.0,
+  "spread_home": -3.5,
+  "ml_home": -163.0,
+  "ml_away": 137.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -92,9 +92,9 @@
   "home_team": "OKC",
   "away_team": "MIN",
   "total_line": 223.5,
-  "spread_home": -2.5,
-  "ml_home": -142.0,
-  "ml_away": 120.0,
+  "spread_home": -1.5,
+  "ml_home": -125.0,
+  "ml_away": 105.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -133,8 +133,8 @@
   "neutral": false,
   "home_team": "HOU",
   "away_team": "PHX",
-  "total_line": 223.5,
-  "spread_home": -10.5,
+  "total_line": 224.5,
+  "spread_home": -8.5,
   "ml_home": -406.0,
   "ml_away": 319.0,
   "odds_provider": "Draft Kings"

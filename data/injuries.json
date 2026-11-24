@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-24T12:00:54-05:00",
- "official_report": "2026-11-24T12:00:00-05:00",
+ "fetched_at": "2026-11-24T18:15:39-05:00",
+ "official_report": "2026-11-24T18:15:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -88,27 +88,39 @@
   },
   {
    "team": "CHA",
-   "player_id": "4066218",
-   "name": "Grant Williams",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Hamstring",
-   "return_date": "2026-11-25",
-   "comment": "Williams (hamstring) won't play Monday's game against the Grizzlies.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Hamstring"
-  },
-  {
-   "team": "CHA",
    "player_id": "4576060",
    "name": "Ryan Kalkbrenner",
    "espn_status": "Day-To-Day",
    "detail": "Left Torso Hip",
    "return_date": "2026-11-25",
-   "comment": "Kalkbrenner has been ruled out for the rest of Monday's game against Memphis due to left hip soreness. He'll end with two rebounds in nine minutes.",
+   "comment": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Torso Hip"
+  },
+  {
+   "team": "CHA",
+   "player_id": "3032979",
+   "name": "Dennis Schroder",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-12-12",
+   "comment": "Schroder (hamstring) is out for Wednesday's game the Bulls.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "CHA",
+   "player_id": "4602025",
+   "name": "Sion James",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Other Undisclosed",
+   "return_date": "2026-11-25",
+   "comment": "James is probable for Wednesday's game against the Bulls due to general soreness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Other Undisclosed"
   },
   {
    "team": "CHA",
@@ -117,7 +129,7 @@
    "espn_status": "Out",
    "detail": "Head Concussion",
    "return_date": "2026-11-25",
-   "comment": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies.",
+   "comment": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago.",
    "status": "Out",
    "official_status": null,
    "reason": "Head Concussion"
@@ -135,16 +147,16 @@
    "reason": "Left Leg Hamstring"
   },
   {
-   "team": "CHA",
-   "player_id": "3032979",
-   "name": "Dennis Schroder",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
+   "team": "CHI",
+   "player_id": "4397189",
+   "name": "Jalen Smith",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
    "return_date": "2026-11-25",
-   "comment": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports.",
-   "status": "Out",
+   "comment": "Smith (illness) is listed as questionable for Wednesday's game against the Hornets.",
+   "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Left Leg Hamstring"
+   "reason": "Other Illness"
   },
   {
    "team": "CHI",
@@ -260,11 +272,35 @@
    "name": "Ebuka Okorie",
    "espn_status": "Out",
    "detail": "Left Torso Oblique",
-   "return_date": "2026-11-30",
-   "comment": "Okorie (oblique) won't play Tuesday in Orlando.",
+   "return_date": "2026-12-13",
+   "comment": "The Pistons announced Tuesday that Okorie (oblique) will miss at least two weeks, per Eric Vincent of ClutchPoints.com.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Torso Oblique"
+  },
+  {
+   "team": "DET",
+   "player_id": "2990962",
+   "name": "Taurean Prince",
+   "espn_status": "Out",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-12-26",
+   "comment": "Prince underwent arthroscopic right knee surgery Nov. 18 and will be re-evaluated in four weeks, Eric Vincent of ClutchPoints.com reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Knee"
+  },
+  {
+   "team": "DET",
+   "player_id": "3157465",
+   "name": "Duncan Robinson",
+   "espn_status": "Out",
+   "detail": "Left Leg Quadriceps",
+   "return_date": "2026-11-27",
+   "comment": "Robinson (quadriceps) is considered day-to-day as he progresses in his rehab, Eric Vincent of ClutchPoints.com reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Quadriceps"
   },
   {
    "team": "DET",
@@ -273,7 +309,7 @@
    "espn_status": "Out",
    "detail": "Right Leg Hamstring",
    "return_date": "2026-11-30",
-   "comment": "Duren (hamstring) has been ruled out for Tuesday's game against the Magic.",
+   "comment": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Hamstring"
@@ -291,37 +327,13 @@
    "reason": "Leg Knee"
   },
   {
-   "team": "DET",
-   "player_id": "2990962",
-   "name": "Taurean Prince",
-   "espn_status": "Out",
-   "detail": "Right Leg Knee",
-   "return_date": "2026-12-13",
-   "comment": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a return, Hunter Patterson of The Athletic reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Knee"
-  },
-  {
-   "team": "DET",
-   "player_id": "3157465",
-   "name": "Duncan Robinson",
-   "espn_status": "Out",
-   "detail": "Left Leg Quadriceps",
-   "return_date": "2026-11-27",
-   "comment": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Quadriceps"
-  },
-  {
    "team": "GS",
    "player_id": "4397040",
    "name": "Brandon Williams",
    "espn_status": "Out",
    "detail": "Left Leg Hamstring",
    "return_date": "2026-11-25",
-   "comment": "Head coach Steve Kerr said Monday that Williams (hamstring) is on track to return Wednesday against the Kings, Kenzo Fukuda of ClutchPoints.com reports.",
+   "comment": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
@@ -381,7 +393,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Hamstring",
    "return_date": "2026-11-27",
-   "comment": "McConnell (hamstring) was assigned to the G League's Noblesville Boom on Tuesday.",
+   "comment": "McConnell (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Shams Charania of ESPN reports.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Hamstring"
@@ -393,7 +405,7 @@
    "espn_status": "Out",
    "detail": "Left Leg Hamstring",
    "return_date": "2026-12-13",
-   "comment": "Haliburton (hamstring) was assigned to the G League's Noblesville Boom on Tuesday.",
+   "comment": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
@@ -472,6 +484,18 @@
   },
   {
    "team": "MEM",
+   "player_id": "4431785",
+   "name": "Scotty Pippen Jr.",
+   "espn_status": "Out",
+   "detail": "Torso Back",
+   "return_date": "2026-12-12",
+   "comment": "Pippen (back) is out for Wednesday's game against the Clippers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Torso Back"
+  },
+  {
+   "team": "MEM",
    "player_id": "5041935",
    "name": "Cameron Boozer",
    "espn_status": "Out",
@@ -508,18 +532,6 @@
   },
   {
    "team": "MEM",
-   "player_id": "4431785",
-   "name": "Scotty Pippen Jr.",
-   "espn_status": "Out",
-   "detail": "Torso Back",
-   "return_date": "2026-11-25",
-   "comment": "Pippen (back) is progressing in his recovery but is still considered week-to-week.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Torso Back"
-  },
-  {
-   "team": "MEM",
    "player_id": "5105462",
    "name": "Richie Saunders",
    "espn_status": "Out",
@@ -537,10 +549,22 @@
    "espn_status": "Day-To-Day",
    "detail": "Groin Groin",
    "return_date": "2026-11-25",
-   "comment": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports.",
+   "comment": "Antetokounmpo (groin) is questionable for Wednesday's game in Philadelphia.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Groin Groin"
+  },
+  {
+   "team": "MIN",
+   "player_id": "3934673",
+   "name": "Donte DiVincenzo",
+   "espn_status": "Out",
+   "detail": "Right Leg Achilles",
+   "return_date": "2027-01-03",
+   "comment": "DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a return to game action in January, Jon Krawczynski of The Athletic reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Achilles"
   },
   {
    "team": "MIN",
@@ -565,18 +589,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "MIN",
-   "player_id": "3934673",
-   "name": "Donte DiVincenzo",
-   "espn_status": "Out",
-   "detail": "Right Leg Achilles",
-   "return_date": "2027-04-02",
-   "comment": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Achilles"
   },
   {
    "team": "NO",
@@ -619,24 +631,12 @@
    "player_id": "4431823",
    "name": "Miles McBride",
    "espn_status": "Day-To-Day",
-   "detail": "Left Torso Abdomen",
+   "detail": "Left Groin Groin",
    "return_date": "2026-11-25",
-   "comment": "McBride (abdomen) has been ruled out for Sunday's game against the Pacers.",
+   "comment": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Left Torso Abdomen"
-  },
-  {
-   "team": "NY",
-   "player_id": "3934719",
-   "name": "OG Anunoby",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Calf",
-   "return_date": "2026-11-25",
-   "comment": "Anunoby (calf) won't play Sunday against the Pacers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Calf"
+   "reason": "Left Groin Groin"
   },
   {
    "team": "NY",
@@ -644,11 +644,47 @@
    "name": "Jordan Clarkson",
    "espn_status": "Out",
    "detail": "Right Leg Foot",
-   "return_date": "2026-11-25",
-   "comment": "Clarkson (foot) has been ruled out for Sunday's game against Indiana.",
+   "return_date": "2026-11-27",
+   "comment": "Clarkson (foot) is out for Wednesday's game against Cleveland.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"
+  },
+  {
+   "team": "NY",
+   "player_id": "3062679",
+   "name": "Josh Hart",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Shoulder",
+   "return_date": "2026-11-25",
+   "comment": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Shoulder"
+  },
+  {
+   "team": "NY",
+   "player_id": "3934719",
+   "name": "OG Anunoby",
+   "espn_status": "Out",
+   "detail": "Left Leg Calf",
+   "return_date": "2026-11-27",
+   "comment": "Anunoby (calf) is out for Wednesday's game against Cleveland.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Calf"
+  },
+  {
+   "team": "NY",
+   "player_id": "3136195",
+   "name": "Karl-Anthony Towns",
+   "espn_status": "Day-To-Day",
+   "detail": "Leg Knee",
+   "return_date": "2026-11-25",
+   "comment": "Towns (knee) is questionable for Wednesday's game against Cleveland.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Leg Knee"
   },
   {
    "team": "OKC",
@@ -800,8 +836,8 @@
    "name": "Joel Embiid",
    "espn_status": "Day-To-Day",
    "detail": "Other Illness",
-   "return_date": "2026-11-25",
-   "comment": "Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com reports.",
+   "return_date": "2026-11-27",
+   "comment": "Embiid (illness) is listed as doubtful for Wednesday's game versus Miami.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
@@ -964,6 +1000,18 @@
   },
   {
    "team": "TOR",
+   "player_id": "6450",
+   "name": "Kawhi Leonard",
+   "espn_status": "Out",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-12-03",
+   "comment": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Knee"
+  },
+  {
+   "team": "TOR",
    "player_id": "4432586",
    "name": "Nate Bittle",
    "espn_status": "Out",
@@ -973,18 +1021,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"
-  },
-  {
-   "team": "TOR",
-   "player_id": "6450",
-   "name": "Kawhi Leonard",
-   "espn_status": "Out",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-12-03",
-   "comment": "Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Knee"
   },
   {
    "team": "TOR",

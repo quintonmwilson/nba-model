@@ -293,7 +293,12 @@
    "book": null,
    "h1_line": "OKC 51 \u2013 56 IND",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 125.0,
+    "away": 120.0
+   },
+   "act_2h": 138.0
   },
   "401910039": {
    "game_id": "401910039",
@@ -318,7 +323,12 @@
    "book": null,
    "h1_line": "MIL 49 \u2013 53 TOR",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 111.0,
+    "away": 116.0
+   },
+   "act_2h": 125.0
   },
   "401910040": {
    "game_id": "401910040",
@@ -343,7 +353,12 @@
    "book": null,
    "h1_line": "BKN 61 \u2013 74 MIN",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 142.0,
+    "away": 116.0
+   },
+   "act_2h": 123.0
   },
   "401910042": {
    "game_id": "401910042",
@@ -368,7 +383,12 @@
    "book": null,
    "h1_line": "PHX 56 \u2013 54 NO",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 119.0,
+    "away": 123.0
+   },
+   "act_2h": 132.0
   },
   "401910041": {
    "game_id": "401910041",
@@ -393,7 +413,12 @@
    "book": null,
    "h1_line": "CLE 50 \u2013 72 CHI",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 122.0,
+    "away": 108.0
+   },
+   "act_2h": 108.0
   },
   "401910043": {
    "game_id": "401910043",
@@ -418,10 +443,40 @@
    "book": null,
    "h1_line": "LAC 43 \u2013 47 HOU",
    "markets": [],
+   "picks": [],
+   "final": {
+    "home": 116.0,
+    "away": 104.0
+   },
+   "act_2h": 130.0
+  },
+  "401910045": {
+   "game_id": "401910045",
+   "date": "2026-11-23",
+   "start_utc": "2026-11-24T03:00Z",
+   "home": "SAC",
+   "away": "SA",
+   "priced_at": "2026-11-23T23:07:42-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 51.0,
+   "h1_away": 60.0,
+   "pre_2h": 105.56753218609076,
+   "pre_2hm": -5.443322531078827,
+   "mu_2h": 104.22165383556869,
+   "sd_2h": 13.991986989167641,
+   "mu_2hm": -6.176704096972774,
+   "sd_2hm": 11.011514110226758,
+   "p_home_win": 0.08543187287861248,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "SA 60 \u2013 51 SAC",
+   "markets": [],
    "picks": []
   }
  },
  "model_through": "2026-11-22",
  "halftime_fitted": true,
- "updated_at": "2026-11-23T21:37:18-05:00"
+ "updated_at": "2026-11-23T23:07:42-05:00"
 }

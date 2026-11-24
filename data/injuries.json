@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-24T07:00:55-05:00",
- "official_report": "2026-11-24T07:00:00-05:00",
+ "fetched_at": "2026-11-24T12:00:54-05:00",
+ "official_report": "2026-11-24T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -376,6 +376,30 @@
   },
   {
    "team": "IND",
+   "player_id": "2530530",
+   "name": "T.J. McConnell",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-11-27",
+   "comment": "McConnell (hamstring) was assigned to the G League's Noblesville Boom on Tuesday.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "IND",
+   "player_id": "4396993",
+   "name": "Tyrese Haliburton",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-12-13",
+   "comment": "Haliburton (hamstring) was assigned to the G League's Noblesville Boom on Tuesday.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "IND",
    "player_id": "4396909",
    "name": "Aaron Nesmith",
    "espn_status": "Day-To-Day",
@@ -388,18 +412,6 @@
   },
   {
    "team": "IND",
-   "player_id": "2530530",
-   "name": "T.J. McConnell",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-27",
-   "comment": "McConnell is out for Monday's game against the Thunder due to left hamstring soreness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "IND",
    "player_id": "2580365",
    "name": "Larry Nance Jr.",
    "espn_status": "Day-To-Day",
@@ -409,30 +421,6 @@
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Ankle"
-  },
-  {
-   "team": "IND",
-   "player_id": "4396993",
-   "name": "Tyrese Haliburton",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-12-13",
-   "comment": "Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "IND",
-   "player_id": "5157066",
-   "name": "Johnny Furphy",
-   "espn_status": "Out",
-   "detail": "Right Leg Knee",
-   "return_date": "2027-01-02",
-   "comment": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Knee"
   },
   {
    "team": "IND",
@@ -1057,6 +1045,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "WSH",
+   "player_id": "4432819",
+   "name": "Tre Mann",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-24",
+   "comment": "Mann (illness) has been downgraded to questionable for Tuesday's game against Boston.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
   },
   {
    "team": "WSH",

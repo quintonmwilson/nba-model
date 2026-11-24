@@ -7,10 +7,10 @@
   "neutral": false,
   "home_team": "ORL",
   "away_team": "DET",
-  "total_line": 212.5,
+  "total_line": 213.5,
   "spread_home": 2.5,
-  "ml_home": 114.0,
-  "ml_away": -135.0,
+  "ml_home": 120.0,
+  "ml_away": -142.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -21,7 +21,7 @@
   "neutral": false,
   "home_team": "WSH",
   "away_team": "BOS",
-  "total_line": 217.5,
+  "total_line": 218.5,
   "spread_home": 10.5,
   "ml_home": 351.0,
   "ml_away": -453.0,
@@ -35,10 +35,10 @@
   "neutral": false,
   "home_team": "DEN",
   "away_team": "DAL",
-  "total_line": 233.5,
+  "total_line": 234.5,
   "spread_home": -8.5,
-  "ml_home": -324.0,
-  "ml_away": 261.0,
+  "ml_home": -310.0,
+  "ml_away": 251.0,
   "odds_provider": "Draft Kings"
  },
  {
@@ -92,9 +92,9 @@
   "home_team": "OKC",
   "away_team": "MIN",
   "total_line": 223.5,
-  "spread_home": -3.5,
-  "ml_home": -148.0,
-  "ml_away": 125.0,
+  "spread_home": -2.5,
+  "ml_home": -142.0,
+  "ml_away": 120.0,
   "odds_provider": "Draft Kings"
  },
  {

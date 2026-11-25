@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-25T12:00:44-05:00",
- "official_report": "2026-11-25T12:00:00-05:00",
+ "fetched_at": "2026-11-25T18:15:43-05:00",
+ "official_report": "2026-11-25T18:15:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -90,13 +90,25 @@
    "team": "CHA",
    "player_id": "4576060",
    "name": "Ryan Kalkbrenner",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Torso Hip",
-   "return_date": "2026-11-25",
-   "comment": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-28",
+   "comment": "Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Torso Hip"
+  },
+  {
+   "team": "CHA",
+   "player_id": "3135045",
+   "name": "Grayson Allen",
+   "espn_status": "Out",
+   "detail": "Head Concussion",
+   "return_date": "2026-11-28",
+   "comment": "Allen (concussion) has been ruled out for Wednesday's game against Chicago.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Head Concussion"
   },
   {
    "team": "CHA",
@@ -109,30 +121,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "CHA",
-   "player_id": "4602025",
-   "name": "Sion James",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Other Undisclosed",
-   "return_date": "2026-11-25",
-   "comment": "James is probable for Wednesday's game against the Bulls due to general soreness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Other Undisclosed"
-  },
-  {
-   "team": "CHA",
-   "player_id": "3135045",
-   "name": "Grayson Allen",
-   "espn_status": "Out",
-   "detail": "Head Concussion",
-   "return_date": "2026-11-25",
-   "comment": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Head Concussion"
   },
   {
    "team": "CHA",
@@ -150,11 +138,11 @@
    "team": "CHI",
    "player_id": "4397189",
    "name": "Jalen Smith",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-25",
-   "comment": "Smith (illness) is listed as questionable for Wednesday's game against the Hornets.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-28",
+   "comment": "Smith (illness) is listed as out for Wednesday's game against Charlotte.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -258,11 +246,11 @@
    "team": "DET",
    "player_id": "4432166",
    "name": "Cade Cunningham",
-   "espn_status": "Out",
+   "espn_status": "Day-To-Day",
    "detail": "Leg Knee",
    "return_date": "2026-11-27",
    "comment": "Cunningham (knee) is listed as out for Tuesday's game against Orlando.",
-   "status": "Out",
+   "status": "Day-To-Day",
    "official_status": null,
    "reason": "Leg Knee"
   },
@@ -477,7 +465,7 @@
    "espn_status": "Out",
    "detail": "Left Leg Heel",
    "return_date": "2026-11-27",
-   "comment": "Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports.",
+   "comment": "Reaves (heel) was a full participant in Wednesday's practice, Daniel Starkand of LakersNation.com reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Heel"
@@ -541,18 +529,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "MIA",
-   "player_id": "3032977",
-   "name": "Giannis Antetokounmpo",
-   "espn_status": "Day-To-Day",
-   "detail": "Groin Groin",
-   "return_date": "2026-11-25",
-   "comment": "Antetokounmpo (groin) is questionable for Wednesday's game in Philadelphia.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Groin Groin"
   },
   {
    "team": "MIN",
@@ -640,15 +616,39 @@
   },
   {
    "team": "NY",
-   "player_id": "4431823",
-   "name": "Miles McBride",
+   "player_id": "3062679",
+   "name": "Josh Hart",
    "espn_status": "Day-To-Day",
-   "detail": "Left Groin Groin",
+   "detail": "Right Arm Shoulder",
    "return_date": "2026-11-25",
-   "comment": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland.",
+   "comment": "Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers.",
    "status": "Day-To-Day",
    "official_status": null,
+   "reason": "Right Arm Shoulder"
+  },
+  {
+   "team": "NY",
+   "player_id": "4431823",
+   "name": "Miles McBride",
+   "espn_status": "Out",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-27",
+   "comment": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers.",
+   "status": "Out",
+   "official_status": null,
    "reason": "Left Groin Groin"
+  },
+  {
+   "team": "NY",
+   "player_id": "3136195",
+   "name": "Karl-Anthony Towns",
+   "espn_status": "Day-To-Day",
+   "detail": null,
+   "return_date": null,
+   "comment": "Towns (knee) is probable for Wednesday's game against Cleveland.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": null
   },
   {
    "team": "NY",
@@ -664,18 +664,6 @@
   },
   {
    "team": "NY",
-   "player_id": "3062679",
-   "name": "Josh Hart",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Arm Shoulder",
-   "return_date": "2026-11-25",
-   "comment": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Arm Shoulder"
-  },
-  {
-   "team": "NY",
    "player_id": "3934719",
    "name": "OG Anunoby",
    "espn_status": "Out",
@@ -685,18 +673,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
-  },
-  {
-   "team": "NY",
-   "player_id": "3136195",
-   "name": "Karl-Anthony Towns",
-   "espn_status": "Day-To-Day",
-   "detail": "Leg Knee",
-   "return_date": "2026-11-25",
-   "comment": "Towns (knee) is questionable for Wednesday's game against Cleveland.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Leg Knee"
   },
   {
    "team": "OKC",
@@ -834,11 +810,11 @@
    "team": "PHI",
    "player_id": "3059318",
    "name": "Joel Embiid",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Other Illness",
    "return_date": "2026-11-27",
-   "comment": "Embiid (illness) is listed as doubtful for Wednesday's game versus Miami.",
-   "status": "Day-To-Day",
+   "comment": "Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports.",
+   "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
   },
@@ -916,12 +892,24 @@
   },
   {
    "team": "SAC",
+   "player_id": "3064440",
+   "name": "Zach LaVine",
+   "espn_status": "Out",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-11-29",
+   "comment": "LaVine (knee) is listed as out for Wednesday's game versus the Warriors.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Knee"
+  },
+  {
+   "team": "SAC",
    "player_id": "4898371",
    "name": "Maxime Raynaud",
    "espn_status": "Out",
    "detail": "Right Leg Knee",
    "return_date": "2026-12-02",
-   "comment": "Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports.",
+   "comment": "Raynaud (knee) was recalled from the G League's Stockton Kings on Wednesday, Marc J. Spears of ESPN.com reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"

@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-25T07:00:50-05:00",
- "official_report": "2026-11-25T07:00:00-05:00",
+ "fetched_at": "2026-11-25T12:00:44-05:00",
+ "official_report": "2026-11-25T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -592,6 +592,18 @@
   },
   {
    "team": "NO",
+   "player_id": "4683742",
+   "name": "Julian Reese",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Knee",
+   "return_date": "2026-11-25",
+   "comment": "The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be available for New Orleans' game against the Warriors on Monday.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Knee"
+  },
+  {
+   "team": "NO",
    "player_id": "4431675",
    "name": "Trendon Watford",
    "espn_status": "Out",
@@ -909,7 +921,7 @@
    "espn_status": "Out",
    "detail": "Right Leg Knee",
    "return_date": "2026-12-02",
-   "comment": "Raynaud (knee) is out for Wednesday's game against the Warriors.",
+   "comment": "Raynaud (knee) was assigned to the G League's Stockton Kings on Wednesday, James Ham of ESPN 1320 Sacramento reports.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"

@@ -314,9 +314,34 @@
    "h1_line": "DET 48 \u2013 36 ORL",
    "markets": [],
    "picks": []
+  },
+  "401909315": {
+   "game_id": "401909315",
+   "date": "2026-11-24",
+   "start_utc": "2026-11-25T01:00Z",
+   "home": "WSH",
+   "away": "BOS",
+   "priced_at": "2026-11-24T21:12:53-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 49.0,
+   "h1_away": 80.0,
+   "pre_2h": 105.48800805215703,
+   "pre_2hm": 0.22294504957479688,
+   "mu_2h": 105.7049172032355,
+   "sd_2h": 13.974149913910544,
+   "mu_2hm": 2.2188108613752986,
+   "sd_2hm": 10.986520532883151,
+   "p_home_win": 0.004528830578213179,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "BOS 80 \u2013 49 WSH",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-23",
  "halftime_fitted": true,
- "updated_at": "2026-11-24T20:08:11-05:00"
+ "updated_at": "2026-11-24T21:12:53-05:00"
 }

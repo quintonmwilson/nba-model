@@ -313,7 +313,12 @@
    "book": null,
    "h1_line": "DET 48 \u2013 36 ORL",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 86.0,
+    "away": 104.0
+   },
+   "act_2h": 106.0
   },
   "401909315": {
    "game_id": "401909315",
@@ -338,10 +343,40 @@
    "book": null,
    "h1_line": "BOS 80 \u2013 49 WSH",
    "markets": [],
+   "picks": [],
+   "final": {
+    "home": 116.0,
+    "away": 131.0
+   },
+   "act_2h": 118.0
+  },
+  "401909316": {
+   "game_id": "401909316",
+   "date": "2026-11-24",
+   "start_utc": "2026-11-25T03:00Z",
+   "home": "DEN",
+   "away": "DAL",
+   "priced_at": "2026-11-24T23:10:13-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 39.0,
+   "h1_away": 58.0,
+   "pre_2h": 112.81323985949197,
+   "pre_2hm": -1.1771310800137655,
+   "mu_2h": 110.69519454917604,
+   "sd_2h": 13.974149913910544,
+   "mu_2hm": 2.577631085905179,
+   "sd_2hm": 10.986520532883151,
+   "p_home_win": 0.06863021202456139,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "DAL 58 \u2013 39 DEN",
+   "markets": [],
    "picks": []
   }
  },
  "model_through": "2026-11-23",
  "halftime_fitted": true,
- "updated_at": "2026-11-24T21:12:53-05:00"
+ "updated_at": "2026-11-24T23:10:13-05:00"
 }

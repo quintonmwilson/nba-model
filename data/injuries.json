@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-26T07:00:53-05:00",
- "official_report": "2026-11-26T07:00:00-05:00",
+ "fetched_at": "2026-11-26T12:00:51-05:00",
+ "official_report": "2026-11-26T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -256,6 +256,18 @@
   },
   {
    "team": "DET",
+   "player_id": "4433621",
+   "name": "Jalen Duren",
+   "espn_status": "Out",
+   "detail": "Right Leg Hamstring",
+   "return_date": "2026-11-30",
+   "comment": "Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "DET",
    "player_id": "4432166",
    "name": "Cade Cunningham",
    "espn_status": "Day-To-Day",
@@ -301,18 +313,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Quadriceps"
-  },
-  {
-   "team": "DET",
-   "player_id": "4433621",
-   "name": "Jalen Duren",
-   "espn_status": "Out",
-   "detail": "Right Leg Hamstring",
-   "return_date": "2026-11-30",
-   "comment": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Hamstring"
   },
   {
    "team": "GS",
@@ -757,6 +757,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "ORL",
+   "player_id": "4397204",
+   "name": "Colin Castleton",
+   "espn_status": "Day-To-Day",
+   "detail": "Leg Calf",
+   "return_date": "2026-11-27",
+   "comment": "Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during Tuesday's 132-116 preseason win over the Cavaliers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Leg Calf"
   },
   {
    "team": "ORL",

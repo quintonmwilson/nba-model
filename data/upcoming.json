@@ -8,10 +8,10 @@
   "home_team": "NY",
   "away_team": "MIA",
   "total_line": 224.5,
-  "spread_home": -3.5,
+  "spread_home": -4.5,
   "ml_home": -169.0,
   "ml_away": 142.0,
-  "odds_provider": "Draft Kings"
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909327",
@@ -39,7 +39,7 @@
   "spread_home": 4.5,
   "ml_home": 151.0,
   "ml_away": -180.0,
-  "odds_provider": "Draft Kings"
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909329",
@@ -63,11 +63,11 @@
   "neutral": false,
   "home_team": "BOS",
   "away_team": "ATL",
-  "total_line": 220.5,
+  "total_line": 221.5,
   "spread_home": -9.5,
   "ml_home": -361.0,
   "ml_away": 288.0,
-  "odds_provider": "Draft Kings"
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909331",
@@ -109,7 +109,7 @@
   "spread_home": -6.5,
   "ml_home": -205.0,
   "ml_away": 171.0,
-  "odds_provider": "Draft Kings"
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909334",
@@ -123,7 +123,7 @@
   "spread_home": 9.5,
   "ml_home": 277.0,
   "ml_away": -345.0,
-  "odds_provider": "Draft Kings"
+  "odds_provider": "DraftKings"
  },
  {
   "game_id": "401909335",

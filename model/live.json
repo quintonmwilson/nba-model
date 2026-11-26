@@ -214,9 +214,34 @@
    "h1_line": "BKN 51 \u2013 47 MIL",
    "markets": [],
    "picks": []
+  },
+  "401909321": {
+   "game_id": "401909321",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T01:00Z",
+   "home": "MEM",
+   "away": "LAC",
+   "priced_at": "2026-11-25T21:06:58-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 50.0,
+   "h1_away": 43.0,
+   "pre_2h": 119.55491414414018,
+   "pre_2hm": 11.592714461596394,
+   "mu_2h": 117.35418486276856,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 11.195199787824068,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.9512367111752515,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "LAC 43 \u2013 50 MEM",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T21:05:26-05:00"
+ "updated_at": "2026-11-25T21:06:58-05:00"
 }

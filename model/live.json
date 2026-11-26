@@ -108,10 +108,40 @@
    "book": null,
    "h1_line": "MIA 53 \u2013 62 PHI",
    "markets": [],
+   "picks": [],
+   "final": {
+    "home": 111.0,
+    "away": 104.0
+   },
+   "act_2h": 100.0
+  },
+  "401909318": {
+   "game_id": "401909318",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T00:00Z",
+   "home": "CHA",
+   "away": "CHI",
+   "priced_at": "2026-11-25T20:05:15-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 48.0,
+   "h1_away": 46.0,
+   "pre_2h": 109.70701688785692,
+   "pre_2hm": -1.5378952468403426,
+   "mu_2h": 107.52304517018123,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": -1.4237982990114415,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.5236959485183504,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "CHI 46 \u2013 48 CHA",
+   "markets": [],
    "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T19:30:40-05:00"
+ "updated_at": "2026-11-25T20:05:15-05:00"
 }

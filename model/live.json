@@ -164,9 +164,34 @@
    "h1_line": "CLE 61 \u2013 56 NY",
    "markets": [],
    "picks": []
+  },
+  "401909320": {
+   "game_id": "401909320",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T00:30Z",
+   "home": "OKC",
+   "away": "MIN",
+   "priced_at": "2026-11-25T20:44:23-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 53.0,
+   "h1_away": 47.0,
+   "pre_2h": 111.64658259121325,
+   "pre_2hm": -2.0114246950742825,
+   "mu_2h": 110.30630665611682,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": -2.5395169297352465,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.6258774355120669,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "MIN 47 \u2013 53 OKC",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T20:42:50-05:00"
+ "updated_at": "2026-11-25T20:44:23-05:00"
 }

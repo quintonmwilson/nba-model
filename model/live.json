@@ -138,7 +138,12 @@
    "book": null,
    "h1_line": "CHI 46 \u2013 48 CHA",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 105.0,
+    "away": 107.0
+   },
+   "act_2h": 118.0
   },
   "401909319": {
    "game_id": "401909319",
@@ -239,9 +244,34 @@
    "h1_line": "LAC 43 \u2013 50 MEM",
    "markets": [],
    "picks": []
+  },
+  "401909323": {
+   "game_id": "401909323",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T01:30Z",
+   "home": "HOU",
+   "away": "PHX",
+   "priced_at": "2026-11-25T21:50:36-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 66.0,
+   "h1_away": 56.0,
+   "pre_2h": 119.58590190213448,
+   "pre_2hm": 1.6495995159080223,
+   "mu_2h": 119.3223381105284,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 2.2807052913196024,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.8687908651188152,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "PHX 56 \u2013 66 HOU",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T21:06:58-05:00"
+ "updated_at": "2026-11-25T21:50:36-05:00"
 }

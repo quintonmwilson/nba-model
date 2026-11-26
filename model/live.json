@@ -139,9 +139,34 @@
    "h1_line": "CHI 46 \u2013 48 CHA",
    "markets": [],
    "picks": []
+  },
+  "401909319": {
+   "game_id": "401909319",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T00:30Z",
+   "home": "NY",
+   "away": "CLE",
+   "priced_at": "2026-11-25T20:42:50-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 56.0,
+   "h1_away": 61.0,
+   "pre_2h": 110.84879099482494,
+   "pre_2hm": 1.318189482296944,
+   "mu_2h": 110.33078749756952,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 3.385799584733694,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.4446556624237361,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "CLE 61 \u2013 56 NY",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T20:05:15-05:00"
+ "updated_at": "2026-11-25T20:42:50-05:00"
 }

@@ -168,7 +168,12 @@
    "book": null,
    "h1_line": "CLE 61 \u2013 56 NY",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 121.0,
+    "away": 102.0
+   },
+   "act_2h": 106.0
   },
   "401909320": {
    "game_id": "401909320",
@@ -193,7 +198,12 @@
    "book": null,
    "h1_line": "MIN 47 \u2013 53 OKC",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 106.0,
+    "away": 113.0
+   },
+   "act_2h": 119.0
   },
   "401909322": {
    "game_id": "401909322",
@@ -218,7 +228,12 @@
    "book": null,
    "h1_line": "BKN 51 \u2013 47 MIL",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 97.0,
+    "away": 104.0
+   },
+   "act_2h": 103.0
   },
   "401909321": {
    "game_id": "401909321",
@@ -243,7 +258,12 @@
    "book": null,
    "h1_line": "LAC 43 \u2013 50 MEM",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 115.0,
+    "away": 97.0
+   },
+   "act_2h": 119.0
   },
   "401909323": {
    "game_id": "401909323",
@@ -268,10 +288,40 @@
    "book": null,
    "h1_line": "PHX 56 \u2013 66 HOU",
    "markets": [],
+   "picks": [],
+   "final": {
+    "home": 116.0,
+    "away": 104.0
+   },
+   "act_2h": 98.0
+  },
+  "401909324": {
+   "game_id": "401909324",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T03:00Z",
+   "home": "GS",
+   "away": "SAC",
+   "priced_at": "2026-11-25T23:08:50-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 72.0,
+   "h1_away": 53.0,
+   "pre_2h": 112.24960899608016,
+   "pre_2hm": 4.82710817940508,
+   "mu_2h": 112.18143899087455,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 3.706429065734861,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.9805857512383732,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "SAC 53 \u2013 72 GS",
+   "markets": [],
    "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T21:50:36-05:00"
+ "updated_at": "2026-11-25T23:08:50-05:00"
 }

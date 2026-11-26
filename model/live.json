@@ -319,9 +319,34 @@
    "h1_line": "SAC 53 \u2013 72 GS",
    "markets": [],
    "picks": []
+  },
+  "401909325": {
+   "game_id": "401909325",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T03:00Z",
+   "home": "POR",
+   "away": "SA",
+   "priced_at": "2026-11-25T23:16:23-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 60.0,
+   "h1_away": 57.0,
+   "pre_2h": 108.2207601972073,
+   "pre_2hm": 2.3645350619030268,
+   "mu_2h": 107.21414424635401,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 1.4428014861379606,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.6591052237268057,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "SA 57 \u2013 60 POR",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T23:08:50-05:00"
+ "updated_at": "2026-11-25T23:16:23-05:00"
 }

@@ -189,9 +189,34 @@
    "h1_line": "MIN 47 \u2013 53 OKC",
    "markets": [],
    "picks": []
+  },
+  "401909322": {
+   "game_id": "401909322",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-26T01:00Z",
+   "home": "MIL",
+   "away": "BKN",
+   "priced_at": "2026-11-25T21:05:26-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 47.0,
+   "h1_away": 51.0,
+   "pre_2h": 121.71260688613,
+   "pre_2hm": 3.153579248302485,
+   "mu_2h": 119.95737394545098,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 4.3806493188354265,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.5166314089555063,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "BKN 51 \u2013 47 MIL",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T20:44:23-05:00"
+ "updated_at": "2026-11-25T21:05:26-05:00"
 }

@@ -84,9 +84,34 @@
    "h1_line": "DAL 58 \u2013 39 DEN",
    "markets": [],
    "picks": []
+  },
+  "401909317": {
+   "game_id": "401909317",
+   "date": "2026-11-25",
+   "start_utc": "2026-11-25T22:00Z",
+   "home": "PHI",
+   "away": "MIA",
+   "priced_at": "2026-11-25T19:30:40-05:00",
+   "late": true,
+   "pre_source": "prediction log",
+   "h1_home": 62.0,
+   "h1_away": 53.0,
+   "pre_2h": 118.41059104352955,
+   "pre_2hm": 3.2376694727687934,
+   "mu_2h": 116.84201846544256,
+   "sd_2h": 13.978623171092181,
+   "mu_2hm": 2.1296705627381876,
+   "sd_2hm": 11.017732580699835,
+   "p_home_win": 0.8452634758422571,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "MIA 53 \u2013 62 PHI",
+   "markets": [],
+   "picks": []
   }
  },
- "model_through": "2026-11-23",
+ "model_through": "2026-11-24",
  "halftime_fitted": true,
- "updated_at": "2026-11-25T00:01:21-05:00"
+ "updated_at": "2026-11-25T19:30:40-05:00"
 }

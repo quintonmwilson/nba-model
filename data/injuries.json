@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-27T12:00:46-05:00",
- "official_report": "2026-11-27T12:00:00-05:00",
+ "fetched_at": "2026-11-27T18:15:34-05:00",
+ "official_report": "2026-11-27T18:15:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -68,8 +68,8 @@
    "name": "Mitchell Robinson",
    "espn_status": "Out",
    "detail": "Other Illness",
-   "return_date": "2026-11-27",
-   "comment": "Robinson (illness) is questionable for Friday's game against the Hawks.",
+   "return_date": "2026-11-29",
+   "comment": "Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game.",
    "status": "Out",
    "official_status": null,
    "reason": "Other Illness"
@@ -100,27 +100,27 @@
   },
   {
    "team": "CHA",
-   "player_id": "4576060",
-   "name": "Ryan Kalkbrenner",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Torso Hip",
-   "return_date": "2026-11-28",
-   "comment": "Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Torso Hip"
-  },
-  {
-   "team": "CHA",
    "player_id": "3135045",
    "name": "Grayson Allen",
    "espn_status": "Out",
    "detail": "Head Concussion",
    "return_date": "2026-11-28",
-   "comment": "Allen (concussion) has been ruled out for Wednesday's game against Chicago.",
+   "comment": "Allen (concussion) is questionable for Saturday's game against the Nets.",
    "status": "Out",
    "official_status": null,
    "reason": "Head Concussion"
+  },
+  {
+   "team": "CHA",
+   "player_id": "4576060",
+   "name": "Ryan Kalkbrenner",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-28",
+   "comment": "Kalkbrenner (hip) is probable for Saturday's matchup with Brooklyn.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Torso Hip"
   },
   {
    "team": "CHA",
@@ -148,12 +148,24 @@
   },
   {
    "team": "CHI",
+   "player_id": "5242496",
+   "name": "Noa Essengue",
+   "espn_status": "Day-To-Day",
+   "detail": "Arm Thumb",
+   "return_date": "2026-11-28",
+   "comment": "Essengue (thumb) is probable to play Saturday against the Pacers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Arm Thumb"
+  },
+  {
+   "team": "CHI",
    "player_id": "4397189",
    "name": "Jalen Smith",
    "espn_status": "Day-To-Day",
    "detail": "Other Illness",
    "return_date": "2026-11-28",
-   "comment": "Smith (illness) is listed as out for Wednesday's game against Charlotte.",
+   "comment": "Smith (illness) is listed as probable for Saturday's game against Indiana.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
@@ -205,6 +217,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Toe"
+  },
+  {
+   "team": "DAL",
+   "player_id": "6442",
+   "name": "Kyrie Irving",
+   "espn_status": "Day-To-Day",
+   "detail": "Left Leg Knee",
+   "return_date": "2026-11-27",
+   "comment": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Left Leg Knee"
   },
   {
    "team": "DAL",
@@ -363,6 +387,42 @@
    "reason": "Right Leg Knee"
   },
   {
+   "team": "HOU",
+   "player_id": "2991235",
+   "name": "Steven Adams",
+   "espn_status": "Day-To-Day",
+   "detail": "Leg Knee",
+   "return_date": "2026-11-28",
+   "comment": "Adams (knee) is questionable for Saturday's game against the 76ers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Leg Knee"
+  },
+  {
+   "team": "IND",
+   "player_id": "2530530",
+   "name": "T.J. McConnell",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-11-28",
+   "comment": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "IND",
+   "player_id": "2580365",
+   "name": "Larry Nance Jr.",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Leg Ankle",
+   "return_date": "2026-11-27",
+   "comment": "Nance (ankle) is probable for Friday's game against the 76ers.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Leg Ankle"
+  },
+  {
    "team": "IND",
    "player_id": "4396993",
    "name": "Tyrese Haliburton",
@@ -379,36 +439,12 @@
    "player_id": "3133603",
    "name": "Kelly Oubre Jr.",
    "espn_status": "Day-To-Day",
-   "detail": "Right Arm Hand",
-   "return_date": "2026-11-27",
+   "detail": null,
+   "return_date": null,
    "comment": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration.",
    "status": "Day-To-Day",
    "official_status": null,
-   "reason": "Right Arm Hand"
-  },
-  {
-   "team": "IND",
-   "player_id": "2580365",
-   "name": "Larry Nance Jr.",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Ankle",
-   "return_date": "2026-11-27",
-   "comment": "Nance (ankle) is questionable for Friday's game against the 76ers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Ankle"
-  },
-  {
-   "team": "IND",
-   "player_id": "2530530",
-   "name": "T.J. McConnell",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-11-27",
-   "comment": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
+   "reason": null
   },
   {
    "team": "IND",
@@ -445,18 +481,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Arm Shoulder"
-  },
-  {
-   "team": "LAL",
-   "player_id": "4066457",
-   "name": "Austin Reaves",
-   "espn_status": "Out",
-   "detail": "Left Leg Heel",
-   "return_date": "2026-11-27",
-   "comment": "Reaves (heel) is questionable for Friday's game against the Spurs.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Heel"
   },
   {
    "team": "MEM",
@@ -543,26 +567,26 @@
    "reason": "Right Leg Knee"
   },
   {
-   "team": "MIA",
-   "player_id": "3032977",
-   "name": "Giannis Antetokounmpo",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Groin Groin",
-   "return_date": "2026-11-27",
-   "comment": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis.",
-   "status": "Day-To-Day",
+   "team": "MIL",
+   "player_id": "5214640",
+   "name": "Kasparas Jakucionis",
+   "espn_status": "Out",
+   "detail": "Left Leg Ankle",
+   "return_date": "2026-11-28",
+   "comment": "Jakucionis (ankle) won't play Friday's game against the Pistons.",
+   "status": "Out",
    "official_status": null,
-   "reason": "Right Groin Groin"
+   "reason": "Left Leg Ankle"
   },
   {
    "team": "MIN",
    "player_id": "4432816",
    "name": "LaMelo Ball",
-   "espn_status": "Day-To-Day",
+   "espn_status": "Out",
    "detail": "Left Leg Ankle",
-   "return_date": "2026-11-27",
-   "comment": "Ball (ankle) is questionable for Friday's game against the Grizzlies.",
-   "status": "Day-To-Day",
+   "return_date": "2026-11-29",
+   "comment": "Ball (ankle) has been ruled out for Friday's game against the Grizzlies. The guard was previously questionable after spraining his left ankle during Wednesday's win over Oklahoma City.",
+   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Ankle"
   },
@@ -652,6 +676,42 @@
   },
   {
    "team": "NY",
+   "player_id": "4431823",
+   "name": "Miles McBride",
+   "espn_status": "Out",
+   "detail": "Left Groin Groin",
+   "return_date": "2026-11-29",
+   "comment": "McBride (groin) is out for Friday's game against the Heat.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Groin Groin"
+  },
+  {
+   "team": "NY",
+   "player_id": "3934719",
+   "name": "OG Anunoby",
+   "espn_status": "Out",
+   "detail": "Left Leg Calf",
+   "return_date": "2026-11-29",
+   "comment": "Anunoby (calf) has been ruled out for Friday's game against the Heat. The forward was previously listed as doubtful and will miss his third consecutive contest due to a left calf strain.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Calf"
+  },
+  {
+   "team": "NY",
+   "player_id": "2528426",
+   "name": "Jordan Clarkson",
+   "espn_status": "Out",
+   "detail": "Right Leg Foot",
+   "return_date": "2026-11-29",
+   "comment": "Clarkson (foot) is out for Friday's game against the Heat.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Foot"
+  },
+  {
+   "team": "NY",
    "player_id": "3136195",
    "name": "Karl-Anthony Towns",
    "espn_status": "Day-To-Day",
@@ -673,42 +733,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Head Concussion"
-  },
-  {
-   "team": "NY",
-   "player_id": "4431823",
-   "name": "Miles McBride",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Groin Groin",
-   "return_date": "2026-11-27",
-   "comment": "McBride (groin) is questionable for Friday's game against the Heat.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Groin Groin"
-  },
-  {
-   "team": "NY",
-   "player_id": "2528426",
-   "name": "Jordan Clarkson",
-   "espn_status": "Out",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-27",
-   "comment": "Clarkson (foot) is questionable for Friday's game against the Heat.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Foot"
-  },
-  {
-   "team": "NY",
-   "player_id": "3934719",
-   "name": "OG Anunoby",
-   "espn_status": "Out",
-   "detail": "Left Leg Calf",
-   "return_date": "2026-11-27",
-   "comment": "Anunoby (calf) is doubtful for Friday's game against the Heat.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Left Leg Calf"
   },
   {
    "team": "OKC",
@@ -740,7 +764,7 @@
    "name": "Aday Mara",
    "espn_status": "Out",
    "detail": "Right Leg Lower Leg",
-   "return_date": "2026-11-28",
+   "return_date": "2026-11-30",
    "comment": "Mara (leg) is out for Wednesday's game versus the Timberwolves.",
    "status": "Out",
    "official_status": null,
@@ -793,6 +817,30 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "ORL",
+   "player_id": "4397140",
+   "name": "Kevin Porter Jr.",
+   "espn_status": "Out",
+   "detail": "Not Injury Related",
+   "return_date": "2026-11-29",
+   "comment": "Porter won't play Saturday against the Wizards as he's still in the process of getting up to speed on his conditioning.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Not Injury Related"
+  },
+  {
+   "team": "ORL",
+   "player_id": "4712849",
+   "name": "Anthony Black",
+   "espn_status": "Day-To-Day",
+   "detail": "Torso Back",
+   "return_date": "2026-11-28",
+   "comment": "Black (back) is questionable for Saturday's game against the Wizards.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Torso Back"
   },
   {
    "team": "ORL",
@@ -904,6 +952,18 @@
   },
   {
    "team": "POR",
+   "player_id": "6606",
+   "name": "Damian Lillard",
+   "espn_status": "Out",
+   "detail": "Right Leg Calf",
+   "return_date": "2026-11-29",
+   "comment": "Lillard (calf) has been ruled out for Friday's game against the Warriors. The veteran guard is dealing with right calf tightness and soreness.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Calf"
+  },
+  {
+   "team": "POR",
    "player_id": "4706557",
    "name": "Chris Youngblood",
    "espn_status": "Out",
@@ -993,7 +1053,7 @@
    "espn_status": "Out",
    "detail": "Left Torso Hip",
    "return_date": "2026-11-27",
-   "comment": "Harper (hip) is questionable for Friday's game against the Lakers.",
+   "comment": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Torso Hip"
@@ -1033,18 +1093,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
-  },
-  {
-   "team": "TOR",
-   "player_id": "4702656",
-   "name": "Alijah Martin",
-   "espn_status": "Day-To-Day",
-   "detail": "Left Leg Knee",
-   "return_date": "2026-11-27",
-   "comment": "Martin is questionable for Friday's game against the Nets due to left knee soreness.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Knee"
   },
   {
    "team": "TOR",
@@ -1088,7 +1136,7 @@
    "name": "Mo Bamba",
    "espn_status": "Day-To-Day",
    "detail": "Other Illness",
-   "return_date": "2026-11-29",
+   "return_date": "2026-11-27",
    "comment": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report.",
    "status": "Day-To-Day",
    "official_status": null,

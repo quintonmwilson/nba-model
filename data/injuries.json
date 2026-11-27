@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-26T18:15:41-05:00",
- "official_report": "2026-11-26T18:15:00-05:00",
+ "fetched_at": "2026-11-27T07:00:52-05:00",
+ "official_report": "2026-11-27T07:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -212,23 +212,11 @@
    "name": "Tobi Lawal",
    "espn_status": "Out",
    "detail": "Right Groin Groin",
-   "return_date": "2026-11-27",
-   "comment": "Lawal (groin) is out for Tuesday's game against Denver.",
+   "return_date": "2026-11-30",
+   "comment": "Lawal (groin) is out for Friday's game against the Suns.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Groin Groin"
-  },
-  {
-   "team": "DAL",
-   "player_id": "4683688",
-   "name": "Dereck Lively II",
-   "espn_status": "Out",
-   "detail": "Right Leg Foot",
-   "return_date": "2026-11-27",
-   "comment": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's \"close\" to returning, Mike Curtis of The Dallas Morning News reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Right Leg Foot"
   },
   {
    "team": "DAL",
@@ -236,11 +224,23 @@
    "name": "Sergio de Larrea",
    "espn_status": "Out",
    "detail": "Right Leg Knee",
-   "return_date": "2026-11-27",
-   "comment": "De Larrea (knee) is listed as out for Wednesday's game against the Warriors.",
+   "return_date": "2026-12-14",
+   "comment": "De Larrea (knee) is out for Friday's game against the Suns.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Knee"
+  },
+  {
+   "team": "DAL",
+   "player_id": "4683688",
+   "name": "Dereck Lively II",
+   "espn_status": "Out",
+   "detail": "Right Leg Foot",
+   "return_date": "2026-11-30",
+   "comment": "Lively (foot) is out for Friday's game against the Suns.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Right Leg Foot"
   },
   {
    "team": "DAL",
@@ -248,8 +248,8 @@
    "name": "Tarik Biberovic",
    "espn_status": "Out",
    "detail": "Right Leg Heel",
-   "return_date": "2026-11-27",
-   "comment": "Biberovic (heel) is out for Wednesday's game against the Warriors.",
+   "return_date": "2026-12-04",
+   "comment": "Biberovic (heel) is out for Friday's game against the Suns.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Heel"
@@ -364,6 +364,18 @@
   },
   {
    "team": "IND",
+   "player_id": "3133603",
+   "name": "Kelly Oubre Jr.",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Arm Hand",
+   "return_date": "2026-11-27",
+   "comment": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Arm Hand"
+  },
+  {
+   "team": "IND",
    "player_id": "2580365",
    "name": "Larry Nance Jr.",
    "espn_status": "Day-To-Day",
@@ -373,18 +385,6 @@
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Ankle"
-  },
-  {
-   "team": "IND",
-   "player_id": "4396909",
-   "name": "Aaron Nesmith",
-   "espn_status": "Day-To-Day",
-   "detail": "Leg Foot",
-   "return_date": "2026-11-27",
-   "comment": "Nesmith (foot) is questionable for Friday's game against the 76ers.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Leg Foot"
   },
   {
    "team": "IND",
@@ -453,10 +453,22 @@
    "espn_status": "Out",
    "detail": "Left Leg Heel",
    "return_date": "2026-11-27",
-   "comment": "Reaves (heel) was a full participant in Wednesday's practice, Daniel Starkand of LakersNation.com reports.",
+   "comment": "Reaves (heel) is questionable for Friday's game against the Spurs.",
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Heel"
+  },
+  {
+   "team": "MEM",
+   "player_id": "4432810",
+   "name": "Isaiah Stewart",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Torso Hip",
+   "return_date": "2026-11-27",
+   "comment": "Stewart is questionable for Friday's game against the Timberwolves due to right hip soreness.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Torso Hip"
   },
   {
    "team": "MEM",
@@ -465,7 +477,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Ankle",
    "return_date": "2026-11-27",
-   "comment": "Edey (ankle) did not return to Wednesday's 115-97 win over the Clippers. He finished with seven points (3-4 FG, 1-1 FT), four rebounds, two assists and two blocks across nine minutes.",
+   "comment": "Edey (ankle) is questionable for Friday's game against the Timberwolves.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Ankle"
@@ -561,7 +573,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Ankle",
    "return_date": "2026-11-27",
-   "comment": "Ball (ankle) did not return to Wednesday's 113-106 win over the Thunder.",
+   "comment": "Ball (ankle) is questionable for Friday's game against the Grizzlies.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Ankle"
@@ -896,8 +908,8 @@
    "name": "Chris Youngblood",
    "espn_status": "Out",
    "detail": "Right Leg Heel",
-   "return_date": "2026-11-27",
-   "comment": "Youngblood (heel) has been ruled out for Saturday's game against the Knicks.",
+   "return_date": "2026-11-29",
+   "comment": "Youngblood (heel) is out for Friday's game against the Warriors.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Heel"
@@ -976,27 +988,27 @@
   },
   {
    "team": "SA",
+   "player_id": "5037871",
+   "name": "Dylan Harper",
+   "espn_status": "Out",
+   "detail": "Left Torso Hip",
+   "return_date": "2026-11-27",
+   "comment": "Harper (hip) is questionable for Friday's game against the Lakers.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Torso Hip"
+  },
+  {
+   "team": "SA",
    "player_id": "4066259",
    "name": "De'Aaron Fox",
    "espn_status": "Day-To-Day",
    "detail": "Right Leg Lower Leg",
    "return_date": "2026-11-27",
-   "comment": "Fox (shin) has been ruled out for Wednesday's game against Portland, Jeff McDonald of the San Antonio Express-News reports.",
+   "comment": "Fox (shin) is questionable for Friday's game against the Lakers.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Right Leg Lower Leg"
-  },
-  {
-   "team": "SA",
-   "player_id": "5037871",
-   "name": "Dylan Harper",
-   "espn_status": "Out",
-   "detail": "Torso Hip",
-   "return_date": "2026-12-13",
-   "comment": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports.",
-   "status": "Out",
-   "official_status": null,
-   "reason": "Torso Hip"
   },
   {
    "team": "SA",
@@ -1077,7 +1089,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Left Leg Knee",
    "return_date": "2026-11-27",
-   "comment": "Hayes (knee) has been ruled out for Monday's game against the Lakers.",
+   "comment": "Hayes (knee) is questionable for Friday's game against the Nuggets.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Left Leg Knee"
@@ -1088,8 +1100,8 @@
    "name": "Jusuf Nurkic",
    "espn_status": "Out",
    "detail": "Right Leg Foot",
-   "return_date": "2026-11-29",
-   "comment": "Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week.",
+   "return_date": "2026-11-27",
+   "comment": "Nurkic (foot) is questionable for Friday's game against the Nuggets.",
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Foot"

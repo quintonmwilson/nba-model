@@ -1,6 +1,6 @@
 {
- "fetched_at": "2026-11-27T07:00:52-05:00",
- "official_report": "2026-11-27T07:00:00-05:00",
+ "fetched_at": "2026-11-27T12:00:46-05:00",
+ "official_report": "2026-11-27T12:00:00-05:00",
  "players": [
   {
    "team": "ATL",
@@ -364,6 +364,18 @@
   },
   {
    "team": "IND",
+   "player_id": "4396993",
+   "name": "Tyrese Haliburton",
+   "espn_status": "Out",
+   "detail": "Left Leg Hamstring",
+   "return_date": "2026-12-13",
+   "comment": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Left Leg Hamstring"
+  },
+  {
+   "team": "IND",
    "player_id": "3133603",
    "name": "Kelly Oubre Jr.",
    "espn_status": "Day-To-Day",
@@ -395,18 +407,6 @@
    "return_date": "2026-11-27",
    "comment": "McConnell (hamstring) is questionable for Friday's game against the 76ers.",
    "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Left Leg Hamstring"
-  },
-  {
-   "team": "IND",
-   "player_id": "4396993",
-   "name": "Tyrese Haliburton",
-   "espn_status": "Out",
-   "detail": "Left Leg Hamstring",
-   "return_date": "2026-12-13",
-   "comment": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports.",
-   "status": "Out",
    "official_status": null,
    "reason": "Left Leg Hamstring"
   },
@@ -555,18 +555,6 @@
    "reason": "Right Groin Groin"
   },
   {
-   "team": "MIA",
-   "player_id": "3059319",
-   "name": "Andrew Wiggins",
-   "espn_status": "Day-To-Day",
-   "detail": "Right Leg Ankle",
-   "return_date": "2026-11-27",
-   "comment": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Right Leg Ankle"
-  },
-  {
    "team": "MIN",
    "player_id": "4432816",
    "name": "LaMelo Ball",
@@ -664,6 +652,30 @@
   },
   {
    "team": "NY",
+   "player_id": "3136195",
+   "name": "Karl-Anthony Towns",
+   "espn_status": "Day-To-Day",
+   "detail": "Right Torso Abdomen",
+   "return_date": "2026-11-27",
+   "comment": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Right Torso Abdomen"
+  },
+  {
+   "team": "NY",
+   "player_id": "6585",
+   "name": "Andre Drummond",
+   "espn_status": "Out",
+   "detail": "Head Concussion",
+   "return_date": "2026-11-29",
+   "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat.",
+   "status": "Out",
+   "official_status": null,
+   "reason": "Head Concussion"
+  },
+  {
+   "team": "NY",
    "player_id": "4431823",
    "name": "Miles McBride",
    "espn_status": "Day-To-Day",
@@ -697,18 +709,6 @@
    "status": "Out",
    "official_status": null,
    "reason": "Left Leg Calf"
-  },
-  {
-   "team": "NY",
-   "player_id": "6585",
-   "name": "Andre Drummond",
-   "espn_status": "Day-To-Day",
-   "detail": "Head Head",
-   "return_date": "2026-11-27",
-   "comment": "Drummond (head) is questionable for Friday's game against the Heat.",
-   "status": "Day-To-Day",
-   "official_status": null,
-   "reason": "Head Head"
   },
   {
    "team": "OKC",
@@ -861,7 +861,7 @@
    "espn_status": "Day-To-Day",
    "detail": "Other Illness",
    "return_date": "2026-11-27",
-   "comment": "Embiid (illness) is questionable for Friday's game against the Pacers.",
+   "comment": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports.",
    "status": "Day-To-Day",
    "official_status": null,
    "reason": "Other Illness"
@@ -1081,6 +1081,18 @@
    "status": "Out",
    "official_status": null,
    "reason": "Right Leg Hamstring"
+  },
+  {
+   "team": "UTAH",
+   "player_id": "4277919",
+   "name": "Mo Bamba",
+   "espn_status": "Day-To-Day",
+   "detail": "Other Illness",
+   "return_date": "2026-11-29",
+   "comment": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report.",
+   "status": "Day-To-Day",
+   "official_status": null,
+   "reason": "Other Illness"
   },
   {
    "team": "UTAH",

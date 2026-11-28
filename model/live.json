@@ -99,9 +99,34 @@
    "h1_line": "BKN 55 \u2013 63 TOR",
    "markets": [],
    "picks": []
+  },
+  "401909330": {
+   "game_id": "401909330",
+   "date": "2026-11-27",
+   "start_utc": "2026-11-28T01:00Z",
+   "home": "BOS",
+   "away": "ATL",
+   "priced_at": "2026-11-27T21:06:56-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 51.0,
+   "h1_away": 39.0,
+   "pre_2h": 107.2574704644121,
+   "pre_2hm": -0.8612781374813991,
+   "mu_2h": 105.11914004981173,
+   "sd_2h": 13.948285708874101,
+   "mu_2hm": -0.41162903466167466,
+   "sd_2hm": 11.008207659334557,
+   "p_home_win": 0.8551620014721775,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "ATL 39 \u2013 51 BOS",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-25",
  "halftime_fitted": true,
- "updated_at": "2026-11-27T20:41:22-05:00"
+ "updated_at": "2026-11-27T21:06:56-05:00"
 }

@@ -1,6 +1,32 @@
 {
- "games": {},
+ "games": {
+  "401909326": {
+   "game_id": "401909326",
+   "date": "2026-11-27",
+   "start_utc": "2026-11-28T00:00Z",
+   "home": "NY",
+   "away": "MIA",
+   "priced_at": "2026-11-27T20:11:16-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 44.0,
+   "h1_away": 60.0,
+   "pre_2h": 109.84245958864108,
+   "pre_2hm": 4.413802657288613,
+   "mu_2h": 108.31577432040285,
+   "sd_2h": 13.948285708874101,
+   "mu_2hm": 7.406422416713101,
+   "sd_2hm": 11.008207659334557,
+   "p_home_win": 0.21985668587438284,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "MIA 60 \u2013 44 NY",
+   "markets": [],
+   "picks": []
+  }
+ },
  "model_through": "2026-11-25",
  "halftime_fitted": true,
- "updated_at": "2026-11-27T05:07:50-05:00"
+ "updated_at": "2026-11-27T20:11:16-05:00"
 }

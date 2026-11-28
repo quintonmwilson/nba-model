@@ -24,9 +24,34 @@
    "h1_line": "MIA 60 \u2013 44 NY",
    "markets": [],
    "picks": []
+  },
+  "401909327": {
+   "game_id": "401909327",
+   "date": "2026-11-27",
+   "start_utc": "2026-11-28T00:30Z",
+   "home": "DET",
+   "away": "MIL",
+   "priced_at": "2026-11-27T20:36:50-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 48.0,
+   "h1_away": 50.0,
+   "pre_2h": 118.64205694199859,
+   "pre_2hm": 4.542485037686035,
+   "mu_2h": 117.43163156300753,
+   "sd_2h": 13.948285708874101,
+   "mu_2hm": 6.52181474344119,
+   "sd_2hm": 11.008207659334557,
+   "p_home_win": 0.661860765571845,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "MIL 50 \u2013 48 DET",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-25",
  "halftime_fitted": true,
- "updated_at": "2026-11-27T20:11:16-05:00"
+ "updated_at": "2026-11-27T20:36:50-05:00"
 }

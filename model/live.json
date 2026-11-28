@@ -224,9 +224,34 @@
    "h1_line": "DEN 52 \u2013 53 UTAH",
    "markets": [],
    "picks": []
+  },
+  "401909335": {
+   "game_id": "401909335",
+   "date": "2026-11-27",
+   "start_utc": "2026-11-28T02:30Z",
+   "home": "LAC",
+   "away": "NO",
+   "priced_at": "2026-11-27T22:38:47-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 50.0,
+   "h1_away": 54.0,
+   "pre_2h": 121.9134931126502,
+   "pre_2hm": -1.5396715866699182,
+   "mu_2h": 120.55751056304427,
+   "sd_2h": 13.948285708874101,
+   "mu_2hm": -0.5715238322416836,
+   "sd_2hm": 11.008207659334557,
+   "p_home_win": 0.3417566218947915,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "NO 54 \u2013 50 LAC",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-25",
  "halftime_fitted": true,
- "updated_at": "2026-11-27T22:32:44-05:00"
+ "updated_at": "2026-11-27T22:38:47-05:00"
 }

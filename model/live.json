@@ -23,7 +23,12 @@
    "book": null,
    "h1_line": "MIA 60 \u2013 44 NY",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 105.0,
+    "away": 108.0
+   },
+   "act_2h": 109.0
   },
   "401909327": {
    "game_id": "401909327",
@@ -48,7 +53,12 @@
    "book": null,
    "h1_line": "MIL 50 \u2013 48 DET",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 113.0,
+    "away": 98.0
+   },
+   "act_2h": 113.0
   },
   "401909328": {
    "game_id": "401909328",
@@ -73,7 +83,12 @@
    "book": null,
    "h1_line": "PHI 55 \u2013 44 IND",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 87.0,
+    "away": 111.0
+   },
+   "act_2h": 99.0
   },
   "401909329": {
    "game_id": "401909329",
@@ -98,7 +113,12 @@
    "book": null,
    "h1_line": "BKN 55 \u2013 63 TOR",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 124.0,
+    "away": 100.0
+   },
+   "act_2h": 106.0
   },
   "401909330": {
    "game_id": "401909330",
@@ -149,9 +169,34 @@
    "h1_line": "MEM 61 \u2013 50 MIN",
    "markets": [],
    "picks": []
+  },
+  "401909332": {
+   "game_id": "401909332",
+   "date": "2026-11-27",
+   "start_utc": "2026-11-28T02:00Z",
+   "home": "PHX",
+   "away": "DAL",
+   "priced_at": "2026-11-27T22:10:10-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 63.0,
+   "h1_away": 53.0,
+   "pre_2h": 113.01503096599126,
+   "pre_2hm": -0.5648434376569398,
+   "mu_2h": 112.14908674705359,
+   "sd_2h": 13.948285708874101,
+   "mu_2hm": -1.3959757813540434,
+   "sd_2hm": 11.008207659334557,
+   "p_home_win": 0.7846532146202871,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "DAL 53 \u2013 63 PHX",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-25",
  "halftime_fitted": true,
- "updated_at": "2026-11-27T21:35:31-05:00"
+ "updated_at": "2026-11-27T22:10:10-05:00"
 }

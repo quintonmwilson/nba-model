@@ -143,7 +143,12 @@
    "book": null,
    "h1_line": "ATL 39 \u2013 51 BOS",
    "markets": [],
-   "picks": []
+   "picks": [],
+   "final": {
+    "home": 86.0,
+    "away": 87.0
+   },
+   "act_2h": 83.0
   },
   "401909331": {
    "game_id": "401909331",
@@ -194,9 +199,34 @@
    "h1_line": "DAL 53 \u2013 63 PHX",
    "markets": [],
    "picks": []
+  },
+  "401909334": {
+   "game_id": "401909334",
+   "date": "2026-11-27",
+   "start_utc": "2026-11-28T02:30Z",
+   "home": "UTAH",
+   "away": "DEN",
+   "priced_at": "2026-11-27T22:32:44-05:00",
+   "late": false,
+   "pre_source": "prediction log",
+   "h1_home": 53.0,
+   "h1_away": 52.0,
+   "pre_2h": 112.64048985496555,
+   "pre_2hm": 0.9810447609470145,
+   "mu_2h": 111.28043516320123,
+   "sd_2h": 13.948285708874101,
+   "mu_2hm": 0.2389899414150206,
+   "sd_2hm": 11.008207659334557,
+   "p_home_win": 0.547612355659435,
+   "h2_total_line": null,
+   "h2_spread_home": null,
+   "book": null,
+   "h1_line": "DEN 52 \u2013 53 UTAH",
+   "markets": [],
+   "picks": []
   }
  },
  "model_through": "2026-11-25",
  "halftime_fitted": true,
- "updated_at": "2026-11-27T22:10:10-05:00"
+ "updated_at": "2026-11-27T22:32:44-05:00"
 }
